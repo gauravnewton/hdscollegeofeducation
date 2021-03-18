@@ -18,7 +18,7 @@ class Accounts extends CI_Controller {
 
       $this->load->model('queries'); 
       
-      if(isset($data['login-type'])){
+      if(isset($data['login-type']) || true){
           //admin login
           $adminExists = $this->queries->adminExists($userName,$password);
           if($adminExists){

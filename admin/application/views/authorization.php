@@ -6,11 +6,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Lead Automation</title>
+  <title>H. D. S. College (Authorization)</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!--site fav icon -->
-  <link rel="icon" href="<?=base_url()?>assets/dist/img/LOGO AUFIERO GRANDE.png" >
+  <!-- <link rel="icon" href="<?=base_url()?>assets/dist/img/LOGO AUFIERO GRANDE.png" > -->
 
   <!-- Custom Style -->
   <link rel="stylesheet" href="<?php echo $this->config->base_url() ?>assets/dist/css/custom-style.css">
@@ -33,10 +33,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   <div class="login-logo">
     <div class="row">
       <div class="col-sm-12">
-      <img src='<?=base_url()?>assets/dist/img/LOGO AUFIERO GRANDE.png' class="img-responsive brand-logo"/>
+      <!-- <img src='<?=base_url()?>assets/dist/img/LOGO AUFIERO GRANDE.png' class="img-responsive brand-logo"/> -->
       </div>
     </div>
-    <a href=""><b>Leads</b> Automation</a>
+    <a href=""><b>H. D. S. College </b> <small>of Education</small></a>
   </div>
   <!-- /.login-logo -->
   <div class="card">

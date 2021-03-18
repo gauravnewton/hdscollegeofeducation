@@ -3563,3 +3563,13 @@ ul{
     color: #999;
     line-height: 2em
 }
+
+.select-style{
+	background: #fff;
+    padding: 12px;
+    border: none;
+    font-size: 14px;
+    color: #212121;
+    width: 100%;
+    margin: 1.5em 0 0;
+}
