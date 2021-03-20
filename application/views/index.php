@@ -267,17 +267,23 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<div class="container">
 			<div class="col-md-6 w3layouts_register_right">
 				<form action="#" method="post">	
-					<input name="Name" placeholder="First Name" type="text" required="">
-					<input name="Name" placeholder="Last Name" type="text" required="">
+					<input name="Name" placeholder="Full Name" type="text" required="">
 					<input name="Email" placeholder="Email" type="email" required="">
-					<input name="Subject" placeholder="Subject" type="text" required="">
+					<input name="Course" placeholder="Course" type="text" required="">
+
+					<select name="CourseStart" class="select-style" placeholder="Select Starting year of course">
+						<option value="">Select starting year of course</option>
+					</select>
+
+					<select name="CourseEnd" class="select-style" placeholder="Select Ending year of course">
+						<option value="">Select ending year of course</option>
+					</select>
 					<input type="submit" value="Send">
 				</form>
 			</div>
 			<div class="col-md-6 w3layouts_register_left">
-				<h3><span>Register</span> now</h3>
-				<p>Aliquam sit amet sapien felis. Proin vel dolor sed risus maximus gravida. 
-					Ut suscipit orci sem, eget lobortis sem dictum eu. Etiam congue ex sed volutpat fringilla.</p>
+				<h3><span>Register</span> as alumni now</h3>
+				<p>Are you an ex student of H. D. S. College of Education, then register yourself as an alumni by providing mentioned details.</p>
 			</div>
 			<div class="clearfix"> </div>
 		</div>
