@@ -744,3 +744,25 @@ INFO - 2021-03-18 06:29:26 --> Controller Class Initialized
 INFO - 2021-03-18 06:29:26 --> Model "Queries" initialized
 ERROR - 2021-03-18 06:29:26 --> Query error: Table 'hdscollegeofeducation.import_batch' doesn't exist - Invalid query: select SUM(total_commercial) as total_commercial,SUM(total_edu) as total_edu, SUM(total_business) as total_business,  SUM(total_home) as total_home from import_batch;
 INFO - 2021-03-18 06:29:26 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-03-18 06:34:02 --> Config Class Initialized
+INFO - 2021-03-18 06:34:02 --> Hooks Class Initialized
+DEBUG - 2021-03-18 06:34:02 --> UTF-8 Support Enabled
+INFO - 2021-03-18 06:34:02 --> Utf8 Class Initialized
+INFO - 2021-03-18 06:34:02 --> URI Class Initialized
+INFO - 2021-03-18 06:34:02 --> Router Class Initialized
+INFO - 2021-03-18 06:34:02 --> Output Class Initialized
+INFO - 2021-03-18 06:34:02 --> Security Class Initialized
+DEBUG - 2021-03-18 06:34:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-18 06:34:02 --> Input Class Initialized
+INFO - 2021-03-18 06:34:02 --> Language Class Initialized
+INFO - 2021-03-18 06:34:02 --> Loader Class Initialized
+INFO - 2021-03-18 06:34:02 --> Helper loaded: url_helper
+INFO - 2021-03-18 06:34:02 --> Database Driver Class Initialized
+INFO - 2021-03-18 06:34:02 --> Helper loaded: form_helper
+INFO - 2021-03-18 06:34:02 --> Form Validation Class Initialized
+DEBUG - 2021-03-18 06:34:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-18 06:34:02 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-18 06:34:02 --> Controller Class Initialized
+INFO - 2021-03-18 06:34:02 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\authorization.php
+INFO - 2021-03-18 06:34:02 --> Final output sent to browser
+DEBUG - 2021-03-18 06:34:02 --> Total execution time: 0.0520

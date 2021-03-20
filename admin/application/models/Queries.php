@@ -555,5 +555,20 @@ class Queries extends CI_Model{
         $sql = "SELECT * from logs;";
         return $this->db->query($sql)->result_array();
     }
+
+    public function persistsImage($fileName){
+        $data = array(
+            "path" => $fileName,
+            "status" => "active"
+        );
+        if($this->db->insert('gallery',$data)){
+            return $this->db->insert_id();
+        }
+    }
+
+    public function getGalleryImages(){
+        $sql = "select * from gallery where status = 'active' ";
+        return $this->db->query($sql)->result_array();
+    }
 }
 ?>

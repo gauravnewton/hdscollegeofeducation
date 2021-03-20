@@ -75,3 +75,7 @@
 .vertically-align{
     vertical-align: middle !important;
 }
+
+.modal-header{
+    display: table !important;
+}

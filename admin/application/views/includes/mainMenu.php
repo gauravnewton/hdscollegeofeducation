@@ -16,6 +16,7 @@
     $api = false;
     $records = false;
     $logs = false;
+    $gallery = false;
     
 
     /**
@@ -32,9 +33,13 @@
     $apiManagement = false;
     $listRecords = false;
     $recordLogs = false;
+    $galleryViewUpload = false;
 
 
     switch ($currentContext) {
+        case GALLERY:
+            $gallery = true;
+            break;
         case DASHBOARD:
             $dashBoard = true;
             break;
@@ -67,6 +72,9 @@
 
 
     switch ($subMenu) {
+        case GALLERYVIEUPLOAD:
+            $galleryViewUpload = true;
+            break;
         case USER_SIGNUP:
             $userSignUp = true;
             break;
@@ -115,7 +123,34 @@
             </a>
         </li>
 
-        <!-- Brands -->
+
+         <!-- GALLERY -->
+         <li class="nav-item has-treeview <?php $gallery ? print_r('menu-open') : ''?>">
+            <a href="#" class="nav-link <?php $gallery ? print_r('active') : '' ?>">
+              <i class="nav-icon fa fa-picture-o"></i>
+              <p>
+                <?php echo GALLERY ?>
+                <i class="right fas fa-angle-left"></i>
+              </p>
+            </a>
+            <ul class="nav nav-treeview">
+            
+              <li class="nav-item">
+                <a href="<?php echo base_url() ?>gallery" class="nav-link <?php $galleryViewUpload ? print_r('active') : '' ?>">
+                  <i class="fa fa-file-image-o  nav-icon"></i>
+                  <p><?php echo GALLERYVIEUPLOAD ?></p>
+                </a>
+              </li>
+              
+            </ul>
+        </li>
+
+
+      <?php
+
+      /**
+
+        Brands
         <li class="nav-item has-treeview <?php $brand ? print_r('menu-open') : ''?>">
             <a href="#" class="nav-link <?php $brand ? print_r('active') : '' ?>">
               <i class="nav-icon fa fa-building"></i>
@@ -345,6 +380,12 @@
    
             </ul>
         </li>
+
+
+         **/
+
+         ?>
+
 
         <!-- Logout -->
         <li class="nav-item has-treeview">

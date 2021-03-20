@@ -10,8 +10,10 @@
 				<div class="w3agile_footer_grids">
 					<div class="col-md-4 w3agile_footer_grid">
 						<h3>About Us</h3>
-						<p>Duis aute irure dolor in reprehenderit in voluptate velit esse.<span>Excepteur sint occaecat cupidatat 
-							non proident, sunt in culpa qui officia deserunt mollit.</span></p>
+						<p class="text-justify">The main vision of the college is to recognize and improve the internal and external capabilities of the entrants so that they 
+							can ideally fulfill their responsibility towards their home, society and country and their society and country. 
+							To develop in the right direction
+						</p>
 					</div>
 					<div class="col-md-4 w3agile_footer_grid">
 						<h3>Contact Info</h3>

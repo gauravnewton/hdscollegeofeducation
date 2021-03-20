@@ -131,6 +131,12 @@ defined('REPORTS') OR define('REPORTS','Reports');
 defined('API') OR define('API','API');
 defined('RECORDS') OR define('RECORDS','Records');
 defined('LOGS') OR define('LOGS','Logs');
+defined('GALLERY') OR define('GALLERY', 'Gallery');
+defined('GALLERYVIEUPLOAD') OR define('GALLERYVIEUPLOAD', 'Site Gallery');
+defined('UPLOAD_PATH') OR define('UPLOAD_PATH','../../assets/uploads/');
+defined('ALLOWED_WIDTH') OR define('ALLOWED_WIDTH',800);
+defined('ALLOWED_HEIGHT') OR define('ALLOWED_HEIGHT',800);
+
 
 
 
