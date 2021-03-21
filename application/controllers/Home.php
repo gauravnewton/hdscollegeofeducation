@@ -20,6 +20,8 @@ class Home extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('index');
+		$data['page_title'] = 'H.D.S. College (Homepage)';
+        $this->session->set_userdata(['menuSelected'=>HOME,'subMenu'=>'']);
+		$this->load->view('index',$data);
 	}
 }

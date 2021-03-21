@@ -5,100 +5,62 @@
     /**
      * top level menus
      */
-    $dashBoard = false;
-    $api = false;
-    $users = false;
-    $brand = false;
-    $document = false;
-    $report = false;
-    $keywords = false;
-    $reports = false;
-    $api = false;
-    $records = false;
-    $logs = false;
+    $home = false;
     
 
     /**
      * first level sub menus
      */
-    $userSignUp = false;
-    $userList = false;
-    $addBrand = false;
-    $brandList = false;
-    $documentUpload = false;
-    $documentList = false;
-    $keywordAio = false;
-    $viewReport = false;
-    $apiManagement = false;
-    $listRecords = false;
-    $recordLogs = false;
-
+    
 
     switch ($currentContext) {
-        case DASHBOARD:
-            $dashBoard = true;
+        case HOME:
+            $home = true;
             break;
-        case USERS:
-            $users = true;
-            break;
-        case BRAND:
-            $brand = true;
-            break;
-        case DOCUMENT:
-            $document = true;
-            break;
-        case KEYWORDS:
-            $keywords = true;
-            break;
-        case REPORTS:
-            $reports = true;
-            break;
-        case API:
-            $api = true;
-            break;
-        case RECORDS:
-            $records = true;
-            break;
-        case LOGS:
-            $logs = true;
+        
         default:
 
     }
 
 
     switch ($subMenu) {
-        case USER_SIGNUP:
-            $userSignUp = true;
-            break;
-        case USER_LIST:   
-            $userList = true;
-            break;
-        case CREATE_BRAND:
-            $addBrand =  true;
-            break;
-        case BRAND_LIST:
-            $brandList = true;
-            break;
-        case DOCUMENT_UPLOAD:
-            $documentUpload = true;
-            break;
-        case DOCUMENT_LIST:
-            $documentList = true;
-            break;
-        case KEYWORDS_AIO:
-            $keywordAio = true;
-            break;
-        case REPORT_VIEW:
-            $viewReport = true;
-            break;
-        case API_MANAGEMENT:
-            $apiManagement = true;
-            break;
-        case LIST_RECORDS:
-            $listRecords = true;
-            break;
-        case LIST_LOGS:
-            $recordLogs = true;
+        
+        
         default:
     } 
 ?>
+
+<nav class="navbar navbar-default">
+    <div class="navbar-header navbar-left">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <div><a class="navbar-brand" href="index.html"><span>H</span>arkhadev
+        Singh College Of Education
+        Ramanuja Bagh, Khudaganj (Nalanda)</a></div>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+        <nav class="link-effect-2" id="link-effect-2">
+            <ul class="nav navbar-nav">
+                <li class=" <?php $home ? print_r('active') : '' ?> "><a href="index.html"><span data-hover="Home">Home</span></a></li>
+                <li><a href="courses.html"><span data-hover="Courses">Courses</span></a></li>
+                <li><a href="services.html"><span data-hover="Services">Services</span></a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span data-hover="Short Codes">Short Codes</span> <b class="caret"></b></a>
+                    <ul class="dropdown-menu agile_short_dropdown">
+                        <li><a href="icons.html">Web Icons</a></li>
+                        <li><a href="typography.html">Typography</a></li>
+                    </ul>
+                </li>
+                <li><a href="mail.html"><span data-hover="Mail Us">Mail Us</span></a></li>
+            </ul>
+        </nav>
+    </div>
+    <div class="w3_agile_phone">
+        <!-- <p><i class="fa fa-phone" aria-hidden="true"></i> +123 234 233</p> -->
+    </div>
+</nav>
