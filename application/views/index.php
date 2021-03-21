@@ -38,6 +38,54 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		</div>
 	</div>
 	<!-- //banner -->
+
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-6 col-12">
+				<div class="w3ls_banner_bottom_right1 vision_formatting">
+					<h2>Aim & <span> Objectives </span></h2>
+					<p>
+					<ul>
+					<li>To provide modern, valuable and progressive education.</li>
+					<li>To make students competent and self-reliant in these areas by providing teacher education and vocational education.</li>
+					<li>Providing skills in modern new curriculum.</li>
+					<li>To provide ideal and skilled teachers, managers etc. to the country and society.</li>
+					<li>To provide proper guidance and advice for the future by highlighting the talent, abilities of the students.</li>
+					<li>To provide opportunities for learning through more and more technical, equipment and modern methods.</li>
+					<li>Providing new knowledge research and inspiration.</li>
+					</p>
+				</div>
+			</div>
+
+			<div class="col-sm-6 col-12 pad-top-20">
+				<div class="my-panel">
+					<div class="panel-heading my-heading">
+						<strong>Recent Alerts</strong>
+					</div>
+					<div class="panel-body" style="height:300px; background:aliceblue">
+					<marquee onmouseover="this.stop();" height="250px" direction="up" scrollamount="2" onmouseout="this.start();">
+						<ul>
+							<li><a title="Important Notice" target="new" href="admin/uploads/1614425066-suchan kls college nawada-converted.pdf">Important Notice</a></li>
+							<li><a title="FREE UPSC, BPSC TRAINING for BC category candidate" target="new" href="admin/uploads/1613290863-Advertisement..pdf">FREE UPSC, BPSC TRAINING for BC category candidate</a></li>
+							<li><a title="B.A, B.SC, B.COM PART I (2019-20) REGISTRATION DATE: 4th Jan 2021 to 9th Jan, 2021" target="new" href="admin/uploads/1608746185-Screenshot_20201223_232223.jpg">B.A, B.SC, B.COM PART I (2019-20) REGISTRATION DATE: 4th Jan 2021 to 9th Jan, 2021</a></li>
+							<li><a title="Admission Notice for BCA,BSc IT and BBA" target="new" href="admin/uploads/1601443613-Merit list of BCA BSc IT BBA  Admission2020.pdf">Admission Notice for BCA,BSc IT and BBA</a></li>
+							<li><a title="Part 3 form fillup" target="new" href="admin/uploads/1593056900-Screenshot_20200625_091724.jpg">Part 3 form fillup</a></li>
+							<li><a title="Time Table for Online Classes" target="new" href="admin/uploads/1587483765-Time Table for Online Classes.pdf">Time Table for Online Classes</a></li>
+							<li><a title="ऑनलाइन क्लास" target="new" href="admin/uploads/1587025709-New Doc 2020-04-16 13.32.18.pdf">ऑनलाइन क्लास</a></li>
+							<li><a title="Online Class information during COVID 19 lockdown" target="new" href="admin/uploads/1586493974-के. एल. एस कॉले-WPS Office.pdf">Online Class information during COVID 19 lockdown</a></li>
+							<li><a title="Status of UG, PG examination 2019" target="new" href="admin/uploads/1560768979-IMG-20190617-WA0014.jpg">Status of UG, PG examination 2019</a></li>
+							<li><a title="CLASS XI Examination Notice" target="new" href="admin/uploads/1560045607-Screenshot_20190608_115926.JPG">CLASS XI Examination Notice</a></li>
+							</ul>
+						</marquee>
+					</div>
+
+					<div class="panel-footer">
+					<p style="vertical-align:bottom;"><a href="#"><em>See More</em></a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 	
 	<div class="container">
 		<div class="row">
@@ -80,6 +128,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					</p>
 				</div>
 			</div>
+
 		</div>
 	</div>	
 
@@ -103,6 +152,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</div>
 		</div>
 	</div>
+
+	
 
     <!-- banner-bottom -->	
 	<div class="banner-bottom">
@@ -191,25 +242,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	</div>
 
 
-	<div class="container">
-		<div class="row">
-			<div class="col-sm-12 col-12">
-				<div class="w3ls_banner_bottom_right1 vision_formatting">
-					<h2>Aim & <span> Objectives </span></h2>
-					<p>
-					<ul>
-					<li>To provide modern, valuable and progressive education.</li>
-					<li>To make students competent and self-reliant in these areas by providing teacher education and vocational education.</li>
-					<li>Providing skills in modern new curriculum.</li>
-					<li>To provide ideal and skilled teachers, managers etc. to the country and society.</li>
-					<li>To provide proper guidance and advice for the future by highlighting the talent, abilities of the students.</li>
-					<li>To provide opportunities for learning through more and more technical, equipment and modern methods.</li>
-					<li>Providing new knowledge research and inspiration.</li>
-					</p>
-				</div>
-			</div>
-		</div>
-	</div>
+
     <!-- //banner-bottom -->	
     <!-- bootstrap-pop-up -->
 	<div class="modal video-modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModal">
