@@ -10,7 +10,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<div class="container">
 			<div class="agile_banner_info">
 				<div class="agile_banner_info1">
-					<h3>Designed and developed by <span>IT Care</span></h3>
+					<!-- <h3>Designed and developed by <span>IT Care</span></h3> -->
 					<div id="typed-strings" class="agileits_w3layouts_strings">
 						<p>better <i>education</i> for better world</p>
 						<p><i>education</i> is a journey not a race</p>
@@ -20,7 +20,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				</div>
 			</div>
 			<div class="banner_agile_para">
-				<p>Harkhadev Singh College Of Education Ramanuja Bagh, Khudaganj (Nalanda).</p>
+				<p>Harakhdeo Singh College Of Education Ramanuja Bagh, Khudaganj (Nalanda).</p>
 			</div>
 			<div class="w3_agile_social_icons">
 				<ul class="agileinfo_social_icons">

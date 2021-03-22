@@ -38,9 +38,8 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <div><a class="navbar-brand" href="index.html"><span>H</span>arkhadev
-        Singh College Of Education
-        Ramanuja Bagh, Khudaganj (Nalanda)</a></div>
+        <div><a class="navbar-brand" href="index.html"><span>H</span>ARAKHDEO SINGH COLLEGE OF EDUCATION<br/>
+        <small>Ramanuja Bagh, Khudaganj (Nalanda)</small></a></div>
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
