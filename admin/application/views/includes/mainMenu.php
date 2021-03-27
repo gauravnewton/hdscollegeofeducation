@@ -17,6 +17,8 @@
     $records = false;
     $logs = false;
     $gallery = false;
+    $notifications = false;
+
     
 
     /**
@@ -34,7 +36,7 @@
     $listRecords = false;
     $recordLogs = false;
     $galleryViewUpload = false;
-
+    $notificationManagement = false;
 
     switch ($currentContext) {
         case GALLERY:
@@ -66,12 +68,19 @@
             break;
         case LOGS:
             $logs = true;
+            break;
+        case NOTIFICATIONS:
+            $notifications = true;
+            break;
         default:
 
     }
 
 
     switch ($subMenu) {
+        case NOTIFICATION_MANAGEMENT:
+            $notificationManagement = true;
+            break;
         case GALLERYVIEUPLOAD:
             $galleryViewUpload = true;
             break;
@@ -139,6 +148,29 @@
                 <a href="<?php echo base_url() ?>gallery" class="nav-link <?php $galleryViewUpload ? print_r('active') : '' ?>">
                   <i class="fa fa-file-image-o  nav-icon"></i>
                   <p><?php echo GALLERYVIEUPLOAD ?></p>
+                </a>
+              </li>
+              
+            </ul>
+        </li>
+
+
+
+        <!-- NOTIFICATIONS -->
+        <li class="nav-item has-treeview <?php $notifications ? print_r('menu-open') : ''?>">
+            <a href="#" class="nav-link <?php $notifications ? print_r('active') : '' ?>">
+              <i class="nav-icon fa fa-bell"></i>
+              <p>
+                <?php echo NOTIFICATIONS ?>
+                <i class="right fas fa-angle-left"></i>
+              </p>
+            </a>
+            <ul class="nav nav-treeview">
+            
+              <li class="nav-item">
+                <a href="<?php echo base_url() ?>notifications" class="nav-link <?php $notificationManagement ? print_r('active') : '' ?>">
+                  <i class="fa fa-cogs nav-icon"></i>
+                  <p><?php echo NOTIFICATION_MANAGEMENT ?></p>
                 </a>
               </li>
               

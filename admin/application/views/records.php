@@ -60,61 +60,61 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <!-- Main content -->
     <section class="content">
 
-    <div class="card card-outline card-success">
-        <div class="card-header">
-          <h3 class="card-title">All Records</h3>
+        <div class="card card-outline card-success">
+            <div class="card-header">
+            <h3 class="card-title">All Records</h3>
 
-          <div class="card-tools">
-            <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
-            </button>
-          </div>
-          <!-- /.card-tools -->
-        </div>
-        <!-- /.card-header -->
-        <div class="card-body">
-            <div class="tab-content p-0" style="overflow: auto; white-space: nowrap;">
-                <table class="table table-striped table-hover table-condensed table-loader" id="recordList">
-                    <thead>
-                        <tr class="text-center">
-                            <th>
-                                Record Id
-                            <th>
-                                Date
-                            </th>
-                            <th>
-                                Country
-                            </th>
-                            <th>
-                                Email
-                            </th>
-                            <th>
-                                Telephone
-                            </th>
-                            <th>
-                                Record Category as
-                            </th>
-                            <th>
-                                Action
-                            </th>
-                            <th>
-                                Brand
-                            </th>
-                            <th>
-                                Batch
-                            </th>
-                            <th>
-                                Original Row
-                            </th>
-                            <th>
-                                Async Row Id
-                            </th>
-                        </tr>
-                    </thead>
-                </table>
+            <div class="card-tools">
+                <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
+                </button>
             </div>
+            <!-- /.card-tools -->
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body">
+                <div class="tab-content p-0" style="overflow: auto; white-space: nowrap;">
+                    <table class="table table-striped table-hover table-condensed table-loader" id="recordList">
+                        <thead>
+                            <tr class="text-center">
+                                <th>
+                                    Record Id
+                                <th>
+                                    Date
+                                </th>
+                                <th>
+                                    Country
+                                </th>
+                                <th>
+                                    Email
+                                </th>
+                                <th>
+                                    Telephone
+                                </th>
+                                <th>
+                                    Record Category as
+                                </th>
+                                <th>
+                                    Action
+                                </th>
+                                <th>
+                                    Brand
+                                </th>
+                                <th>
+                                    Batch
+                                </th>
+                                <th>
+                                    Original Row
+                                </th>
+                                <th>
+                                    Async Row Id
+                                </th>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+            </div>
+            <!-- /.card-body -->
         </div>
-        <!-- /.card-body -->
-      </div>
     </section>
     <!-- /.content -->
     <a id="back-to-top" href="#" class="btn btn-primary back-to-top" role="button" aria-label="Scroll to top">

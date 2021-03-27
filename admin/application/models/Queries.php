@@ -248,6 +248,24 @@ class Queries extends CI_Model{
         return 0;
     }
 
+    function postNotification($data){
+        $this->db->insert('notifications',$data);
+    }
+
+    function getAllNotifications(){
+        $this->db->select("*");
+                    $this->db->from('notifications');
+        $notifications = $this->db->get();
+        return $notifications->result();
+    }
+
+    function updateNotificationStatus($productStatus, $productId){
+        $productData = array(
+            "status" => $productStatus
+        );
+        return $this->db->update('notifications',$productData,array('id' => $productId));
+    }
+
     function insertRowForAsyncProcess($brandId,$batchId,$row){
         $data = array(
             "brand_id" => $brandId,

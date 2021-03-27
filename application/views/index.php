@@ -63,19 +63,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						<strong>Recent Alerts</strong>
 					</div>
 					<div class="panel-body" style="height:300px; background:aliceblue">
-					<marquee onmouseover="this.stop();" height="250px" direction="up" scrollamount="2" onmouseout="this.start();">
-						<ul>
-							<li><a title="Important Notice" target="new" href="admin/uploads/1614425066-suchan kls college nawada-converted.pdf">Important Notice</a></li>
-							<li><a title="FREE UPSC, BPSC TRAINING for BC category candidate" target="new" href="admin/uploads/1613290863-Advertisement..pdf">FREE UPSC, BPSC TRAINING for BC category candidate</a></li>
-							<li><a title="B.A, B.SC, B.COM PART I (2019-20) REGISTRATION DATE: 4th Jan 2021 to 9th Jan, 2021" target="new" href="admin/uploads/1608746185-Screenshot_20201223_232223.jpg">B.A, B.SC, B.COM PART I (2019-20) REGISTRATION DATE: 4th Jan 2021 to 9th Jan, 2021</a></li>
-							<li><a title="Admission Notice for BCA,BSc IT and BBA" target="new" href="admin/uploads/1601443613-Merit list of BCA BSc IT BBA  Admission2020.pdf">Admission Notice for BCA,BSc IT and BBA</a></li>
-							<li><a title="Part 3 form fillup" target="new" href="admin/uploads/1593056900-Screenshot_20200625_091724.jpg">Part 3 form fillup</a></li>
-							<li><a title="Time Table for Online Classes" target="new" href="admin/uploads/1587483765-Time Table for Online Classes.pdf">Time Table for Online Classes</a></li>
-							<li><a title="ऑनलाइन क्लास" target="new" href="admin/uploads/1587025709-New Doc 2020-04-16 13.32.18.pdf">ऑनलाइन क्लास</a></li>
-							<li><a title="Online Class information during COVID 19 lockdown" target="new" href="admin/uploads/1586493974-के. एल. एस कॉले-WPS Office.pdf">Online Class information during COVID 19 lockdown</a></li>
-							<li><a title="Status of UG, PG examination 2019" target="new" href="admin/uploads/1560768979-IMG-20190617-WA0014.jpg">Status of UG, PG examination 2019</a></li>
-							<li><a title="CLASS XI Examination Notice" target="new" href="admin/uploads/1560045607-Screenshot_20190608_115926.JPG">CLASS XI Examination Notice</a></li>
-							</ul>
+						<marquee id="notifications" onmouseover="this.stop();" height="250px" direction="up" scrollamount="2" onmouseout="this.start();">
+							
 						</marquee>
 					</div>
 
@@ -254,7 +243,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				</div>
 				<section>
 					<div class="modal-body">
-						<img src="images/10.jpg" alt=" " class="img-responsive" />
+						<img src="<?php echo $this->config->base_url() ?>assets/images/10.jpg" alt=" " class="img-responsive" />
 						<p class="text-justify">Education plays an important role in the upliftment of a nation, institution and individual. At present, there is a severe lack of good educational institutions and experienced teachers in rural areas, due to which students of rural areas, despite being talented, fall behind due to lack of proper guidance. Today's young men and women will be duty-bound citizens of the developed nation of the future. It is possible to get good education only by highly qualified and experienced professors in a high level educational institution. 
 							<br/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;In the same spirit, Harkhadev Singh College of Education was established in the year 2016. Ed. And D.L.Ed. The course is done with classes. Students who have earned degrees from here will also make good citizens of this nation by giving them good experiences and giving them to the children coming in their field of work. </p>
 							<i class="pull-right">Dr. Bhola Kumar.</i></p>
@@ -358,9 +347,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<ul id="flexiselDemo1">	
 			<li>
 				<div class="wthree_gallery_grid">
-					<a href="images/8.jpg" class="lsb-preview" data-lsb-group="header">
+					<a href="<?php echo $this->config->base_url() ?>assets/images/8.jpg" class="lsb-preview" data-lsb-group="header">
 						<div class="view second-effect">
-							<img src="images/8.jpg" alt="" class="img-responsive" />
+							<img src="<?php echo $this->config->base_url() ?>assets/images/8.jpg" alt="" class="img-responsive" />
 							<div class="mask">
 								<p>Edifying</p>
 							</div>
@@ -370,9 +359,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</li>
 			<li>
 				<div class="wthree_gallery_grid">
-					<a href="images/9.jpg" class="lsb-preview" data-lsb-group="header">
+					<a href="<?php echo $this->config->base_url() ?>assets/images/9.jpg" class="lsb-preview" data-lsb-group="header">
 						<div class="view second-effect">
-							<img src="images/9.jpg" alt="" class="img-responsive" />
+							<img src="<?php echo $this->config->base_url() ?>assets/images/9.jpg" alt="" class="img-responsive" />
 							<div class="mask">
 								<p>Edifying</p>
 							</div>
@@ -382,9 +371,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</li>
 			<li>
 				<div class="wthree_gallery_grid">
-					<a href="images/10.jpg" class="lsb-preview" data-lsb-group="header">
+					<a href="<?php echo $this->config->base_url() ?>assets/images/10.jpg" class="lsb-preview" data-lsb-group="header">
 						<div class="view second-effect">
-							<img src="images/10.jpg" alt="" class="img-responsive" />
+							<img src="<?php echo $this->config->base_url() ?>assets/images/10.jpg" alt="" class="img-responsive" />
 							<div class="mask">
 								<p>Edifying</p>
 							</div>
@@ -394,9 +383,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</li>
 			<li>
 				<div class="wthree_gallery_grid">
-					<a href="images/11.jpg" class="lsb-preview" data-lsb-group="header">
+					<a href="<?php echo $this->config->base_url() ?>assets/images/11.jpg" class="lsb-preview" data-lsb-group="header">
 						<div class="view second-effect">
-							<img src="images/11.jpg" alt="" class="img-responsive" />
+							<img src="<?php echo $this->config->base_url() ?>assets/images/11.jpg" alt="" class="img-responsive" />
 							<div class="mask">
 								<p>Edifying</p>
 							</div>
@@ -406,9 +395,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</li>
 			<li>
 				<div class="wthree_gallery_grid">
-					<a href="images/12.jpg" class="lsb-preview" data-lsb-group="header">
+					<a href="<?php echo $this->config->base_url() ?>assets/images/12.jpg" class="lsb-preview" data-lsb-group="header">
 						<div class="view second-effect">
-							<img src="images/12.jpg" alt="" class="img-responsive" />
+							<img src="<?php echo $this->config->base_url() ?>assets/images/12.jpg" alt="" class="img-responsive" />
 							<div class="mask">
 								<p>Edifying</p>
 							</div>
@@ -475,3 +464,54 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	</div> -->
     <!-- //testimonials -->
 <?php include ('includes/footer.php'); ?>
+
+<script>
+
+var getAllNotifications = function(){
+	$('#loading').addClass('loading');
+        $.ajax({  
+            type: "GET",
+            url: "<?php $this->config->base_url()?>admin/notifications/getAllNotifications",
+            processData: false,
+            contentType: false,
+            cache: false,
+            timeout: 600000,
+            
+            success: function (response) {debugger
+                $('#loading').removeClass('loading');
+                response = JSON.parse(response);   
+                var html =`<ul>`;
+				
+				if( response && response.length > 0){
+					$(response).each(function(key, value){
+						if( value.is_file_attached == 1){							
+							html += 
+							`<li>
+								<a title="`+value.notification_title+`" target="new" href="admin/uploads/`+value.notification_file+`">
+									`+value.notification_title+`
+								</a>
+							</li>`;
+						}else{
+							html += 
+							`<li>
+								`+value.notification_title+`
+							</li>`;
+						}
+					});
+				}
+				html += `</ul>`;
+
+				$('#notifications').html(html);
+
+            },
+            error : function(data,textStatus,errorMessage){
+                alert( textStatus + " " + errorMessage);
+            }
+        });
+    };
+
+	$(document).ready(function(){
+        getAllNotifications();
+    });
+
+</script>

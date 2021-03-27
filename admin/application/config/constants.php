@@ -118,6 +118,11 @@ defined('XLS_EXT') OR define("XLS_EXT","XLS");
 defined('XLSX_EXT') OR define("XLSX_EXT","XLSX");
 
 
+defined('JPG') OR define("JPG","JPG");
+defined('JPEG') OR define("JPEG","JPEG");
+defined('PDF') OR define("PDF","PDF");
+defined('PNG') OR define("PNG","PNG");
+
 /**
  * Top level Main Menus
  */
@@ -155,6 +160,7 @@ defined('ALLOWED_HEIGHT') OR define('ALLOWED_HEIGHT',800);
  defined('API_MANAGEMENT') OR define('API_MANAGEMENT', 'API Management');
  defined('LIST_RECORDS') OR define('LIST_RECORDS', 'Records List');
  defined('LIST_LOGS') OR define('LIST_LOGS', 'List');
+ defined('NOTIFICATIONS') OR define('NOTIFICATIONS','Notifications ');
 
  /**
   * Categories constants
@@ -170,7 +176,7 @@ defined('ALLOWED_HEIGHT') OR define('ALLOWED_HEIGHT',800);
   defined('EMAIL_API_RESPONSE_ERROR') OR define('EMAIL_API_RESPONSE_ERROR',8);
   defined('FREE_MAILS') OR define('FREE_MAILS',9);
   defined('EDU_DOMAIN') OR define('EDU_DOMAIN', 10);
-  
+  defined('NOTIFICATION_MANAGEMENT') OR define('NOTIFICATION_MANAGEMENT','Manage Notifications');
 
   /**
    * API HOOK TYPE
