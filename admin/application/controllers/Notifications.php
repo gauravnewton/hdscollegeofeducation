@@ -41,7 +41,12 @@ class Notifications extends CI_Controller {
                     $fileName = $this->upload->data('file_name');
                 }
             }
-
+            if(  $data['isFileAttached'] == 1 ){
+                if( $fileName != "" ){
+                    echo json_encode(["isSuccess"=> false,"errorCode"=>FILE_UPLOADING_ERROR]);
+                    return;
+                }
+            }
             //preserving notification data..
             $notificationData = array(
                 "notification_title" => $data['title'],

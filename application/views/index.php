@@ -484,6 +484,8 @@ var getAllNotifications = function(){
 				
 				if( response && response.length > 0){
 					$(response).each(function(key, value){
+						if(value.status == 0)
+							return; 
 						if( value.is_file_attached == 1){							
 							html += 
 							`<li>

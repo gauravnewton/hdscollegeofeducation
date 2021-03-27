@@ -5064,3 +5064,3563 @@ INFO - 2021-03-27 13:15:12 --> Controller Class Initialized
 INFO - 2021-03-27 13:15:12 --> Model "Queries" initialized
 INFO - 2021-03-27 13:15:12 --> Final output sent to browser
 DEBUG - 2021-03-27 13:15:12 --> Total execution time: 0.0503
+INFO - 2021-03-27 14:55:23 --> Config Class Initialized
+INFO - 2021-03-27 14:55:23 --> Hooks Class Initialized
+DEBUG - 2021-03-27 14:55:23 --> UTF-8 Support Enabled
+INFO - 2021-03-27 14:55:23 --> Utf8 Class Initialized
+INFO - 2021-03-27 14:55:23 --> URI Class Initialized
+INFO - 2021-03-27 14:55:23 --> Router Class Initialized
+INFO - 2021-03-27 14:55:23 --> Output Class Initialized
+INFO - 2021-03-27 14:55:23 --> Security Class Initialized
+DEBUG - 2021-03-27 14:55:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 14:55:23 --> Input Class Initialized
+INFO - 2021-03-27 14:55:23 --> Language Class Initialized
+INFO - 2021-03-27 14:55:23 --> Loader Class Initialized
+INFO - 2021-03-27 14:55:23 --> Helper loaded: url_helper
+INFO - 2021-03-27 14:55:23 --> Database Driver Class Initialized
+INFO - 2021-03-27 14:55:23 --> Helper loaded: form_helper
+INFO - 2021-03-27 14:55:23 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 14:55:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 14:55:23 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 14:55:23 --> Controller Class Initialized
+INFO - 2021-03-27 14:55:23 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 14:55:23 --> Final output sent to browser
+DEBUG - 2021-03-27 14:55:23 --> Total execution time: 0.2714
+INFO - 2021-03-27 14:55:25 --> Config Class Initialized
+INFO - 2021-03-27 14:55:25 --> Hooks Class Initialized
+DEBUG - 2021-03-27 14:55:25 --> UTF-8 Support Enabled
+INFO - 2021-03-27 14:55:25 --> Utf8 Class Initialized
+INFO - 2021-03-27 14:55:25 --> URI Class Initialized
+INFO - 2021-03-27 14:55:25 --> Router Class Initialized
+INFO - 2021-03-27 14:55:25 --> Output Class Initialized
+INFO - 2021-03-27 14:55:25 --> Security Class Initialized
+DEBUG - 2021-03-27 14:55:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 14:55:25 --> Input Class Initialized
+INFO - 2021-03-27 14:55:25 --> Language Class Initialized
+INFO - 2021-03-27 14:55:25 --> Loader Class Initialized
+INFO - 2021-03-27 14:55:25 --> Helper loaded: url_helper
+INFO - 2021-03-27 14:55:25 --> Database Driver Class Initialized
+INFO - 2021-03-27 14:55:25 --> Helper loaded: form_helper
+INFO - 2021-03-27 14:55:25 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 14:55:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 14:55:25 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 14:55:25 --> Controller Class Initialized
+INFO - 2021-03-27 14:55:25 --> Model "Queries" initialized
+INFO - 2021-03-27 14:55:25 --> Final output sent to browser
+DEBUG - 2021-03-27 14:55:25 --> Total execution time: 0.1679
+INFO - 2021-03-27 14:59:14 --> Config Class Initialized
+INFO - 2021-03-27 14:59:14 --> Hooks Class Initialized
+DEBUG - 2021-03-27 14:59:14 --> UTF-8 Support Enabled
+INFO - 2021-03-27 14:59:14 --> Utf8 Class Initialized
+INFO - 2021-03-27 14:59:14 --> URI Class Initialized
+INFO - 2021-03-27 14:59:14 --> Router Class Initialized
+INFO - 2021-03-27 14:59:14 --> Output Class Initialized
+INFO - 2021-03-27 14:59:14 --> Security Class Initialized
+DEBUG - 2021-03-27 14:59:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 14:59:14 --> Input Class Initialized
+INFO - 2021-03-27 14:59:14 --> Language Class Initialized
+INFO - 2021-03-27 14:59:14 --> Loader Class Initialized
+INFO - 2021-03-27 14:59:14 --> Helper loaded: url_helper
+INFO - 2021-03-27 14:59:14 --> Database Driver Class Initialized
+INFO - 2021-03-27 14:59:14 --> Helper loaded: form_helper
+INFO - 2021-03-27 14:59:14 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 14:59:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 14:59:14 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 14:59:14 --> Controller Class Initialized
+INFO - 2021-03-27 14:59:14 --> Model "Queries" initialized
+INFO - 2021-03-27 14:59:14 --> Final output sent to browser
+DEBUG - 2021-03-27 14:59:14 --> Total execution time: 0.1296
+INFO - 2021-03-27 14:59:19 --> Config Class Initialized
+INFO - 2021-03-27 14:59:19 --> Hooks Class Initialized
+DEBUG - 2021-03-27 14:59:19 --> UTF-8 Support Enabled
+INFO - 2021-03-27 14:59:19 --> Utf8 Class Initialized
+INFO - 2021-03-27 14:59:19 --> URI Class Initialized
+INFO - 2021-03-27 14:59:19 --> Router Class Initialized
+INFO - 2021-03-27 14:59:19 --> Output Class Initialized
+INFO - 2021-03-27 14:59:19 --> Security Class Initialized
+DEBUG - 2021-03-27 14:59:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 14:59:19 --> Input Class Initialized
+INFO - 2021-03-27 14:59:19 --> Language Class Initialized
+INFO - 2021-03-27 14:59:19 --> Loader Class Initialized
+INFO - 2021-03-27 14:59:19 --> Helper loaded: url_helper
+INFO - 2021-03-27 14:59:19 --> Database Driver Class Initialized
+INFO - 2021-03-27 14:59:19 --> Helper loaded: form_helper
+INFO - 2021-03-27 14:59:19 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 14:59:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 14:59:19 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 14:59:19 --> Controller Class Initialized
+INFO - 2021-03-27 14:59:19 --> Model "Queries" initialized
+INFO - 2021-03-27 14:59:19 --> Final output sent to browser
+DEBUG - 2021-03-27 14:59:19 --> Total execution time: 0.1644
+INFO - 2021-03-27 15:04:54 --> Config Class Initialized
+INFO - 2021-03-27 15:04:54 --> Hooks Class Initialized
+DEBUG - 2021-03-27 15:04:54 --> UTF-8 Support Enabled
+INFO - 2021-03-27 15:04:54 --> Utf8 Class Initialized
+INFO - 2021-03-27 15:04:54 --> URI Class Initialized
+INFO - 2021-03-27 15:04:54 --> Router Class Initialized
+INFO - 2021-03-27 15:04:54 --> Output Class Initialized
+INFO - 2021-03-27 15:04:54 --> Security Class Initialized
+DEBUG - 2021-03-27 15:04:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 15:04:54 --> Input Class Initialized
+INFO - 2021-03-27 15:04:54 --> Language Class Initialized
+INFO - 2021-03-27 15:04:54 --> Loader Class Initialized
+INFO - 2021-03-27 15:04:54 --> Helper loaded: url_helper
+INFO - 2021-03-27 15:04:54 --> Database Driver Class Initialized
+INFO - 2021-03-27 15:04:54 --> Helper loaded: form_helper
+INFO - 2021-03-27 15:04:54 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 15:04:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 15:04:54 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 15:04:54 --> Controller Class Initialized
+INFO - 2021-03-27 15:04:54 --> Model "Queries" initialized
+INFO - 2021-03-27 15:04:54 --> Final output sent to browser
+DEBUG - 2021-03-27 15:04:54 --> Total execution time: 0.1146
+INFO - 2021-03-27 18:50:22 --> Config Class Initialized
+INFO - 2021-03-27 18:50:22 --> Hooks Class Initialized
+DEBUG - 2021-03-27 18:50:22 --> UTF-8 Support Enabled
+INFO - 2021-03-27 18:50:22 --> Utf8 Class Initialized
+INFO - 2021-03-27 18:50:22 --> URI Class Initialized
+INFO - 2021-03-27 18:50:22 --> Router Class Initialized
+INFO - 2021-03-27 18:50:22 --> Output Class Initialized
+INFO - 2021-03-27 18:50:22 --> Security Class Initialized
+DEBUG - 2021-03-27 18:50:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 18:50:22 --> Input Class Initialized
+INFO - 2021-03-27 18:50:22 --> Language Class Initialized
+INFO - 2021-03-27 18:50:22 --> Loader Class Initialized
+INFO - 2021-03-27 18:50:22 --> Helper loaded: url_helper
+INFO - 2021-03-27 18:50:22 --> Database Driver Class Initialized
+INFO - 2021-03-27 18:50:22 --> Helper loaded: form_helper
+INFO - 2021-03-27 18:50:22 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 18:50:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 18:50:22 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 18:50:22 --> Controller Class Initialized
+INFO - 2021-03-27 18:50:22 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\authorization.php
+INFO - 2021-03-27 18:50:22 --> Final output sent to browser
+DEBUG - 2021-03-27 18:50:22 --> Total execution time: 0.0568
+INFO - 2021-03-27 18:50:28 --> Config Class Initialized
+INFO - 2021-03-27 18:50:28 --> Hooks Class Initialized
+DEBUG - 2021-03-27 18:50:28 --> UTF-8 Support Enabled
+INFO - 2021-03-27 18:50:28 --> Utf8 Class Initialized
+INFO - 2021-03-27 18:50:28 --> URI Class Initialized
+INFO - 2021-03-27 18:50:28 --> Router Class Initialized
+INFO - 2021-03-27 18:50:28 --> Output Class Initialized
+INFO - 2021-03-27 18:50:28 --> Security Class Initialized
+DEBUG - 2021-03-27 18:50:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 18:50:28 --> Input Class Initialized
+INFO - 2021-03-27 18:50:28 --> Language Class Initialized
+INFO - 2021-03-27 18:50:28 --> Loader Class Initialized
+INFO - 2021-03-27 18:50:28 --> Helper loaded: url_helper
+INFO - 2021-03-27 18:50:28 --> Database Driver Class Initialized
+INFO - 2021-03-27 18:50:28 --> Helper loaded: form_helper
+INFO - 2021-03-27 18:50:28 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 18:50:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 18:50:28 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 18:50:28 --> Controller Class Initialized
+INFO - 2021-03-27 18:50:28 --> Model "Queries" initialized
+INFO - 2021-03-27 18:50:28 --> Config Class Initialized
+INFO - 2021-03-27 18:50:28 --> Hooks Class Initialized
+DEBUG - 2021-03-27 18:50:28 --> UTF-8 Support Enabled
+INFO - 2021-03-27 18:50:28 --> Utf8 Class Initialized
+INFO - 2021-03-27 18:50:28 --> URI Class Initialized
+INFO - 2021-03-27 18:50:28 --> Router Class Initialized
+INFO - 2021-03-27 18:50:28 --> Output Class Initialized
+INFO - 2021-03-27 18:50:28 --> Security Class Initialized
+DEBUG - 2021-03-27 18:50:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 18:50:28 --> Input Class Initialized
+INFO - 2021-03-27 18:50:28 --> Language Class Initialized
+INFO - 2021-03-27 18:50:28 --> Loader Class Initialized
+INFO - 2021-03-27 18:50:28 --> Helper loaded: url_helper
+INFO - 2021-03-27 18:50:28 --> Database Driver Class Initialized
+INFO - 2021-03-27 18:50:28 --> Helper loaded: form_helper
+INFO - 2021-03-27 18:50:28 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 18:50:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 18:50:28 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 18:50:28 --> Controller Class Initialized
+INFO - 2021-03-27 18:50:28 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\dashboard.php
+INFO - 2021-03-27 18:50:28 --> Final output sent to browser
+DEBUG - 2021-03-27 18:50:28 --> Total execution time: 0.0947
+INFO - 2021-03-27 18:50:30 --> Config Class Initialized
+INFO - 2021-03-27 18:50:30 --> Hooks Class Initialized
+DEBUG - 2021-03-27 18:50:30 --> UTF-8 Support Enabled
+INFO - 2021-03-27 18:50:30 --> Utf8 Class Initialized
+INFO - 2021-03-27 18:50:30 --> URI Class Initialized
+INFO - 2021-03-27 18:50:30 --> Router Class Initialized
+INFO - 2021-03-27 18:50:30 --> Output Class Initialized
+INFO - 2021-03-27 18:50:30 --> Security Class Initialized
+DEBUG - 2021-03-27 18:50:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 18:50:30 --> Input Class Initialized
+INFO - 2021-03-27 18:50:30 --> Language Class Initialized
+INFO - 2021-03-27 18:50:30 --> Loader Class Initialized
+INFO - 2021-03-27 18:50:30 --> Helper loaded: url_helper
+INFO - 2021-03-27 18:50:30 --> Database Driver Class Initialized
+INFO - 2021-03-27 18:50:30 --> Helper loaded: form_helper
+INFO - 2021-03-27 18:50:30 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 18:50:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 18:50:30 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 18:50:30 --> Controller Class Initialized
+INFO - 2021-03-27 18:50:30 --> Model "Queries" initialized
+ERROR - 2021-03-27 18:50:30 --> Query error: Table 'hdscollegeofeducation.import_batch' doesn't exist - Invalid query: select SUM(total_commercial) as total_commercial,SUM(total_edu) as total_edu, SUM(total_business) as total_business,  SUM(total_home) as total_home from import_batch;
+INFO - 2021-03-27 18:50:30 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-03-27 18:52:08 --> Config Class Initialized
+INFO - 2021-03-27 18:52:08 --> Hooks Class Initialized
+DEBUG - 2021-03-27 18:52:08 --> UTF-8 Support Enabled
+INFO - 2021-03-27 18:52:08 --> Utf8 Class Initialized
+INFO - 2021-03-27 18:52:08 --> URI Class Initialized
+INFO - 2021-03-27 18:52:08 --> Router Class Initialized
+INFO - 2021-03-27 18:52:08 --> Output Class Initialized
+INFO - 2021-03-27 18:52:08 --> Security Class Initialized
+DEBUG - 2021-03-27 18:52:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 18:52:08 --> Input Class Initialized
+INFO - 2021-03-27 18:52:08 --> Language Class Initialized
+INFO - 2021-03-27 18:52:08 --> Loader Class Initialized
+INFO - 2021-03-27 18:52:08 --> Helper loaded: url_helper
+INFO - 2021-03-27 18:52:08 --> Database Driver Class Initialized
+INFO - 2021-03-27 18:52:08 --> Helper loaded: form_helper
+INFO - 2021-03-27 18:52:08 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 18:52:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 18:52:08 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 18:52:08 --> Controller Class Initialized
+INFO - 2021-03-27 18:52:08 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\dashboard.php
+INFO - 2021-03-27 18:52:08 --> Final output sent to browser
+DEBUG - 2021-03-27 18:52:08 --> Total execution time: 0.0729
+INFO - 2021-03-27 18:52:09 --> Config Class Initialized
+INFO - 2021-03-27 18:52:09 --> Hooks Class Initialized
+DEBUG - 2021-03-27 18:52:09 --> UTF-8 Support Enabled
+INFO - 2021-03-27 18:52:09 --> Utf8 Class Initialized
+INFO - 2021-03-27 18:52:09 --> URI Class Initialized
+INFO - 2021-03-27 18:52:09 --> Router Class Initialized
+INFO - 2021-03-27 18:52:09 --> Output Class Initialized
+INFO - 2021-03-27 18:52:09 --> Security Class Initialized
+DEBUG - 2021-03-27 18:52:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 18:52:09 --> Input Class Initialized
+INFO - 2021-03-27 18:52:09 --> Language Class Initialized
+INFO - 2021-03-27 18:52:09 --> Loader Class Initialized
+INFO - 2021-03-27 18:52:09 --> Helper loaded: url_helper
+INFO - 2021-03-27 18:52:09 --> Database Driver Class Initialized
+INFO - 2021-03-27 18:52:09 --> Helper loaded: form_helper
+INFO - 2021-03-27 18:52:09 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 18:52:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 18:52:09 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 18:52:09 --> Controller Class Initialized
+INFO - 2021-03-27 18:52:09 --> Model "Queries" initialized
+ERROR - 2021-03-27 18:52:09 --> Query error: Table 'hdscollegeofeducation.import_batch' doesn't exist - Invalid query: select SUM(total_commercial) as total_commercial,SUM(total_edu) as total_edu, SUM(total_business) as total_business,  SUM(total_home) as total_home from import_batch;
+INFO - 2021-03-27 18:52:09 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-03-27 18:52:14 --> Config Class Initialized
+INFO - 2021-03-27 18:52:14 --> Hooks Class Initialized
+DEBUG - 2021-03-27 18:52:14 --> UTF-8 Support Enabled
+INFO - 2021-03-27 18:52:14 --> Utf8 Class Initialized
+INFO - 2021-03-27 18:52:14 --> URI Class Initialized
+INFO - 2021-03-27 18:52:14 --> Router Class Initialized
+INFO - 2021-03-27 18:52:14 --> Output Class Initialized
+INFO - 2021-03-27 18:52:14 --> Security Class Initialized
+DEBUG - 2021-03-27 18:52:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 18:52:14 --> Input Class Initialized
+INFO - 2021-03-27 18:52:14 --> Language Class Initialized
+INFO - 2021-03-27 18:52:14 --> Loader Class Initialized
+INFO - 2021-03-27 18:52:14 --> Helper loaded: url_helper
+INFO - 2021-03-27 18:52:14 --> Database Driver Class Initialized
+INFO - 2021-03-27 18:52:15 --> Helper loaded: form_helper
+INFO - 2021-03-27 18:52:15 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 18:52:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 18:52:15 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 18:52:15 --> Controller Class Initialized
+INFO - 2021-03-27 18:52:15 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 18:52:15 --> Final output sent to browser
+DEBUG - 2021-03-27 18:52:15 --> Total execution time: 0.0680
+INFO - 2021-03-27 18:52:15 --> Config Class Initialized
+INFO - 2021-03-27 18:52:15 --> Hooks Class Initialized
+DEBUG - 2021-03-27 18:52:15 --> UTF-8 Support Enabled
+INFO - 2021-03-27 18:52:15 --> Utf8 Class Initialized
+INFO - 2021-03-27 18:52:15 --> URI Class Initialized
+INFO - 2021-03-27 18:52:15 --> Router Class Initialized
+INFO - 2021-03-27 18:52:15 --> Output Class Initialized
+INFO - 2021-03-27 18:52:15 --> Security Class Initialized
+DEBUG - 2021-03-27 18:52:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 18:52:15 --> Input Class Initialized
+INFO - 2021-03-27 18:52:15 --> Language Class Initialized
+INFO - 2021-03-27 18:52:15 --> Loader Class Initialized
+INFO - 2021-03-27 18:52:15 --> Helper loaded: url_helper
+INFO - 2021-03-27 18:52:15 --> Database Driver Class Initialized
+INFO - 2021-03-27 18:52:15 --> Helper loaded: form_helper
+INFO - 2021-03-27 18:52:15 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 18:52:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 18:52:15 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 18:52:15 --> Controller Class Initialized
+INFO - 2021-03-27 18:52:15 --> Model "Queries" initialized
+INFO - 2021-03-27 18:52:15 --> Final output sent to browser
+DEBUG - 2021-03-27 18:52:15 --> Total execution time: 0.0741
+INFO - 2021-03-27 18:54:45 --> Config Class Initialized
+INFO - 2021-03-27 18:54:45 --> Hooks Class Initialized
+DEBUG - 2021-03-27 18:54:45 --> UTF-8 Support Enabled
+INFO - 2021-03-27 18:54:45 --> Utf8 Class Initialized
+INFO - 2021-03-27 18:54:45 --> URI Class Initialized
+INFO - 2021-03-27 18:54:45 --> Router Class Initialized
+INFO - 2021-03-27 18:54:45 --> Output Class Initialized
+INFO - 2021-03-27 18:54:45 --> Security Class Initialized
+DEBUG - 2021-03-27 18:54:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 18:54:45 --> Input Class Initialized
+INFO - 2021-03-27 18:54:45 --> Language Class Initialized
+INFO - 2021-03-27 18:54:45 --> Loader Class Initialized
+INFO - 2021-03-27 18:54:45 --> Helper loaded: url_helper
+INFO - 2021-03-27 18:54:45 --> Database Driver Class Initialized
+INFO - 2021-03-27 18:54:45 --> Helper loaded: form_helper
+INFO - 2021-03-27 18:54:45 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 18:54:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 18:54:45 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 18:54:45 --> Controller Class Initialized
+INFO - 2021-03-27 18:54:45 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 18:54:45 --> Final output sent to browser
+DEBUG - 2021-03-27 18:54:45 --> Total execution time: 0.0681
+INFO - 2021-03-27 18:54:47 --> Config Class Initialized
+INFO - 2021-03-27 18:54:47 --> Hooks Class Initialized
+DEBUG - 2021-03-27 18:54:47 --> UTF-8 Support Enabled
+INFO - 2021-03-27 18:54:47 --> Utf8 Class Initialized
+INFO - 2021-03-27 18:54:47 --> URI Class Initialized
+INFO - 2021-03-27 18:54:47 --> Router Class Initialized
+INFO - 2021-03-27 18:54:47 --> Output Class Initialized
+INFO - 2021-03-27 18:54:47 --> Security Class Initialized
+DEBUG - 2021-03-27 18:54:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 18:54:47 --> Input Class Initialized
+INFO - 2021-03-27 18:54:47 --> Language Class Initialized
+INFO - 2021-03-27 18:54:47 --> Loader Class Initialized
+INFO - 2021-03-27 18:54:47 --> Helper loaded: url_helper
+INFO - 2021-03-27 18:54:47 --> Database Driver Class Initialized
+INFO - 2021-03-27 18:54:47 --> Helper loaded: form_helper
+INFO - 2021-03-27 18:54:47 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 18:54:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 18:54:47 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 18:54:47 --> Controller Class Initialized
+INFO - 2021-03-27 18:54:47 --> Model "Queries" initialized
+INFO - 2021-03-27 18:54:48 --> Final output sent to browser
+DEBUG - 2021-03-27 18:54:48 --> Total execution time: 0.0923
+INFO - 2021-03-27 18:57:07 --> Config Class Initialized
+INFO - 2021-03-27 18:57:07 --> Hooks Class Initialized
+DEBUG - 2021-03-27 18:57:07 --> UTF-8 Support Enabled
+INFO - 2021-03-27 18:57:07 --> Utf8 Class Initialized
+INFO - 2021-03-27 18:57:07 --> URI Class Initialized
+INFO - 2021-03-27 18:57:07 --> Router Class Initialized
+INFO - 2021-03-27 18:57:07 --> Output Class Initialized
+INFO - 2021-03-27 18:57:07 --> Security Class Initialized
+DEBUG - 2021-03-27 18:57:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 18:57:07 --> Input Class Initialized
+INFO - 2021-03-27 18:57:07 --> Language Class Initialized
+INFO - 2021-03-27 18:57:07 --> Loader Class Initialized
+INFO - 2021-03-27 18:57:07 --> Helper loaded: url_helper
+INFO - 2021-03-27 18:57:07 --> Database Driver Class Initialized
+INFO - 2021-03-27 18:57:07 --> Helper loaded: form_helper
+INFO - 2021-03-27 18:57:07 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 18:57:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 18:57:07 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 18:57:07 --> Controller Class Initialized
+INFO - 2021-03-27 18:57:07 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 18:57:07 --> Final output sent to browser
+DEBUG - 2021-03-27 18:57:07 --> Total execution time: 0.0695
+INFO - 2021-03-27 18:57:09 --> Config Class Initialized
+INFO - 2021-03-27 18:57:09 --> Hooks Class Initialized
+DEBUG - 2021-03-27 18:57:09 --> UTF-8 Support Enabled
+INFO - 2021-03-27 18:57:09 --> Utf8 Class Initialized
+INFO - 2021-03-27 18:57:09 --> URI Class Initialized
+INFO - 2021-03-27 18:57:09 --> Router Class Initialized
+INFO - 2021-03-27 18:57:09 --> Output Class Initialized
+INFO - 2021-03-27 18:57:09 --> Security Class Initialized
+DEBUG - 2021-03-27 18:57:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 18:57:09 --> Input Class Initialized
+INFO - 2021-03-27 18:57:09 --> Language Class Initialized
+INFO - 2021-03-27 18:57:09 --> Loader Class Initialized
+INFO - 2021-03-27 18:57:09 --> Helper loaded: url_helper
+INFO - 2021-03-27 18:57:09 --> Database Driver Class Initialized
+INFO - 2021-03-27 18:57:09 --> Helper loaded: form_helper
+INFO - 2021-03-27 18:57:09 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 18:57:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 18:57:09 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 18:57:09 --> Controller Class Initialized
+INFO - 2021-03-27 18:57:09 --> Model "Queries" initialized
+INFO - 2021-03-27 18:57:09 --> Final output sent to browser
+DEBUG - 2021-03-27 18:57:09 --> Total execution time: 0.1034
+INFO - 2021-03-27 19:00:12 --> Config Class Initialized
+INFO - 2021-03-27 19:00:12 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:00:12 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:00:12 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:00:12 --> URI Class Initialized
+INFO - 2021-03-27 19:00:12 --> Router Class Initialized
+INFO - 2021-03-27 19:00:12 --> Output Class Initialized
+INFO - 2021-03-27 19:00:12 --> Security Class Initialized
+DEBUG - 2021-03-27 19:00:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:00:12 --> Input Class Initialized
+INFO - 2021-03-27 19:00:12 --> Language Class Initialized
+INFO - 2021-03-27 19:00:12 --> Loader Class Initialized
+INFO - 2021-03-27 19:00:12 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:00:12 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:00:12 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:00:12 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:00:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:00:12 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:00:12 --> Controller Class Initialized
+INFO - 2021-03-27 19:00:12 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 19:00:12 --> Final output sent to browser
+DEBUG - 2021-03-27 19:00:12 --> Total execution time: 0.0602
+INFO - 2021-03-27 19:00:14 --> Config Class Initialized
+INFO - 2021-03-27 19:00:14 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:00:14 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:00:14 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:00:14 --> URI Class Initialized
+INFO - 2021-03-27 19:00:14 --> Router Class Initialized
+INFO - 2021-03-27 19:00:14 --> Output Class Initialized
+INFO - 2021-03-27 19:00:14 --> Security Class Initialized
+DEBUG - 2021-03-27 19:00:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:00:14 --> Input Class Initialized
+INFO - 2021-03-27 19:00:14 --> Language Class Initialized
+INFO - 2021-03-27 19:00:14 --> Loader Class Initialized
+INFO - 2021-03-27 19:00:14 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:00:14 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:00:14 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:00:14 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:00:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:00:14 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:00:14 --> Controller Class Initialized
+INFO - 2021-03-27 19:00:14 --> Model "Queries" initialized
+INFO - 2021-03-27 19:00:14 --> Final output sent to browser
+DEBUG - 2021-03-27 19:00:14 --> Total execution time: 0.0989
+INFO - 2021-03-27 19:09:29 --> Config Class Initialized
+INFO - 2021-03-27 19:09:29 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:09:29 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:09:29 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:09:29 --> URI Class Initialized
+INFO - 2021-03-27 19:09:29 --> Router Class Initialized
+INFO - 2021-03-27 19:09:29 --> Output Class Initialized
+INFO - 2021-03-27 19:09:29 --> Security Class Initialized
+DEBUG - 2021-03-27 19:09:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:09:29 --> Input Class Initialized
+INFO - 2021-03-27 19:09:29 --> Language Class Initialized
+INFO - 2021-03-27 19:09:29 --> Loader Class Initialized
+INFO - 2021-03-27 19:09:29 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:09:29 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:09:29 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:09:29 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:09:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:09:29 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:09:29 --> Controller Class Initialized
+INFO - 2021-03-27 19:09:29 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 19:09:29 --> Final output sent to browser
+DEBUG - 2021-03-27 19:09:29 --> Total execution time: 0.0826
+INFO - 2021-03-27 19:09:31 --> Config Class Initialized
+INFO - 2021-03-27 19:09:31 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:09:31 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:09:31 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:09:31 --> URI Class Initialized
+INFO - 2021-03-27 19:09:31 --> Router Class Initialized
+INFO - 2021-03-27 19:09:31 --> Output Class Initialized
+INFO - 2021-03-27 19:09:31 --> Security Class Initialized
+DEBUG - 2021-03-27 19:09:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:09:31 --> Input Class Initialized
+INFO - 2021-03-27 19:09:31 --> Language Class Initialized
+INFO - 2021-03-27 19:09:31 --> Loader Class Initialized
+INFO - 2021-03-27 19:09:31 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:09:31 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:09:31 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:09:31 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:09:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:09:31 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:09:31 --> Controller Class Initialized
+INFO - 2021-03-27 19:09:31 --> Model "Queries" initialized
+INFO - 2021-03-27 19:09:31 --> Final output sent to browser
+DEBUG - 2021-03-27 19:09:31 --> Total execution time: 0.0930
+INFO - 2021-03-27 19:09:33 --> Config Class Initialized
+INFO - 2021-03-27 19:09:33 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:09:33 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:09:33 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:09:33 --> URI Class Initialized
+INFO - 2021-03-27 19:09:33 --> Router Class Initialized
+INFO - 2021-03-27 19:09:33 --> Output Class Initialized
+INFO - 2021-03-27 19:09:33 --> Security Class Initialized
+DEBUG - 2021-03-27 19:09:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:09:33 --> Input Class Initialized
+INFO - 2021-03-27 19:09:33 --> Language Class Initialized
+INFO - 2021-03-27 19:09:33 --> Loader Class Initialized
+INFO - 2021-03-27 19:09:33 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:09:33 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:09:33 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:09:33 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:09:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:09:33 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:09:33 --> Controller Class Initialized
+INFO - 2021-03-27 19:09:33 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 19:09:33 --> Final output sent to browser
+DEBUG - 2021-03-27 19:09:33 --> Total execution time: 0.1050
+INFO - 2021-03-27 19:09:36 --> Config Class Initialized
+INFO - 2021-03-27 19:09:36 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:09:36 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:09:36 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:09:36 --> URI Class Initialized
+INFO - 2021-03-27 19:09:36 --> Router Class Initialized
+INFO - 2021-03-27 19:09:36 --> Output Class Initialized
+INFO - 2021-03-27 19:09:36 --> Security Class Initialized
+DEBUG - 2021-03-27 19:09:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:09:36 --> Input Class Initialized
+INFO - 2021-03-27 19:09:36 --> Language Class Initialized
+INFO - 2021-03-27 19:09:36 --> Loader Class Initialized
+INFO - 2021-03-27 19:09:36 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:09:36 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:09:36 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:09:36 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:09:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:09:36 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:09:36 --> Controller Class Initialized
+INFO - 2021-03-27 19:09:36 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 19:09:36 --> Final output sent to browser
+DEBUG - 2021-03-27 19:09:36 --> Total execution time: 0.0611
+INFO - 2021-03-27 19:09:37 --> Config Class Initialized
+INFO - 2021-03-27 19:09:37 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:09:37 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:09:37 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:09:37 --> URI Class Initialized
+INFO - 2021-03-27 19:09:37 --> Router Class Initialized
+INFO - 2021-03-27 19:09:37 --> Output Class Initialized
+INFO - 2021-03-27 19:09:37 --> Security Class Initialized
+DEBUG - 2021-03-27 19:09:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:09:37 --> Input Class Initialized
+INFO - 2021-03-27 19:09:37 --> Language Class Initialized
+INFO - 2021-03-27 19:09:37 --> Loader Class Initialized
+INFO - 2021-03-27 19:09:37 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:09:37 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:09:37 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:09:37 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:09:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:09:37 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:09:37 --> Controller Class Initialized
+INFO - 2021-03-27 19:09:37 --> Model "Queries" initialized
+INFO - 2021-03-27 19:09:37 --> Final output sent to browser
+DEBUG - 2021-03-27 19:09:37 --> Total execution time: 0.1146
+INFO - 2021-03-27 19:09:52 --> Config Class Initialized
+INFO - 2021-03-27 19:09:52 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:09:52 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:09:52 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:09:52 --> URI Class Initialized
+INFO - 2021-03-27 19:09:52 --> Router Class Initialized
+INFO - 2021-03-27 19:09:52 --> Output Class Initialized
+INFO - 2021-03-27 19:09:52 --> Security Class Initialized
+DEBUG - 2021-03-27 19:09:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:09:52 --> Input Class Initialized
+INFO - 2021-03-27 19:09:52 --> Language Class Initialized
+INFO - 2021-03-27 19:09:52 --> Loader Class Initialized
+INFO - 2021-03-27 19:09:52 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:09:52 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:09:52 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:09:52 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:09:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:09:52 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:09:52 --> Controller Class Initialized
+INFO - 2021-03-27 19:09:52 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 19:09:52 --> Final output sent to browser
+DEBUG - 2021-03-27 19:09:52 --> Total execution time: 0.0957
+INFO - 2021-03-27 19:09:53 --> Config Class Initialized
+INFO - 2021-03-27 19:09:53 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:09:53 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:09:53 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:09:53 --> URI Class Initialized
+INFO - 2021-03-27 19:09:53 --> Router Class Initialized
+INFO - 2021-03-27 19:09:53 --> Output Class Initialized
+INFO - 2021-03-27 19:09:53 --> Security Class Initialized
+DEBUG - 2021-03-27 19:09:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:09:53 --> Input Class Initialized
+INFO - 2021-03-27 19:09:53 --> Language Class Initialized
+INFO - 2021-03-27 19:09:53 --> Loader Class Initialized
+INFO - 2021-03-27 19:09:54 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:09:54 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:09:54 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:09:54 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:09:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:09:54 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:09:54 --> Controller Class Initialized
+INFO - 2021-03-27 19:09:54 --> Model "Queries" initialized
+INFO - 2021-03-27 19:09:54 --> Final output sent to browser
+DEBUG - 2021-03-27 19:09:54 --> Total execution time: 0.1013
+INFO - 2021-03-27 19:09:56 --> Config Class Initialized
+INFO - 2021-03-27 19:09:56 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:09:56 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:09:56 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:09:56 --> URI Class Initialized
+INFO - 2021-03-27 19:09:56 --> Router Class Initialized
+INFO - 2021-03-27 19:09:56 --> Output Class Initialized
+INFO - 2021-03-27 19:09:56 --> Security Class Initialized
+DEBUG - 2021-03-27 19:09:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:09:56 --> Input Class Initialized
+INFO - 2021-03-27 19:09:56 --> Language Class Initialized
+INFO - 2021-03-27 19:09:56 --> Loader Class Initialized
+INFO - 2021-03-27 19:09:56 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:09:56 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:09:56 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:09:56 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:09:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:09:56 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:09:56 --> Controller Class Initialized
+INFO - 2021-03-27 19:09:56 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 19:09:56 --> Final output sent to browser
+DEBUG - 2021-03-27 19:09:56 --> Total execution time: 0.0918
+INFO - 2021-03-27 19:09:57 --> Config Class Initialized
+INFO - 2021-03-27 19:09:57 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:09:57 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:09:57 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:09:57 --> URI Class Initialized
+INFO - 2021-03-27 19:09:57 --> Router Class Initialized
+INFO - 2021-03-27 19:09:57 --> Output Class Initialized
+INFO - 2021-03-27 19:09:57 --> Security Class Initialized
+DEBUG - 2021-03-27 19:09:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:09:57 --> Input Class Initialized
+INFO - 2021-03-27 19:09:57 --> Language Class Initialized
+INFO - 2021-03-27 19:09:57 --> Loader Class Initialized
+INFO - 2021-03-27 19:09:57 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:09:57 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:09:57 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:09:57 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:09:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:09:57 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:09:57 --> Controller Class Initialized
+INFO - 2021-03-27 19:09:57 --> Model "Queries" initialized
+INFO - 2021-03-27 19:09:57 --> Final output sent to browser
+DEBUG - 2021-03-27 19:09:57 --> Total execution time: 0.1258
+INFO - 2021-03-27 19:11:28 --> Config Class Initialized
+INFO - 2021-03-27 19:11:28 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:11:28 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:11:28 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:11:28 --> URI Class Initialized
+INFO - 2021-03-27 19:11:28 --> Router Class Initialized
+INFO - 2021-03-27 19:11:28 --> Output Class Initialized
+INFO - 2021-03-27 19:11:28 --> Security Class Initialized
+DEBUG - 2021-03-27 19:11:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:11:28 --> Input Class Initialized
+INFO - 2021-03-27 19:11:28 --> Language Class Initialized
+INFO - 2021-03-27 19:11:28 --> Loader Class Initialized
+INFO - 2021-03-27 19:11:28 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:11:28 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:11:28 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:11:28 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:11:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:11:28 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:11:28 --> Controller Class Initialized
+INFO - 2021-03-27 19:11:28 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 19:11:28 --> Final output sent to browser
+DEBUG - 2021-03-27 19:11:28 --> Total execution time: 0.0683
+INFO - 2021-03-27 19:11:30 --> Config Class Initialized
+INFO - 2021-03-27 19:11:30 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:11:30 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:11:30 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:11:30 --> URI Class Initialized
+INFO - 2021-03-27 19:11:30 --> Router Class Initialized
+INFO - 2021-03-27 19:11:30 --> Output Class Initialized
+INFO - 2021-03-27 19:11:30 --> Security Class Initialized
+DEBUG - 2021-03-27 19:11:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:11:30 --> Input Class Initialized
+INFO - 2021-03-27 19:11:30 --> Language Class Initialized
+INFO - 2021-03-27 19:11:30 --> Loader Class Initialized
+INFO - 2021-03-27 19:11:30 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:11:30 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:11:30 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:11:30 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:11:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:11:30 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:11:30 --> Controller Class Initialized
+INFO - 2021-03-27 19:11:30 --> Model "Queries" initialized
+INFO - 2021-03-27 19:11:30 --> Final output sent to browser
+DEBUG - 2021-03-27 19:11:30 --> Total execution time: 0.0799
+INFO - 2021-03-27 19:11:55 --> Config Class Initialized
+INFO - 2021-03-27 19:11:55 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:11:55 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:11:55 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:11:55 --> URI Class Initialized
+INFO - 2021-03-27 19:11:55 --> Router Class Initialized
+INFO - 2021-03-27 19:11:55 --> Output Class Initialized
+INFO - 2021-03-27 19:11:55 --> Security Class Initialized
+DEBUG - 2021-03-27 19:11:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:11:55 --> Input Class Initialized
+INFO - 2021-03-27 19:11:55 --> Language Class Initialized
+INFO - 2021-03-27 19:11:55 --> Loader Class Initialized
+INFO - 2021-03-27 19:11:55 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:11:55 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:11:55 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:11:55 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:11:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:11:55 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:11:55 --> Controller Class Initialized
+INFO - 2021-03-27 19:11:55 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 19:11:55 --> Final output sent to browser
+DEBUG - 2021-03-27 19:11:55 --> Total execution time: 0.0561
+INFO - 2021-03-27 19:11:56 --> Config Class Initialized
+INFO - 2021-03-27 19:11:56 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:11:56 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:11:56 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:11:56 --> URI Class Initialized
+INFO - 2021-03-27 19:11:56 --> Router Class Initialized
+INFO - 2021-03-27 19:11:56 --> Output Class Initialized
+INFO - 2021-03-27 19:11:56 --> Security Class Initialized
+DEBUG - 2021-03-27 19:11:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:11:56 --> Input Class Initialized
+INFO - 2021-03-27 19:11:56 --> Language Class Initialized
+INFO - 2021-03-27 19:11:56 --> Loader Class Initialized
+INFO - 2021-03-27 19:11:56 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:11:56 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:11:56 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:11:56 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:11:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:11:56 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:11:56 --> Controller Class Initialized
+INFO - 2021-03-27 19:11:56 --> Model "Queries" initialized
+INFO - 2021-03-27 19:11:56 --> Final output sent to browser
+DEBUG - 2021-03-27 19:11:56 --> Total execution time: 0.0736
+INFO - 2021-03-27 19:21:18 --> Config Class Initialized
+INFO - 2021-03-27 19:21:18 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:21:18 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:21:18 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:21:18 --> URI Class Initialized
+INFO - 2021-03-27 19:21:18 --> Router Class Initialized
+INFO - 2021-03-27 19:21:18 --> Output Class Initialized
+INFO - 2021-03-27 19:21:18 --> Security Class Initialized
+DEBUG - 2021-03-27 19:21:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:21:18 --> Input Class Initialized
+INFO - 2021-03-27 19:21:18 --> Language Class Initialized
+INFO - 2021-03-27 19:21:18 --> Loader Class Initialized
+INFO - 2021-03-27 19:21:18 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:21:18 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:21:18 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:21:18 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:21:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:21:18 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:21:18 --> Controller Class Initialized
+INFO - 2021-03-27 19:21:18 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 19:21:18 --> Final output sent to browser
+DEBUG - 2021-03-27 19:21:18 --> Total execution time: 0.1135
+INFO - 2021-03-27 19:21:20 --> Config Class Initialized
+INFO - 2021-03-27 19:21:20 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:21:20 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:21:20 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:21:20 --> URI Class Initialized
+INFO - 2021-03-27 19:21:20 --> Router Class Initialized
+INFO - 2021-03-27 19:21:20 --> Output Class Initialized
+INFO - 2021-03-27 19:21:20 --> Security Class Initialized
+DEBUG - 2021-03-27 19:21:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:21:20 --> Input Class Initialized
+INFO - 2021-03-27 19:21:20 --> Language Class Initialized
+INFO - 2021-03-27 19:21:20 --> Loader Class Initialized
+INFO - 2021-03-27 19:21:20 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:21:20 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:21:20 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:21:20 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:21:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:21:20 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:21:20 --> Controller Class Initialized
+INFO - 2021-03-27 19:21:20 --> Model "Queries" initialized
+INFO - 2021-03-27 19:21:20 --> Final output sent to browser
+DEBUG - 2021-03-27 19:21:20 --> Total execution time: 0.1101
+INFO - 2021-03-27 19:23:23 --> Config Class Initialized
+INFO - 2021-03-27 19:23:23 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:23:23 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:23:23 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:23:23 --> URI Class Initialized
+INFO - 2021-03-27 19:23:23 --> Router Class Initialized
+INFO - 2021-03-27 19:23:23 --> Output Class Initialized
+INFO - 2021-03-27 19:23:23 --> Security Class Initialized
+DEBUG - 2021-03-27 19:23:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:23:23 --> Input Class Initialized
+INFO - 2021-03-27 19:23:23 --> Language Class Initialized
+INFO - 2021-03-27 19:23:23 --> Loader Class Initialized
+INFO - 2021-03-27 19:23:23 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:23:23 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:23:23 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:23:23 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:23:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:23:23 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:23:23 --> Controller Class Initialized
+INFO - 2021-03-27 19:23:23 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 19:23:23 --> Final output sent to browser
+DEBUG - 2021-03-27 19:23:23 --> Total execution time: 0.0886
+INFO - 2021-03-27 19:23:25 --> Config Class Initialized
+INFO - 2021-03-27 19:23:25 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:23:25 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:23:25 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:23:25 --> URI Class Initialized
+INFO - 2021-03-27 19:23:25 --> Router Class Initialized
+INFO - 2021-03-27 19:23:25 --> Output Class Initialized
+INFO - 2021-03-27 19:23:25 --> Security Class Initialized
+DEBUG - 2021-03-27 19:23:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:23:25 --> Input Class Initialized
+INFO - 2021-03-27 19:23:25 --> Language Class Initialized
+INFO - 2021-03-27 19:23:25 --> Loader Class Initialized
+INFO - 2021-03-27 19:23:25 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:23:25 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:23:25 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:23:25 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:23:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:23:25 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:23:25 --> Controller Class Initialized
+INFO - 2021-03-27 19:23:25 --> Model "Queries" initialized
+INFO - 2021-03-27 19:23:25 --> Final output sent to browser
+DEBUG - 2021-03-27 19:23:25 --> Total execution time: 0.0971
+INFO - 2021-03-27 19:23:41 --> Config Class Initialized
+INFO - 2021-03-27 19:23:41 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:23:41 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:23:41 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:23:41 --> URI Class Initialized
+INFO - 2021-03-27 19:23:41 --> Router Class Initialized
+INFO - 2021-03-27 19:23:41 --> Output Class Initialized
+INFO - 2021-03-27 19:23:41 --> Security Class Initialized
+DEBUG - 2021-03-27 19:23:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:23:41 --> Input Class Initialized
+INFO - 2021-03-27 19:23:41 --> Language Class Initialized
+INFO - 2021-03-27 19:23:41 --> Loader Class Initialized
+INFO - 2021-03-27 19:23:41 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:23:41 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:23:41 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:23:41 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:23:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:23:41 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:23:41 --> Controller Class Initialized
+INFO - 2021-03-27 19:23:41 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 19:23:41 --> Final output sent to browser
+DEBUG - 2021-03-27 19:23:41 --> Total execution time: 0.1003
+INFO - 2021-03-27 19:23:42 --> Config Class Initialized
+INFO - 2021-03-27 19:23:42 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:23:42 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:23:42 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:23:42 --> URI Class Initialized
+INFO - 2021-03-27 19:23:42 --> Router Class Initialized
+INFO - 2021-03-27 19:23:42 --> Output Class Initialized
+INFO - 2021-03-27 19:23:43 --> Security Class Initialized
+DEBUG - 2021-03-27 19:23:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:23:43 --> Input Class Initialized
+INFO - 2021-03-27 19:23:43 --> Language Class Initialized
+INFO - 2021-03-27 19:23:43 --> Loader Class Initialized
+INFO - 2021-03-27 19:23:43 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:23:43 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:23:43 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:23:43 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:23:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:23:43 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:23:43 --> Controller Class Initialized
+INFO - 2021-03-27 19:23:43 --> Model "Queries" initialized
+INFO - 2021-03-27 19:23:43 --> Final output sent to browser
+DEBUG - 2021-03-27 19:23:43 --> Total execution time: 0.0751
+INFO - 2021-03-27 19:25:59 --> Config Class Initialized
+INFO - 2021-03-27 19:25:59 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:25:59 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:25:59 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:25:59 --> URI Class Initialized
+INFO - 2021-03-27 19:25:59 --> Router Class Initialized
+INFO - 2021-03-27 19:25:59 --> Output Class Initialized
+INFO - 2021-03-27 19:25:59 --> Security Class Initialized
+DEBUG - 2021-03-27 19:25:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:25:59 --> Input Class Initialized
+INFO - 2021-03-27 19:25:59 --> Language Class Initialized
+INFO - 2021-03-27 19:25:59 --> Loader Class Initialized
+INFO - 2021-03-27 19:25:59 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:25:59 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:25:59 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:25:59 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:25:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:25:59 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:25:59 --> Controller Class Initialized
+INFO - 2021-03-27 19:25:59 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 19:25:59 --> Final output sent to browser
+DEBUG - 2021-03-27 19:25:59 --> Total execution time: 0.0845
+INFO - 2021-03-27 19:26:00 --> Config Class Initialized
+INFO - 2021-03-27 19:26:00 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:26:00 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:26:00 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:26:00 --> URI Class Initialized
+INFO - 2021-03-27 19:26:00 --> Router Class Initialized
+INFO - 2021-03-27 19:26:00 --> Output Class Initialized
+INFO - 2021-03-27 19:26:00 --> Security Class Initialized
+DEBUG - 2021-03-27 19:26:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:26:00 --> Input Class Initialized
+INFO - 2021-03-27 19:26:00 --> Language Class Initialized
+INFO - 2021-03-27 19:26:00 --> Loader Class Initialized
+INFO - 2021-03-27 19:26:00 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:26:00 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:26:00 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:26:00 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:26:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:26:00 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:26:00 --> Controller Class Initialized
+INFO - 2021-03-27 19:26:00 --> Model "Queries" initialized
+INFO - 2021-03-27 19:26:00 --> Final output sent to browser
+DEBUG - 2021-03-27 19:26:00 --> Total execution time: 0.0913
+INFO - 2021-03-27 19:27:46 --> Config Class Initialized
+INFO - 2021-03-27 19:27:46 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:27:46 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:27:46 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:27:46 --> URI Class Initialized
+INFO - 2021-03-27 19:27:46 --> Router Class Initialized
+INFO - 2021-03-27 19:27:46 --> Output Class Initialized
+INFO - 2021-03-27 19:27:46 --> Security Class Initialized
+DEBUG - 2021-03-27 19:27:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:27:46 --> Input Class Initialized
+INFO - 2021-03-27 19:27:46 --> Language Class Initialized
+INFO - 2021-03-27 19:27:46 --> Loader Class Initialized
+INFO - 2021-03-27 19:27:46 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:27:46 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:27:46 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:27:46 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:27:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:27:46 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:27:46 --> Controller Class Initialized
+INFO - 2021-03-27 19:27:46 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 19:27:46 --> Final output sent to browser
+DEBUG - 2021-03-27 19:27:46 --> Total execution time: 0.0923
+INFO - 2021-03-27 19:27:47 --> Config Class Initialized
+INFO - 2021-03-27 19:27:47 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:27:47 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:27:47 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:27:47 --> URI Class Initialized
+INFO - 2021-03-27 19:27:47 --> Router Class Initialized
+INFO - 2021-03-27 19:27:47 --> Output Class Initialized
+INFO - 2021-03-27 19:27:47 --> Security Class Initialized
+DEBUG - 2021-03-27 19:27:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:27:47 --> Input Class Initialized
+INFO - 2021-03-27 19:27:47 --> Language Class Initialized
+INFO - 2021-03-27 19:27:47 --> Loader Class Initialized
+INFO - 2021-03-27 19:27:47 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:27:47 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:27:47 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:27:47 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:27:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:27:47 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:27:47 --> Controller Class Initialized
+INFO - 2021-03-27 19:27:47 --> Model "Queries" initialized
+INFO - 2021-03-27 19:27:47 --> Final output sent to browser
+DEBUG - 2021-03-27 19:27:47 --> Total execution time: 0.0634
+INFO - 2021-03-27 19:30:33 --> Config Class Initialized
+INFO - 2021-03-27 19:30:33 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:30:33 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:30:33 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:30:33 --> URI Class Initialized
+INFO - 2021-03-27 19:30:33 --> Router Class Initialized
+INFO - 2021-03-27 19:30:33 --> Output Class Initialized
+INFO - 2021-03-27 19:30:33 --> Security Class Initialized
+DEBUG - 2021-03-27 19:30:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:30:33 --> Input Class Initialized
+INFO - 2021-03-27 19:30:33 --> Language Class Initialized
+INFO - 2021-03-27 19:30:33 --> Loader Class Initialized
+INFO - 2021-03-27 19:30:33 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:30:33 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:30:33 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:30:33 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:30:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:30:33 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:30:33 --> Controller Class Initialized
+INFO - 2021-03-27 19:30:33 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 19:30:33 --> Final output sent to browser
+DEBUG - 2021-03-27 19:30:33 --> Total execution time: 0.0868
+INFO - 2021-03-27 19:30:34 --> Config Class Initialized
+INFO - 2021-03-27 19:30:34 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:30:34 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:30:34 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:30:34 --> URI Class Initialized
+INFO - 2021-03-27 19:30:34 --> Router Class Initialized
+INFO - 2021-03-27 19:30:34 --> Output Class Initialized
+INFO - 2021-03-27 19:30:34 --> Security Class Initialized
+DEBUG - 2021-03-27 19:30:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:30:34 --> Input Class Initialized
+INFO - 2021-03-27 19:30:34 --> Language Class Initialized
+INFO - 2021-03-27 19:30:34 --> Loader Class Initialized
+INFO - 2021-03-27 19:30:34 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:30:34 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:30:34 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:30:34 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:30:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:30:34 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:30:34 --> Controller Class Initialized
+INFO - 2021-03-27 19:30:34 --> Model "Queries" initialized
+INFO - 2021-03-27 19:30:34 --> Final output sent to browser
+DEBUG - 2021-03-27 19:30:34 --> Total execution time: 0.1004
+INFO - 2021-03-27 19:31:18 --> Config Class Initialized
+INFO - 2021-03-27 19:31:18 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:31:18 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:31:18 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:31:18 --> URI Class Initialized
+INFO - 2021-03-27 19:31:18 --> Router Class Initialized
+INFO - 2021-03-27 19:31:18 --> Output Class Initialized
+INFO - 2021-03-27 19:31:18 --> Security Class Initialized
+DEBUG - 2021-03-27 19:31:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:31:18 --> Input Class Initialized
+INFO - 2021-03-27 19:31:18 --> Language Class Initialized
+INFO - 2021-03-27 19:31:18 --> Loader Class Initialized
+INFO - 2021-03-27 19:31:18 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:31:18 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:31:18 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:31:18 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:31:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:31:18 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:31:18 --> Controller Class Initialized
+INFO - 2021-03-27 19:31:18 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 19:31:18 --> Final output sent to browser
+DEBUG - 2021-03-27 19:31:18 --> Total execution time: 0.1502
+INFO - 2021-03-27 19:31:20 --> Config Class Initialized
+INFO - 2021-03-27 19:31:20 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:31:20 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:31:20 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:31:20 --> URI Class Initialized
+INFO - 2021-03-27 19:31:20 --> Router Class Initialized
+INFO - 2021-03-27 19:31:20 --> Output Class Initialized
+INFO - 2021-03-27 19:31:20 --> Security Class Initialized
+DEBUG - 2021-03-27 19:31:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:31:20 --> Input Class Initialized
+INFO - 2021-03-27 19:31:20 --> Language Class Initialized
+INFO - 2021-03-27 19:31:20 --> Loader Class Initialized
+INFO - 2021-03-27 19:31:20 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:31:20 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:31:20 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:31:20 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:31:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:31:20 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:31:20 --> Controller Class Initialized
+INFO - 2021-03-27 19:31:20 --> Model "Queries" initialized
+INFO - 2021-03-27 19:31:20 --> Final output sent to browser
+DEBUG - 2021-03-27 19:31:20 --> Total execution time: 0.1404
+INFO - 2021-03-27 19:33:05 --> Config Class Initialized
+INFO - 2021-03-27 19:33:05 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:33:05 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:33:05 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:33:05 --> URI Class Initialized
+INFO - 2021-03-27 19:33:05 --> Router Class Initialized
+INFO - 2021-03-27 19:33:05 --> Output Class Initialized
+INFO - 2021-03-27 19:33:05 --> Security Class Initialized
+DEBUG - 2021-03-27 19:33:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:33:05 --> Input Class Initialized
+INFO - 2021-03-27 19:33:05 --> Language Class Initialized
+INFO - 2021-03-27 19:33:05 --> Loader Class Initialized
+INFO - 2021-03-27 19:33:05 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:33:05 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:33:05 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:33:05 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:33:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:33:05 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:33:05 --> Controller Class Initialized
+INFO - 2021-03-27 19:33:05 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 19:33:05 --> Final output sent to browser
+DEBUG - 2021-03-27 19:33:05 --> Total execution time: 0.1262
+INFO - 2021-03-27 19:33:06 --> Config Class Initialized
+INFO - 2021-03-27 19:33:06 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:33:06 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:33:06 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:33:06 --> URI Class Initialized
+INFO - 2021-03-27 19:33:06 --> Router Class Initialized
+INFO - 2021-03-27 19:33:06 --> Output Class Initialized
+INFO - 2021-03-27 19:33:06 --> Security Class Initialized
+DEBUG - 2021-03-27 19:33:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:33:06 --> Input Class Initialized
+INFO - 2021-03-27 19:33:07 --> Language Class Initialized
+INFO - 2021-03-27 19:33:07 --> Loader Class Initialized
+INFO - 2021-03-27 19:33:07 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:33:07 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:33:07 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:33:07 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:33:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:33:07 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:33:07 --> Controller Class Initialized
+INFO - 2021-03-27 19:33:07 --> Model "Queries" initialized
+INFO - 2021-03-27 19:33:07 --> Final output sent to browser
+DEBUG - 2021-03-27 19:33:07 --> Total execution time: 0.0643
+INFO - 2021-03-27 19:35:41 --> Config Class Initialized
+INFO - 2021-03-27 19:35:41 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:35:41 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:35:41 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:35:41 --> URI Class Initialized
+INFO - 2021-03-27 19:35:41 --> Router Class Initialized
+INFO - 2021-03-27 19:35:41 --> Output Class Initialized
+INFO - 2021-03-27 19:35:41 --> Security Class Initialized
+DEBUG - 2021-03-27 19:35:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:35:41 --> Input Class Initialized
+INFO - 2021-03-27 19:35:41 --> Language Class Initialized
+INFO - 2021-03-27 19:35:41 --> Loader Class Initialized
+INFO - 2021-03-27 19:35:41 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:35:41 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:35:41 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:35:41 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:35:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:35:41 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:35:41 --> Controller Class Initialized
+INFO - 2021-03-27 19:35:41 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 19:35:41 --> Final output sent to browser
+DEBUG - 2021-03-27 19:35:41 --> Total execution time: 0.0917
+INFO - 2021-03-27 19:35:43 --> Config Class Initialized
+INFO - 2021-03-27 19:35:43 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:35:43 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:35:43 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:35:43 --> URI Class Initialized
+INFO - 2021-03-27 19:35:43 --> Router Class Initialized
+INFO - 2021-03-27 19:35:43 --> Output Class Initialized
+INFO - 2021-03-27 19:35:43 --> Security Class Initialized
+DEBUG - 2021-03-27 19:35:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:35:43 --> Input Class Initialized
+INFO - 2021-03-27 19:35:43 --> Language Class Initialized
+INFO - 2021-03-27 19:35:43 --> Loader Class Initialized
+INFO - 2021-03-27 19:35:43 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:35:43 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:35:43 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:35:43 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:35:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:35:43 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:35:43 --> Controller Class Initialized
+INFO - 2021-03-27 19:35:43 --> Model "Queries" initialized
+INFO - 2021-03-27 19:35:43 --> Final output sent to browser
+DEBUG - 2021-03-27 19:35:43 --> Total execution time: 0.0849
+INFO - 2021-03-27 19:36:05 --> Config Class Initialized
+INFO - 2021-03-27 19:36:05 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:36:05 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:36:05 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:36:05 --> URI Class Initialized
+INFO - 2021-03-27 19:36:05 --> Router Class Initialized
+INFO - 2021-03-27 19:36:05 --> Output Class Initialized
+INFO - 2021-03-27 19:36:05 --> Security Class Initialized
+DEBUG - 2021-03-27 19:36:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:36:05 --> Input Class Initialized
+INFO - 2021-03-27 19:36:05 --> Language Class Initialized
+INFO - 2021-03-27 19:36:05 --> Loader Class Initialized
+INFO - 2021-03-27 19:36:05 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:36:05 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:36:05 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:36:05 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:36:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:36:05 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:36:05 --> Controller Class Initialized
+INFO - 2021-03-27 19:36:05 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 19:36:05 --> Final output sent to browser
+DEBUG - 2021-03-27 19:36:05 --> Total execution time: 0.0773
+INFO - 2021-03-27 19:36:07 --> Config Class Initialized
+INFO - 2021-03-27 19:36:07 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:36:07 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:36:07 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:36:07 --> URI Class Initialized
+INFO - 2021-03-27 19:36:07 --> Router Class Initialized
+INFO - 2021-03-27 19:36:07 --> Output Class Initialized
+INFO - 2021-03-27 19:36:07 --> Security Class Initialized
+DEBUG - 2021-03-27 19:36:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:36:07 --> Input Class Initialized
+INFO - 2021-03-27 19:36:07 --> Language Class Initialized
+INFO - 2021-03-27 19:36:07 --> Loader Class Initialized
+INFO - 2021-03-27 19:36:07 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:36:07 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:36:07 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:36:07 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:36:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:36:07 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:36:07 --> Controller Class Initialized
+INFO - 2021-03-27 19:36:07 --> Model "Queries" initialized
+INFO - 2021-03-27 19:36:07 --> Final output sent to browser
+DEBUG - 2021-03-27 19:36:07 --> Total execution time: 0.0809
+INFO - 2021-03-27 19:37:36 --> Config Class Initialized
+INFO - 2021-03-27 19:37:36 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:37:36 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:37:36 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:37:36 --> URI Class Initialized
+INFO - 2021-03-27 19:37:36 --> Router Class Initialized
+INFO - 2021-03-27 19:37:36 --> Output Class Initialized
+INFO - 2021-03-27 19:37:36 --> Security Class Initialized
+DEBUG - 2021-03-27 19:37:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:37:36 --> Input Class Initialized
+INFO - 2021-03-27 19:37:36 --> Language Class Initialized
+INFO - 2021-03-27 19:37:36 --> Loader Class Initialized
+INFO - 2021-03-27 19:37:36 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:37:36 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:37:36 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:37:36 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:37:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:37:36 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:37:36 --> Controller Class Initialized
+INFO - 2021-03-27 19:37:36 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 19:37:36 --> Final output sent to browser
+DEBUG - 2021-03-27 19:37:36 --> Total execution time: 0.0514
+INFO - 2021-03-27 19:37:39 --> Config Class Initialized
+INFO - 2021-03-27 19:37:39 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:37:39 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:37:39 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:37:39 --> URI Class Initialized
+INFO - 2021-03-27 19:37:39 --> Router Class Initialized
+INFO - 2021-03-27 19:37:39 --> Output Class Initialized
+INFO - 2021-03-27 19:37:39 --> Security Class Initialized
+DEBUG - 2021-03-27 19:37:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:37:40 --> Input Class Initialized
+INFO - 2021-03-27 19:37:40 --> Language Class Initialized
+INFO - 2021-03-27 19:37:40 --> Loader Class Initialized
+INFO - 2021-03-27 19:37:40 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:37:40 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:37:40 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:37:40 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:37:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:37:40 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:37:40 --> Controller Class Initialized
+INFO - 2021-03-27 19:37:40 --> Model "Queries" initialized
+INFO - 2021-03-27 19:37:40 --> Final output sent to browser
+DEBUG - 2021-03-27 19:37:40 --> Total execution time: 0.1060
+INFO - 2021-03-27 19:38:45 --> Config Class Initialized
+INFO - 2021-03-27 19:38:45 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:38:45 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:38:45 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:38:45 --> URI Class Initialized
+INFO - 2021-03-27 19:38:45 --> Router Class Initialized
+INFO - 2021-03-27 19:38:45 --> Output Class Initialized
+INFO - 2021-03-27 19:38:45 --> Security Class Initialized
+DEBUG - 2021-03-27 19:38:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:38:45 --> Input Class Initialized
+INFO - 2021-03-27 19:38:45 --> Language Class Initialized
+INFO - 2021-03-27 19:38:45 --> Loader Class Initialized
+INFO - 2021-03-27 19:38:45 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:38:45 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:38:45 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:38:45 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:38:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:38:45 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:38:45 --> Controller Class Initialized
+INFO - 2021-03-27 19:38:45 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 19:38:45 --> Final output sent to browser
+DEBUG - 2021-03-27 19:38:45 --> Total execution time: 0.1303
+INFO - 2021-03-27 19:38:47 --> Config Class Initialized
+INFO - 2021-03-27 19:38:47 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:38:47 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:38:47 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:38:47 --> URI Class Initialized
+INFO - 2021-03-27 19:38:47 --> Router Class Initialized
+INFO - 2021-03-27 19:38:47 --> Output Class Initialized
+INFO - 2021-03-27 19:38:47 --> Security Class Initialized
+DEBUG - 2021-03-27 19:38:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:38:47 --> Input Class Initialized
+INFO - 2021-03-27 19:38:47 --> Language Class Initialized
+INFO - 2021-03-27 19:38:47 --> Loader Class Initialized
+INFO - 2021-03-27 19:38:47 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:38:47 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:38:47 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:38:47 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:38:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:38:47 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:38:47 --> Controller Class Initialized
+INFO - 2021-03-27 19:38:47 --> Model "Queries" initialized
+INFO - 2021-03-27 19:38:47 --> Final output sent to browser
+DEBUG - 2021-03-27 19:38:47 --> Total execution time: 0.0614
+INFO - 2021-03-27 19:41:16 --> Config Class Initialized
+INFO - 2021-03-27 19:41:16 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:41:16 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:41:16 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:41:16 --> URI Class Initialized
+INFO - 2021-03-27 19:41:16 --> Router Class Initialized
+INFO - 2021-03-27 19:41:16 --> Output Class Initialized
+INFO - 2021-03-27 19:41:16 --> Security Class Initialized
+DEBUG - 2021-03-27 19:41:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:41:16 --> Input Class Initialized
+INFO - 2021-03-27 19:41:16 --> Language Class Initialized
+INFO - 2021-03-27 19:41:16 --> Loader Class Initialized
+INFO - 2021-03-27 19:41:16 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:41:16 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:41:16 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:41:16 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:41:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:41:16 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:41:16 --> Controller Class Initialized
+INFO - 2021-03-27 19:41:16 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 19:41:16 --> Final output sent to browser
+DEBUG - 2021-03-27 19:41:16 --> Total execution time: 0.0525
+INFO - 2021-03-27 19:41:18 --> Config Class Initialized
+INFO - 2021-03-27 19:41:18 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:41:18 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:41:18 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:41:18 --> URI Class Initialized
+INFO - 2021-03-27 19:41:18 --> Router Class Initialized
+INFO - 2021-03-27 19:41:18 --> Output Class Initialized
+INFO - 2021-03-27 19:41:18 --> Security Class Initialized
+DEBUG - 2021-03-27 19:41:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:41:18 --> Input Class Initialized
+INFO - 2021-03-27 19:41:18 --> Language Class Initialized
+INFO - 2021-03-27 19:41:18 --> Loader Class Initialized
+INFO - 2021-03-27 19:41:18 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:41:18 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:41:18 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:41:18 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:41:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:41:18 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:41:18 --> Controller Class Initialized
+INFO - 2021-03-27 19:41:18 --> Model "Queries" initialized
+INFO - 2021-03-27 19:41:18 --> Final output sent to browser
+DEBUG - 2021-03-27 19:41:18 --> Total execution time: 0.0597
+INFO - 2021-03-27 19:41:36 --> Config Class Initialized
+INFO - 2021-03-27 19:41:36 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:41:36 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:41:36 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:41:36 --> URI Class Initialized
+INFO - 2021-03-27 19:41:36 --> Router Class Initialized
+INFO - 2021-03-27 19:41:36 --> Output Class Initialized
+INFO - 2021-03-27 19:41:36 --> Security Class Initialized
+DEBUG - 2021-03-27 19:41:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:41:36 --> Input Class Initialized
+INFO - 2021-03-27 19:41:36 --> Language Class Initialized
+INFO - 2021-03-27 19:41:36 --> Loader Class Initialized
+INFO - 2021-03-27 19:41:36 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:41:36 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:41:36 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:41:36 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:41:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:41:36 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:41:36 --> Controller Class Initialized
+INFO - 2021-03-27 19:41:36 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 19:41:36 --> Final output sent to browser
+DEBUG - 2021-03-27 19:41:36 --> Total execution time: 0.0353
+INFO - 2021-03-27 19:41:37 --> Config Class Initialized
+INFO - 2021-03-27 19:41:37 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:41:37 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:41:37 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:41:37 --> URI Class Initialized
+INFO - 2021-03-27 19:41:37 --> Router Class Initialized
+INFO - 2021-03-27 19:41:37 --> Output Class Initialized
+INFO - 2021-03-27 19:41:37 --> Security Class Initialized
+DEBUG - 2021-03-27 19:41:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:41:37 --> Input Class Initialized
+INFO - 2021-03-27 19:41:37 --> Language Class Initialized
+INFO - 2021-03-27 19:41:37 --> Loader Class Initialized
+INFO - 2021-03-27 19:41:37 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:41:37 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:41:38 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:41:38 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:41:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:41:38 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:41:38 --> Controller Class Initialized
+INFO - 2021-03-27 19:41:38 --> Model "Queries" initialized
+INFO - 2021-03-27 19:41:38 --> Final output sent to browser
+DEBUG - 2021-03-27 19:41:38 --> Total execution time: 0.0771
+INFO - 2021-03-27 19:54:03 --> Config Class Initialized
+INFO - 2021-03-27 19:54:03 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:54:03 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:54:03 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:54:03 --> URI Class Initialized
+INFO - 2021-03-27 19:54:03 --> Router Class Initialized
+INFO - 2021-03-27 19:54:03 --> Output Class Initialized
+INFO - 2021-03-27 19:54:03 --> Security Class Initialized
+DEBUG - 2021-03-27 19:54:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:54:03 --> Input Class Initialized
+INFO - 2021-03-27 19:54:03 --> Language Class Initialized
+INFO - 2021-03-27 19:54:03 --> Loader Class Initialized
+INFO - 2021-03-27 19:54:03 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:54:03 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:54:03 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:54:03 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:54:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:54:03 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:54:03 --> Controller Class Initialized
+INFO - 2021-03-27 19:54:03 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 19:54:03 --> Final output sent to browser
+DEBUG - 2021-03-27 19:54:03 --> Total execution time: 0.0617
+INFO - 2021-03-27 19:54:04 --> Config Class Initialized
+INFO - 2021-03-27 19:54:04 --> Hooks Class Initialized
+DEBUG - 2021-03-27 19:54:04 --> UTF-8 Support Enabled
+INFO - 2021-03-27 19:54:04 --> Utf8 Class Initialized
+INFO - 2021-03-27 19:54:04 --> URI Class Initialized
+INFO - 2021-03-27 19:54:04 --> Router Class Initialized
+INFO - 2021-03-27 19:54:04 --> Output Class Initialized
+INFO - 2021-03-27 19:54:04 --> Security Class Initialized
+DEBUG - 2021-03-27 19:54:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 19:54:04 --> Input Class Initialized
+INFO - 2021-03-27 19:54:04 --> Language Class Initialized
+INFO - 2021-03-27 19:54:04 --> Loader Class Initialized
+INFO - 2021-03-27 19:54:04 --> Helper loaded: url_helper
+INFO - 2021-03-27 19:54:04 --> Database Driver Class Initialized
+INFO - 2021-03-27 19:54:04 --> Helper loaded: form_helper
+INFO - 2021-03-27 19:54:04 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 19:54:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 19:54:04 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 19:54:04 --> Controller Class Initialized
+INFO - 2021-03-27 19:54:04 --> Model "Queries" initialized
+INFO - 2021-03-27 19:54:04 --> Final output sent to browser
+DEBUG - 2021-03-27 19:54:04 --> Total execution time: 0.0758
+INFO - 2021-03-27 20:09:42 --> Config Class Initialized
+INFO - 2021-03-27 20:09:42 --> Hooks Class Initialized
+DEBUG - 2021-03-27 20:09:42 --> UTF-8 Support Enabled
+INFO - 2021-03-27 20:09:42 --> Utf8 Class Initialized
+INFO - 2021-03-27 20:09:42 --> URI Class Initialized
+INFO - 2021-03-27 20:09:42 --> Router Class Initialized
+INFO - 2021-03-27 20:09:42 --> Output Class Initialized
+INFO - 2021-03-27 20:09:42 --> Security Class Initialized
+DEBUG - 2021-03-27 20:09:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 20:09:42 --> Input Class Initialized
+INFO - 2021-03-27 20:09:42 --> Language Class Initialized
+INFO - 2021-03-27 20:09:42 --> Loader Class Initialized
+INFO - 2021-03-27 20:09:42 --> Helper loaded: url_helper
+INFO - 2021-03-27 20:09:42 --> Database Driver Class Initialized
+INFO - 2021-03-27 20:09:42 --> Helper loaded: form_helper
+INFO - 2021-03-27 20:09:42 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 20:09:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 20:09:42 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 20:09:42 --> Controller Class Initialized
+INFO - 2021-03-27 20:09:42 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 20:09:42 --> Final output sent to browser
+DEBUG - 2021-03-27 20:09:42 --> Total execution time: 0.0483
+INFO - 2021-03-27 20:09:44 --> Config Class Initialized
+INFO - 2021-03-27 20:09:44 --> Hooks Class Initialized
+DEBUG - 2021-03-27 20:09:44 --> UTF-8 Support Enabled
+INFO - 2021-03-27 20:09:44 --> Utf8 Class Initialized
+INFO - 2021-03-27 20:09:44 --> URI Class Initialized
+INFO - 2021-03-27 20:09:44 --> Router Class Initialized
+INFO - 2021-03-27 20:09:44 --> Output Class Initialized
+INFO - 2021-03-27 20:09:44 --> Security Class Initialized
+DEBUG - 2021-03-27 20:09:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 20:09:44 --> Input Class Initialized
+INFO - 2021-03-27 20:09:44 --> Language Class Initialized
+INFO - 2021-03-27 20:09:44 --> Loader Class Initialized
+INFO - 2021-03-27 20:09:44 --> Helper loaded: url_helper
+INFO - 2021-03-27 20:09:44 --> Database Driver Class Initialized
+INFO - 2021-03-27 20:09:44 --> Helper loaded: form_helper
+INFO - 2021-03-27 20:09:44 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 20:09:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 20:09:44 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 20:09:44 --> Controller Class Initialized
+INFO - 2021-03-27 20:09:44 --> Model "Queries" initialized
+INFO - 2021-03-27 20:09:44 --> Final output sent to browser
+DEBUG - 2021-03-27 20:09:44 --> Total execution time: 0.0900
+INFO - 2021-03-27 20:10:17 --> Config Class Initialized
+INFO - 2021-03-27 20:10:17 --> Hooks Class Initialized
+DEBUG - 2021-03-27 20:10:17 --> UTF-8 Support Enabled
+INFO - 2021-03-27 20:10:17 --> Utf8 Class Initialized
+INFO - 2021-03-27 20:10:17 --> URI Class Initialized
+INFO - 2021-03-27 20:10:17 --> Router Class Initialized
+INFO - 2021-03-27 20:10:17 --> Output Class Initialized
+INFO - 2021-03-27 20:10:17 --> Security Class Initialized
+DEBUG - 2021-03-27 20:10:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 20:10:17 --> Input Class Initialized
+INFO - 2021-03-27 20:10:17 --> Language Class Initialized
+INFO - 2021-03-27 20:10:17 --> Loader Class Initialized
+INFO - 2021-03-27 20:10:17 --> Helper loaded: url_helper
+INFO - 2021-03-27 20:10:17 --> Database Driver Class Initialized
+INFO - 2021-03-27 20:10:17 --> Helper loaded: form_helper
+INFO - 2021-03-27 20:10:17 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 20:10:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 20:10:17 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 20:10:17 --> Controller Class Initialized
+INFO - 2021-03-27 20:10:17 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 20:10:17 --> Final output sent to browser
+DEBUG - 2021-03-27 20:10:17 --> Total execution time: 0.0469
+INFO - 2021-03-27 20:10:18 --> Config Class Initialized
+INFO - 2021-03-27 20:10:18 --> Hooks Class Initialized
+DEBUG - 2021-03-27 20:10:18 --> UTF-8 Support Enabled
+INFO - 2021-03-27 20:10:18 --> Utf8 Class Initialized
+INFO - 2021-03-27 20:10:18 --> URI Class Initialized
+INFO - 2021-03-27 20:10:18 --> Router Class Initialized
+INFO - 2021-03-27 20:10:18 --> Output Class Initialized
+INFO - 2021-03-27 20:10:18 --> Security Class Initialized
+DEBUG - 2021-03-27 20:10:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 20:10:18 --> Input Class Initialized
+INFO - 2021-03-27 20:10:18 --> Language Class Initialized
+INFO - 2021-03-27 20:10:18 --> Loader Class Initialized
+INFO - 2021-03-27 20:10:18 --> Helper loaded: url_helper
+INFO - 2021-03-27 20:10:18 --> Database Driver Class Initialized
+INFO - 2021-03-27 20:10:18 --> Helper loaded: form_helper
+INFO - 2021-03-27 20:10:18 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 20:10:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 20:10:18 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 20:10:18 --> Controller Class Initialized
+INFO - 2021-03-27 20:10:18 --> Model "Queries" initialized
+INFO - 2021-03-27 20:10:18 --> Final output sent to browser
+DEBUG - 2021-03-27 20:10:18 --> Total execution time: 0.0675
+INFO - 2021-03-27 20:10:32 --> Config Class Initialized
+INFO - 2021-03-27 20:10:32 --> Hooks Class Initialized
+DEBUG - 2021-03-27 20:10:32 --> UTF-8 Support Enabled
+INFO - 2021-03-27 20:10:32 --> Utf8 Class Initialized
+INFO - 2021-03-27 20:10:32 --> URI Class Initialized
+INFO - 2021-03-27 20:10:32 --> Router Class Initialized
+INFO - 2021-03-27 20:10:32 --> Output Class Initialized
+INFO - 2021-03-27 20:10:32 --> Security Class Initialized
+DEBUG - 2021-03-27 20:10:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 20:10:32 --> Input Class Initialized
+INFO - 2021-03-27 20:10:32 --> Language Class Initialized
+INFO - 2021-03-27 20:10:32 --> Loader Class Initialized
+INFO - 2021-03-27 20:10:32 --> Helper loaded: url_helper
+INFO - 2021-03-27 20:10:32 --> Database Driver Class Initialized
+INFO - 2021-03-27 20:10:32 --> Helper loaded: form_helper
+INFO - 2021-03-27 20:10:32 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 20:10:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 20:10:32 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 20:10:32 --> Controller Class Initialized
+INFO - 2021-03-27 20:10:32 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 20:10:32 --> Final output sent to browser
+DEBUG - 2021-03-27 20:10:32 --> Total execution time: 0.0371
+INFO - 2021-03-27 20:10:33 --> Config Class Initialized
+INFO - 2021-03-27 20:10:33 --> Hooks Class Initialized
+DEBUG - 2021-03-27 20:10:33 --> UTF-8 Support Enabled
+INFO - 2021-03-27 20:10:33 --> Utf8 Class Initialized
+INFO - 2021-03-27 20:10:33 --> URI Class Initialized
+INFO - 2021-03-27 20:10:33 --> Router Class Initialized
+INFO - 2021-03-27 20:10:33 --> Output Class Initialized
+INFO - 2021-03-27 20:10:33 --> Security Class Initialized
+DEBUG - 2021-03-27 20:10:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 20:10:33 --> Input Class Initialized
+INFO - 2021-03-27 20:10:33 --> Language Class Initialized
+INFO - 2021-03-27 20:10:33 --> Loader Class Initialized
+INFO - 2021-03-27 20:10:33 --> Helper loaded: url_helper
+INFO - 2021-03-27 20:10:33 --> Database Driver Class Initialized
+INFO - 2021-03-27 20:10:33 --> Helper loaded: form_helper
+INFO - 2021-03-27 20:10:33 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 20:10:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 20:10:33 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 20:10:33 --> Controller Class Initialized
+INFO - 2021-03-27 20:10:33 --> Model "Queries" initialized
+INFO - 2021-03-27 20:10:33 --> Final output sent to browser
+DEBUG - 2021-03-27 20:10:33 --> Total execution time: 0.0533
+INFO - 2021-03-27 20:11:02 --> Config Class Initialized
+INFO - 2021-03-27 20:11:02 --> Hooks Class Initialized
+DEBUG - 2021-03-27 20:11:02 --> UTF-8 Support Enabled
+INFO - 2021-03-27 20:11:02 --> Utf8 Class Initialized
+INFO - 2021-03-27 20:11:02 --> URI Class Initialized
+INFO - 2021-03-27 20:11:02 --> Router Class Initialized
+INFO - 2021-03-27 20:11:02 --> Output Class Initialized
+INFO - 2021-03-27 20:11:02 --> Security Class Initialized
+DEBUG - 2021-03-27 20:11:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 20:11:02 --> Input Class Initialized
+INFO - 2021-03-27 20:11:02 --> Language Class Initialized
+INFO - 2021-03-27 20:11:02 --> Loader Class Initialized
+INFO - 2021-03-27 20:11:02 --> Helper loaded: url_helper
+INFO - 2021-03-27 20:11:02 --> Database Driver Class Initialized
+INFO - 2021-03-27 20:11:02 --> Helper loaded: form_helper
+INFO - 2021-03-27 20:11:02 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 20:11:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 20:11:02 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 20:11:02 --> Controller Class Initialized
+INFO - 2021-03-27 20:11:02 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 20:11:02 --> Final output sent to browser
+DEBUG - 2021-03-27 20:11:02 --> Total execution time: 0.0500
+INFO - 2021-03-27 20:11:04 --> Config Class Initialized
+INFO - 2021-03-27 20:11:04 --> Hooks Class Initialized
+DEBUG - 2021-03-27 20:11:04 --> UTF-8 Support Enabled
+INFO - 2021-03-27 20:11:04 --> Utf8 Class Initialized
+INFO - 2021-03-27 20:11:04 --> URI Class Initialized
+INFO - 2021-03-27 20:11:04 --> Router Class Initialized
+INFO - 2021-03-27 20:11:04 --> Output Class Initialized
+INFO - 2021-03-27 20:11:04 --> Security Class Initialized
+DEBUG - 2021-03-27 20:11:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 20:11:04 --> Input Class Initialized
+INFO - 2021-03-27 20:11:04 --> Language Class Initialized
+INFO - 2021-03-27 20:11:04 --> Loader Class Initialized
+INFO - 2021-03-27 20:11:04 --> Helper loaded: url_helper
+INFO - 2021-03-27 20:11:04 --> Database Driver Class Initialized
+INFO - 2021-03-27 20:11:04 --> Helper loaded: form_helper
+INFO - 2021-03-27 20:11:04 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 20:11:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 20:11:04 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 20:11:04 --> Controller Class Initialized
+INFO - 2021-03-27 20:11:04 --> Model "Queries" initialized
+INFO - 2021-03-27 20:11:04 --> Final output sent to browser
+DEBUG - 2021-03-27 20:11:04 --> Total execution time: 0.0948
+INFO - 2021-03-27 20:54:33 --> Config Class Initialized
+INFO - 2021-03-27 20:54:33 --> Hooks Class Initialized
+DEBUG - 2021-03-27 20:54:33 --> UTF-8 Support Enabled
+INFO - 2021-03-27 20:54:33 --> Utf8 Class Initialized
+INFO - 2021-03-27 20:54:33 --> URI Class Initialized
+INFO - 2021-03-27 20:54:33 --> Router Class Initialized
+INFO - 2021-03-27 20:54:33 --> Output Class Initialized
+INFO - 2021-03-27 20:54:33 --> Security Class Initialized
+DEBUG - 2021-03-27 20:54:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 20:54:33 --> Input Class Initialized
+INFO - 2021-03-27 20:54:33 --> Language Class Initialized
+INFO - 2021-03-27 20:54:33 --> Loader Class Initialized
+INFO - 2021-03-27 20:54:33 --> Helper loaded: url_helper
+INFO - 2021-03-27 20:54:33 --> Database Driver Class Initialized
+INFO - 2021-03-27 20:54:33 --> Helper loaded: form_helper
+INFO - 2021-03-27 20:54:33 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 20:54:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 20:54:33 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 20:54:33 --> Controller Class Initialized
+INFO - 2021-03-27 20:54:33 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 20:54:33 --> Final output sent to browser
+DEBUG - 2021-03-27 20:54:33 --> Total execution time: 0.0594
+INFO - 2021-03-27 20:54:36 --> Config Class Initialized
+INFO - 2021-03-27 20:54:36 --> Hooks Class Initialized
+DEBUG - 2021-03-27 20:54:36 --> UTF-8 Support Enabled
+INFO - 2021-03-27 20:54:36 --> Utf8 Class Initialized
+INFO - 2021-03-27 20:54:36 --> URI Class Initialized
+INFO - 2021-03-27 20:54:36 --> Router Class Initialized
+INFO - 2021-03-27 20:54:36 --> Output Class Initialized
+INFO - 2021-03-27 20:54:36 --> Security Class Initialized
+DEBUG - 2021-03-27 20:54:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 20:54:36 --> Input Class Initialized
+INFO - 2021-03-27 20:54:36 --> Language Class Initialized
+INFO - 2021-03-27 20:54:36 --> Loader Class Initialized
+INFO - 2021-03-27 20:54:36 --> Helper loaded: url_helper
+INFO - 2021-03-27 20:54:36 --> Database Driver Class Initialized
+INFO - 2021-03-27 20:54:36 --> Helper loaded: form_helper
+INFO - 2021-03-27 20:54:36 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 20:54:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 20:54:36 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 20:54:36 --> Controller Class Initialized
+INFO - 2021-03-27 20:54:36 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 20:54:36 --> Final output sent to browser
+DEBUG - 2021-03-27 20:54:36 --> Total execution time: 0.0573
+INFO - 2021-03-27 20:54:37 --> Config Class Initialized
+INFO - 2021-03-27 20:54:37 --> Hooks Class Initialized
+DEBUG - 2021-03-27 20:54:37 --> UTF-8 Support Enabled
+INFO - 2021-03-27 20:54:37 --> Utf8 Class Initialized
+INFO - 2021-03-27 20:54:37 --> URI Class Initialized
+INFO - 2021-03-27 20:54:37 --> Router Class Initialized
+INFO - 2021-03-27 20:54:37 --> Output Class Initialized
+INFO - 2021-03-27 20:54:37 --> Security Class Initialized
+DEBUG - 2021-03-27 20:54:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 20:54:37 --> Input Class Initialized
+INFO - 2021-03-27 20:54:37 --> Language Class Initialized
+INFO - 2021-03-27 20:54:37 --> Loader Class Initialized
+INFO - 2021-03-27 20:54:37 --> Helper loaded: url_helper
+INFO - 2021-03-27 20:54:37 --> Database Driver Class Initialized
+INFO - 2021-03-27 20:54:37 --> Helper loaded: form_helper
+INFO - 2021-03-27 20:54:37 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 20:54:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 20:54:37 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 20:54:37 --> Controller Class Initialized
+INFO - 2021-03-27 20:54:37 --> Model "Queries" initialized
+INFO - 2021-03-27 20:54:37 --> Final output sent to browser
+DEBUG - 2021-03-27 20:54:37 --> Total execution time: 0.0511
+INFO - 2021-03-27 20:55:04 --> Config Class Initialized
+INFO - 2021-03-27 20:55:04 --> Hooks Class Initialized
+DEBUG - 2021-03-27 20:55:04 --> UTF-8 Support Enabled
+INFO - 2021-03-27 20:55:04 --> Utf8 Class Initialized
+INFO - 2021-03-27 20:55:04 --> URI Class Initialized
+INFO - 2021-03-27 20:55:04 --> Router Class Initialized
+INFO - 2021-03-27 20:55:04 --> Output Class Initialized
+INFO - 2021-03-27 20:55:04 --> Security Class Initialized
+DEBUG - 2021-03-27 20:55:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 20:55:04 --> Input Class Initialized
+INFO - 2021-03-27 20:55:04 --> Language Class Initialized
+INFO - 2021-03-27 20:55:04 --> Loader Class Initialized
+INFO - 2021-03-27 20:55:04 --> Helper loaded: url_helper
+INFO - 2021-03-27 20:55:04 --> Database Driver Class Initialized
+INFO - 2021-03-27 20:55:04 --> Helper loaded: form_helper
+INFO - 2021-03-27 20:55:04 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 20:55:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 20:55:04 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 20:55:04 --> Controller Class Initialized
+INFO - 2021-03-27 20:55:04 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 20:55:04 --> Final output sent to browser
+DEBUG - 2021-03-27 20:55:04 --> Total execution time: 0.0525
+INFO - 2021-03-27 20:55:06 --> Config Class Initialized
+INFO - 2021-03-27 20:55:06 --> Hooks Class Initialized
+DEBUG - 2021-03-27 20:55:06 --> UTF-8 Support Enabled
+INFO - 2021-03-27 20:55:06 --> Utf8 Class Initialized
+INFO - 2021-03-27 20:55:06 --> URI Class Initialized
+INFO - 2021-03-27 20:55:06 --> Router Class Initialized
+INFO - 2021-03-27 20:55:06 --> Output Class Initialized
+INFO - 2021-03-27 20:55:06 --> Security Class Initialized
+DEBUG - 2021-03-27 20:55:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 20:55:06 --> Input Class Initialized
+INFO - 2021-03-27 20:55:06 --> Language Class Initialized
+INFO - 2021-03-27 20:55:06 --> Loader Class Initialized
+INFO - 2021-03-27 20:55:06 --> Helper loaded: url_helper
+INFO - 2021-03-27 20:55:06 --> Database Driver Class Initialized
+INFO - 2021-03-27 20:55:06 --> Helper loaded: form_helper
+INFO - 2021-03-27 20:55:06 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 20:55:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 20:55:06 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 20:55:06 --> Controller Class Initialized
+INFO - 2021-03-27 20:55:06 --> Model "Queries" initialized
+INFO - 2021-03-27 20:55:06 --> Final output sent to browser
+DEBUG - 2021-03-27 20:55:06 --> Total execution time: 0.0672
+INFO - 2021-03-27 20:58:28 --> Config Class Initialized
+INFO - 2021-03-27 20:58:28 --> Hooks Class Initialized
+DEBUG - 2021-03-27 20:58:28 --> UTF-8 Support Enabled
+INFO - 2021-03-27 20:58:28 --> Utf8 Class Initialized
+INFO - 2021-03-27 20:58:28 --> URI Class Initialized
+INFO - 2021-03-27 20:58:28 --> Router Class Initialized
+INFO - 2021-03-27 20:58:28 --> Output Class Initialized
+INFO - 2021-03-27 20:58:28 --> Security Class Initialized
+DEBUG - 2021-03-27 20:58:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 20:58:28 --> Input Class Initialized
+INFO - 2021-03-27 20:58:28 --> Language Class Initialized
+INFO - 2021-03-27 20:58:28 --> Loader Class Initialized
+INFO - 2021-03-27 20:58:28 --> Helper loaded: url_helper
+INFO - 2021-03-27 20:58:28 --> Database Driver Class Initialized
+INFO - 2021-03-27 20:58:28 --> Helper loaded: form_helper
+INFO - 2021-03-27 20:58:28 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 20:58:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 20:58:28 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 20:58:28 --> Controller Class Initialized
+INFO - 2021-03-27 20:58:28 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 20:58:28 --> Final output sent to browser
+DEBUG - 2021-03-27 20:58:28 --> Total execution time: 0.0518
+INFO - 2021-03-27 20:58:31 --> Config Class Initialized
+INFO - 2021-03-27 20:58:31 --> Hooks Class Initialized
+DEBUG - 2021-03-27 20:58:31 --> UTF-8 Support Enabled
+INFO - 2021-03-27 20:58:31 --> Utf8 Class Initialized
+INFO - 2021-03-27 20:58:31 --> URI Class Initialized
+INFO - 2021-03-27 20:58:31 --> Router Class Initialized
+INFO - 2021-03-27 20:58:31 --> Output Class Initialized
+INFO - 2021-03-27 20:58:31 --> Security Class Initialized
+DEBUG - 2021-03-27 20:58:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 20:58:31 --> Input Class Initialized
+INFO - 2021-03-27 20:58:31 --> Language Class Initialized
+INFO - 2021-03-27 20:58:31 --> Loader Class Initialized
+INFO - 2021-03-27 20:58:31 --> Helper loaded: url_helper
+INFO - 2021-03-27 20:58:31 --> Database Driver Class Initialized
+INFO - 2021-03-27 20:58:31 --> Helper loaded: form_helper
+INFO - 2021-03-27 20:58:31 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 20:58:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 20:58:31 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 20:58:31 --> Controller Class Initialized
+INFO - 2021-03-27 20:58:31 --> Model "Queries" initialized
+INFO - 2021-03-27 20:58:31 --> Final output sent to browser
+DEBUG - 2021-03-27 20:58:31 --> Total execution time: 0.0935
+INFO - 2021-03-27 21:00:33 --> Config Class Initialized
+INFO - 2021-03-27 21:00:33 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:00:33 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:00:33 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:00:33 --> URI Class Initialized
+INFO - 2021-03-27 21:00:33 --> Router Class Initialized
+INFO - 2021-03-27 21:00:33 --> Output Class Initialized
+INFO - 2021-03-27 21:00:33 --> Security Class Initialized
+DEBUG - 2021-03-27 21:00:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:00:33 --> Input Class Initialized
+INFO - 2021-03-27 21:00:33 --> Language Class Initialized
+INFO - 2021-03-27 21:00:33 --> Loader Class Initialized
+INFO - 2021-03-27 21:00:33 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:00:33 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:00:33 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:00:33 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:00:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:00:33 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:00:33 --> Controller Class Initialized
+INFO - 2021-03-27 21:00:33 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 21:00:33 --> Final output sent to browser
+DEBUG - 2021-03-27 21:00:33 --> Total execution time: 0.0812
+INFO - 2021-03-27 21:00:34 --> Config Class Initialized
+INFO - 2021-03-27 21:00:34 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:00:34 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:00:34 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:00:34 --> URI Class Initialized
+INFO - 2021-03-27 21:00:34 --> Router Class Initialized
+INFO - 2021-03-27 21:00:34 --> Output Class Initialized
+INFO - 2021-03-27 21:00:34 --> Security Class Initialized
+DEBUG - 2021-03-27 21:00:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:00:34 --> Input Class Initialized
+INFO - 2021-03-27 21:00:34 --> Language Class Initialized
+INFO - 2021-03-27 21:00:34 --> Loader Class Initialized
+INFO - 2021-03-27 21:00:34 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:00:34 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:00:34 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:00:34 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:00:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:00:34 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:00:34 --> Controller Class Initialized
+INFO - 2021-03-27 21:00:34 --> Model "Queries" initialized
+INFO - 2021-03-27 21:00:34 --> Final output sent to browser
+DEBUG - 2021-03-27 21:00:34 --> Total execution time: 0.0749
+INFO - 2021-03-27 21:01:54 --> Config Class Initialized
+INFO - 2021-03-27 21:01:54 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:01:54 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:01:54 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:01:54 --> URI Class Initialized
+INFO - 2021-03-27 21:01:54 --> Router Class Initialized
+INFO - 2021-03-27 21:01:54 --> Output Class Initialized
+INFO - 2021-03-27 21:01:54 --> Security Class Initialized
+DEBUG - 2021-03-27 21:01:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:01:54 --> Input Class Initialized
+INFO - 2021-03-27 21:01:54 --> Language Class Initialized
+INFO - 2021-03-27 21:01:54 --> Loader Class Initialized
+INFO - 2021-03-27 21:01:54 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:01:54 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:01:54 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:01:54 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:01:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:01:54 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:01:54 --> Controller Class Initialized
+INFO - 2021-03-27 21:01:54 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 21:01:54 --> Final output sent to browser
+DEBUG - 2021-03-27 21:01:54 --> Total execution time: 0.0561
+INFO - 2021-03-27 21:01:56 --> Config Class Initialized
+INFO - 2021-03-27 21:01:56 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:01:56 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:01:56 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:01:56 --> URI Class Initialized
+INFO - 2021-03-27 21:01:56 --> Router Class Initialized
+INFO - 2021-03-27 21:01:56 --> Output Class Initialized
+INFO - 2021-03-27 21:01:56 --> Security Class Initialized
+DEBUG - 2021-03-27 21:01:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:01:56 --> Input Class Initialized
+INFO - 2021-03-27 21:01:56 --> Language Class Initialized
+INFO - 2021-03-27 21:01:56 --> Loader Class Initialized
+INFO - 2021-03-27 21:01:56 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:01:56 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:01:56 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:01:56 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:01:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:01:56 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:01:56 --> Controller Class Initialized
+INFO - 2021-03-27 21:01:56 --> Model "Queries" initialized
+INFO - 2021-03-27 21:01:56 --> Final output sent to browser
+DEBUG - 2021-03-27 21:01:56 --> Total execution time: 0.0763
+INFO - 2021-03-27 21:08:07 --> Config Class Initialized
+INFO - 2021-03-27 21:08:07 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:08:07 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:08:07 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:08:07 --> URI Class Initialized
+INFO - 2021-03-27 21:08:07 --> Router Class Initialized
+INFO - 2021-03-27 21:08:07 --> Output Class Initialized
+INFO - 2021-03-27 21:08:07 --> Security Class Initialized
+DEBUG - 2021-03-27 21:08:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:08:07 --> Input Class Initialized
+INFO - 2021-03-27 21:08:07 --> Language Class Initialized
+INFO - 2021-03-27 21:08:07 --> Loader Class Initialized
+INFO - 2021-03-27 21:08:07 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:08:07 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:08:07 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:08:07 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:08:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:08:07 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:08:07 --> Controller Class Initialized
+INFO - 2021-03-27 21:08:07 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 21:08:07 --> Final output sent to browser
+DEBUG - 2021-03-27 21:08:07 --> Total execution time: 0.0592
+INFO - 2021-03-27 21:08:09 --> Config Class Initialized
+INFO - 2021-03-27 21:08:09 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:08:09 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:08:09 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:08:09 --> URI Class Initialized
+INFO - 2021-03-27 21:08:09 --> Router Class Initialized
+INFO - 2021-03-27 21:08:09 --> Output Class Initialized
+INFO - 2021-03-27 21:08:09 --> Security Class Initialized
+DEBUG - 2021-03-27 21:08:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:08:09 --> Input Class Initialized
+INFO - 2021-03-27 21:08:09 --> Language Class Initialized
+INFO - 2021-03-27 21:08:09 --> Loader Class Initialized
+INFO - 2021-03-27 21:08:09 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:08:09 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:08:09 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:08:09 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:08:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:08:09 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:08:09 --> Controller Class Initialized
+INFO - 2021-03-27 21:08:09 --> Model "Queries" initialized
+INFO - 2021-03-27 21:08:09 --> Final output sent to browser
+DEBUG - 2021-03-27 21:08:09 --> Total execution time: 0.0575
+INFO - 2021-03-27 21:08:35 --> Config Class Initialized
+INFO - 2021-03-27 21:08:35 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:08:35 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:08:35 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:08:35 --> URI Class Initialized
+INFO - 2021-03-27 21:08:35 --> Router Class Initialized
+INFO - 2021-03-27 21:08:35 --> Output Class Initialized
+INFO - 2021-03-27 21:08:35 --> Security Class Initialized
+DEBUG - 2021-03-27 21:08:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:08:35 --> Input Class Initialized
+INFO - 2021-03-27 21:08:35 --> Language Class Initialized
+INFO - 2021-03-27 21:08:35 --> Loader Class Initialized
+INFO - 2021-03-27 21:08:35 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:08:35 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:08:35 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:08:35 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:08:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:08:35 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:08:35 --> Controller Class Initialized
+INFO - 2021-03-27 21:08:35 --> Model "Queries" initialized
+INFO - 2021-03-27 21:08:35 --> Final output sent to browser
+DEBUG - 2021-03-27 21:08:35 --> Total execution time: 0.0505
+INFO - 2021-03-27 21:08:39 --> Config Class Initialized
+INFO - 2021-03-27 21:08:39 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:08:39 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:08:39 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:08:39 --> URI Class Initialized
+INFO - 2021-03-27 21:08:39 --> Router Class Initialized
+INFO - 2021-03-27 21:08:39 --> Output Class Initialized
+INFO - 2021-03-27 21:08:39 --> Security Class Initialized
+DEBUG - 2021-03-27 21:08:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:08:39 --> Input Class Initialized
+INFO - 2021-03-27 21:08:39 --> Language Class Initialized
+INFO - 2021-03-27 21:08:39 --> Loader Class Initialized
+INFO - 2021-03-27 21:08:39 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:08:39 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:08:39 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:08:39 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:08:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:08:39 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:08:39 --> Controller Class Initialized
+INFO - 2021-03-27 21:08:39 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 21:08:39 --> Final output sent to browser
+DEBUG - 2021-03-27 21:08:39 --> Total execution time: 0.0540
+INFO - 2021-03-27 21:08:40 --> Config Class Initialized
+INFO - 2021-03-27 21:08:40 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:08:40 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:08:40 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:08:40 --> URI Class Initialized
+INFO - 2021-03-27 21:08:40 --> Router Class Initialized
+INFO - 2021-03-27 21:08:40 --> Output Class Initialized
+INFO - 2021-03-27 21:08:40 --> Security Class Initialized
+DEBUG - 2021-03-27 21:08:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:08:40 --> Input Class Initialized
+INFO - 2021-03-27 21:08:40 --> Language Class Initialized
+INFO - 2021-03-27 21:08:40 --> Loader Class Initialized
+INFO - 2021-03-27 21:08:40 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:08:40 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:08:40 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:08:40 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:08:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:08:40 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:08:40 --> Controller Class Initialized
+INFO - 2021-03-27 21:08:40 --> Model "Queries" initialized
+INFO - 2021-03-27 21:08:40 --> Final output sent to browser
+DEBUG - 2021-03-27 21:08:40 --> Total execution time: 0.0946
+INFO - 2021-03-27 21:08:58 --> Config Class Initialized
+INFO - 2021-03-27 21:08:58 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:08:58 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:08:58 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:08:58 --> URI Class Initialized
+INFO - 2021-03-27 21:08:58 --> Router Class Initialized
+INFO - 2021-03-27 21:08:58 --> Output Class Initialized
+INFO - 2021-03-27 21:08:58 --> Security Class Initialized
+DEBUG - 2021-03-27 21:08:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:08:58 --> Input Class Initialized
+INFO - 2021-03-27 21:08:58 --> Language Class Initialized
+INFO - 2021-03-27 21:08:58 --> Loader Class Initialized
+INFO - 2021-03-27 21:08:58 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:08:58 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:08:58 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:08:58 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:08:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:08:58 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:08:58 --> Controller Class Initialized
+INFO - 2021-03-27 21:08:58 --> Model "Queries" initialized
+INFO - 2021-03-27 21:08:58 --> Final output sent to browser
+DEBUG - 2021-03-27 21:08:58 --> Total execution time: 0.0567
+INFO - 2021-03-27 21:09:02 --> Config Class Initialized
+INFO - 2021-03-27 21:09:02 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:09:02 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:09:02 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:09:02 --> URI Class Initialized
+INFO - 2021-03-27 21:09:02 --> Router Class Initialized
+INFO - 2021-03-27 21:09:02 --> Output Class Initialized
+INFO - 2021-03-27 21:09:02 --> Security Class Initialized
+DEBUG - 2021-03-27 21:09:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:09:02 --> Input Class Initialized
+INFO - 2021-03-27 21:09:02 --> Language Class Initialized
+INFO - 2021-03-27 21:09:02 --> Loader Class Initialized
+INFO - 2021-03-27 21:09:02 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:09:02 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:09:02 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:09:02 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:09:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:09:02 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:09:02 --> Controller Class Initialized
+INFO - 2021-03-27 21:09:02 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 21:09:02 --> Final output sent to browser
+DEBUG - 2021-03-27 21:09:02 --> Total execution time: 0.0493
+INFO - 2021-03-27 21:09:04 --> Config Class Initialized
+INFO - 2021-03-27 21:09:04 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:09:04 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:09:04 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:09:04 --> URI Class Initialized
+INFO - 2021-03-27 21:09:04 --> Router Class Initialized
+INFO - 2021-03-27 21:09:04 --> Output Class Initialized
+INFO - 2021-03-27 21:09:04 --> Security Class Initialized
+DEBUG - 2021-03-27 21:09:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:09:04 --> Input Class Initialized
+INFO - 2021-03-27 21:09:04 --> Language Class Initialized
+INFO - 2021-03-27 21:09:04 --> Loader Class Initialized
+INFO - 2021-03-27 21:09:04 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:09:04 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:09:04 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:09:04 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:09:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:09:04 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:09:04 --> Controller Class Initialized
+INFO - 2021-03-27 21:09:04 --> Model "Queries" initialized
+INFO - 2021-03-27 21:09:04 --> Final output sent to browser
+DEBUG - 2021-03-27 21:09:04 --> Total execution time: 0.1158
+INFO - 2021-03-27 21:10:51 --> Config Class Initialized
+INFO - 2021-03-27 21:10:51 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:10:51 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:10:51 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:10:51 --> URI Class Initialized
+INFO - 2021-03-27 21:10:51 --> Router Class Initialized
+INFO - 2021-03-27 21:10:51 --> Output Class Initialized
+INFO - 2021-03-27 21:10:51 --> Security Class Initialized
+DEBUG - 2021-03-27 21:10:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:10:51 --> Input Class Initialized
+INFO - 2021-03-27 21:10:51 --> Language Class Initialized
+INFO - 2021-03-27 21:10:51 --> Loader Class Initialized
+INFO - 2021-03-27 21:10:51 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:10:51 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:10:51 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:10:51 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:10:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:10:51 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:10:51 --> Controller Class Initialized
+INFO - 2021-03-27 21:11:25 --> Final output sent to browser
+DEBUG - 2021-03-27 21:11:25 --> Total execution time: 34.6126
+INFO - 2021-03-27 21:11:47 --> Config Class Initialized
+INFO - 2021-03-27 21:11:47 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:11:47 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:11:47 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:11:47 --> URI Class Initialized
+INFO - 2021-03-27 21:11:47 --> Router Class Initialized
+INFO - 2021-03-27 21:11:47 --> Output Class Initialized
+INFO - 2021-03-27 21:11:47 --> Security Class Initialized
+DEBUG - 2021-03-27 21:11:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:11:47 --> Input Class Initialized
+INFO - 2021-03-27 21:11:47 --> Language Class Initialized
+INFO - 2021-03-27 21:11:47 --> Loader Class Initialized
+INFO - 2021-03-27 21:11:47 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:11:47 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:11:47 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:11:47 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:11:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:11:47 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:11:47 --> Controller Class Initialized
+INFO - 2021-03-27 21:11:47 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 21:11:47 --> Final output sent to browser
+DEBUG - 2021-03-27 21:11:47 --> Total execution time: 0.0728
+INFO - 2021-03-27 21:11:48 --> Config Class Initialized
+INFO - 2021-03-27 21:11:48 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:11:48 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:11:48 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:11:48 --> URI Class Initialized
+INFO - 2021-03-27 21:11:48 --> Router Class Initialized
+INFO - 2021-03-27 21:11:48 --> Output Class Initialized
+INFO - 2021-03-27 21:11:48 --> Security Class Initialized
+DEBUG - 2021-03-27 21:11:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:11:48 --> Input Class Initialized
+INFO - 2021-03-27 21:11:48 --> Language Class Initialized
+INFO - 2021-03-27 21:11:48 --> Loader Class Initialized
+INFO - 2021-03-27 21:11:48 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:11:48 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:11:48 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:11:48 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:11:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:11:48 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:11:48 --> Controller Class Initialized
+INFO - 2021-03-27 21:11:48 --> Model "Queries" initialized
+INFO - 2021-03-27 21:11:48 --> Final output sent to browser
+DEBUG - 2021-03-27 21:11:48 --> Total execution time: 0.0644
+INFO - 2021-03-27 21:12:00 --> Config Class Initialized
+INFO - 2021-03-27 21:12:00 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:12:00 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:12:00 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:12:00 --> URI Class Initialized
+INFO - 2021-03-27 21:12:00 --> Router Class Initialized
+INFO - 2021-03-27 21:12:00 --> Output Class Initialized
+INFO - 2021-03-27 21:12:00 --> Security Class Initialized
+DEBUG - 2021-03-27 21:12:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:12:00 --> Input Class Initialized
+INFO - 2021-03-27 21:12:00 --> Language Class Initialized
+INFO - 2021-03-27 21:12:00 --> Loader Class Initialized
+INFO - 2021-03-27 21:12:00 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:12:00 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:12:00 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:12:00 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:12:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:12:00 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:12:00 --> Controller Class Initialized
+INFO - 2021-03-27 21:12:24 --> Final output sent to browser
+DEBUG - 2021-03-27 21:12:24 --> Total execution time: 23.8205
+INFO - 2021-03-27 21:12:28 --> Config Class Initialized
+INFO - 2021-03-27 21:12:28 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:12:28 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:12:28 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:12:28 --> URI Class Initialized
+INFO - 2021-03-27 21:12:28 --> Router Class Initialized
+INFO - 2021-03-27 21:12:28 --> Output Class Initialized
+INFO - 2021-03-27 21:12:28 --> Security Class Initialized
+DEBUG - 2021-03-27 21:12:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:12:28 --> Input Class Initialized
+INFO - 2021-03-27 21:12:28 --> Language Class Initialized
+INFO - 2021-03-27 21:12:28 --> Loader Class Initialized
+INFO - 2021-03-27 21:12:28 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:12:28 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:12:28 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:12:28 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:12:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:12:28 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:12:28 --> Controller Class Initialized
+INFO - 2021-03-27 21:12:28 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 21:12:28 --> Final output sent to browser
+DEBUG - 2021-03-27 21:12:28 --> Total execution time: 0.0678
+INFO - 2021-03-27 21:12:29 --> Config Class Initialized
+INFO - 2021-03-27 21:12:29 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:12:29 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:12:29 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:12:29 --> URI Class Initialized
+INFO - 2021-03-27 21:12:29 --> Router Class Initialized
+INFO - 2021-03-27 21:12:29 --> Output Class Initialized
+INFO - 2021-03-27 21:12:29 --> Security Class Initialized
+DEBUG - 2021-03-27 21:12:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:12:29 --> Input Class Initialized
+INFO - 2021-03-27 21:12:29 --> Language Class Initialized
+INFO - 2021-03-27 21:12:29 --> Loader Class Initialized
+INFO - 2021-03-27 21:12:29 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:12:29 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:12:29 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:12:29 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:12:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:12:29 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:12:29 --> Controller Class Initialized
+INFO - 2021-03-27 21:12:29 --> Model "Queries" initialized
+INFO - 2021-03-27 21:12:29 --> Final output sent to browser
+DEBUG - 2021-03-27 21:12:29 --> Total execution time: 0.0773
+INFO - 2021-03-27 21:12:36 --> Config Class Initialized
+INFO - 2021-03-27 21:12:36 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:12:36 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:12:36 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:12:36 --> URI Class Initialized
+INFO - 2021-03-27 21:12:36 --> Router Class Initialized
+INFO - 2021-03-27 21:12:36 --> Output Class Initialized
+INFO - 2021-03-27 21:12:36 --> Security Class Initialized
+DEBUG - 2021-03-27 21:12:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:12:36 --> Input Class Initialized
+INFO - 2021-03-27 21:12:36 --> Language Class Initialized
+INFO - 2021-03-27 21:12:36 --> Loader Class Initialized
+INFO - 2021-03-27 21:12:36 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:12:36 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:12:36 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:12:36 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:12:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:12:36 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:12:36 --> Controller Class Initialized
+INFO - 2021-03-27 21:17:49 --> Config Class Initialized
+INFO - 2021-03-27 21:17:49 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:17:49 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:17:49 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:17:49 --> URI Class Initialized
+INFO - 2021-03-27 21:17:49 --> Router Class Initialized
+INFO - 2021-03-27 21:17:49 --> Output Class Initialized
+INFO - 2021-03-27 21:17:49 --> Security Class Initialized
+DEBUG - 2021-03-27 21:17:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:17:49 --> Input Class Initialized
+INFO - 2021-03-27 21:17:49 --> Language Class Initialized
+INFO - 2021-03-27 21:17:49 --> Loader Class Initialized
+INFO - 2021-03-27 21:17:49 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:17:49 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:17:49 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:17:49 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:17:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:17:49 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:17:49 --> Controller Class Initialized
+INFO - 2021-03-27 21:17:49 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 21:17:49 --> Final output sent to browser
+DEBUG - 2021-03-27 21:17:49 --> Total execution time: 0.0899
+INFO - 2021-03-27 21:17:51 --> Config Class Initialized
+INFO - 2021-03-27 21:17:51 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:17:51 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:17:51 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:17:51 --> URI Class Initialized
+INFO - 2021-03-27 21:17:51 --> Router Class Initialized
+INFO - 2021-03-27 21:17:51 --> Output Class Initialized
+INFO - 2021-03-27 21:17:51 --> Security Class Initialized
+DEBUG - 2021-03-27 21:17:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:17:51 --> Input Class Initialized
+INFO - 2021-03-27 21:17:51 --> Language Class Initialized
+INFO - 2021-03-27 21:17:51 --> Loader Class Initialized
+INFO - 2021-03-27 21:17:51 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:17:51 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:17:51 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:17:51 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:17:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:17:51 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:17:51 --> Controller Class Initialized
+INFO - 2021-03-27 21:17:51 --> Model "Queries" initialized
+INFO - 2021-03-27 21:17:51 --> Final output sent to browser
+DEBUG - 2021-03-27 21:17:51 --> Total execution time: 0.0692
+INFO - 2021-03-27 21:21:41 --> Config Class Initialized
+INFO - 2021-03-27 21:21:41 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:21:41 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:21:41 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:21:41 --> URI Class Initialized
+INFO - 2021-03-27 21:21:41 --> Router Class Initialized
+INFO - 2021-03-27 21:21:41 --> Output Class Initialized
+INFO - 2021-03-27 21:21:41 --> Security Class Initialized
+DEBUG - 2021-03-27 21:21:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:21:41 --> Input Class Initialized
+INFO - 2021-03-27 21:21:41 --> Language Class Initialized
+INFO - 2021-03-27 21:21:41 --> Loader Class Initialized
+INFO - 2021-03-27 21:21:41 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:21:41 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:21:41 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:21:41 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:21:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:21:41 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:21:41 --> Controller Class Initialized
+INFO - 2021-03-27 21:21:41 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 21:21:41 --> Final output sent to browser
+DEBUG - 2021-03-27 21:21:41 --> Total execution time: 0.0673
+INFO - 2021-03-27 21:21:43 --> Config Class Initialized
+INFO - 2021-03-27 21:21:43 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:21:43 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:21:43 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:21:43 --> URI Class Initialized
+INFO - 2021-03-27 21:21:43 --> Router Class Initialized
+INFO - 2021-03-27 21:21:43 --> Output Class Initialized
+INFO - 2021-03-27 21:21:43 --> Security Class Initialized
+DEBUG - 2021-03-27 21:21:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:21:43 --> Input Class Initialized
+INFO - 2021-03-27 21:21:43 --> Language Class Initialized
+INFO - 2021-03-27 21:21:43 --> Loader Class Initialized
+INFO - 2021-03-27 21:21:43 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:21:43 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:21:43 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:21:43 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:21:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:21:43 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:21:43 --> Controller Class Initialized
+INFO - 2021-03-27 21:21:43 --> Model "Queries" initialized
+INFO - 2021-03-27 21:21:43 --> Final output sent to browser
+DEBUG - 2021-03-27 21:21:43 --> Total execution time: 0.1366
+INFO - 2021-03-27 21:22:18 --> Config Class Initialized
+INFO - 2021-03-27 21:22:18 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:22:18 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:22:18 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:22:18 --> URI Class Initialized
+INFO - 2021-03-27 21:22:18 --> Router Class Initialized
+INFO - 2021-03-27 21:22:18 --> Output Class Initialized
+INFO - 2021-03-27 21:22:18 --> Security Class Initialized
+DEBUG - 2021-03-27 21:22:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:22:18 --> Input Class Initialized
+INFO - 2021-03-27 21:22:18 --> Language Class Initialized
+INFO - 2021-03-27 21:22:18 --> Loader Class Initialized
+INFO - 2021-03-27 21:22:18 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:22:18 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:22:18 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:22:18 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:22:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:22:18 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:22:18 --> Controller Class Initialized
+INFO - 2021-03-27 21:22:18 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 21:22:18 --> Final output sent to browser
+DEBUG - 2021-03-27 21:22:18 --> Total execution time: 0.0716
+INFO - 2021-03-27 21:22:20 --> Config Class Initialized
+INFO - 2021-03-27 21:22:20 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:22:20 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:22:20 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:22:20 --> URI Class Initialized
+INFO - 2021-03-27 21:22:20 --> Router Class Initialized
+INFO - 2021-03-27 21:22:20 --> Output Class Initialized
+INFO - 2021-03-27 21:22:20 --> Security Class Initialized
+DEBUG - 2021-03-27 21:22:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:22:20 --> Input Class Initialized
+INFO - 2021-03-27 21:22:20 --> Language Class Initialized
+INFO - 2021-03-27 21:22:20 --> Loader Class Initialized
+INFO - 2021-03-27 21:22:20 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:22:20 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:22:20 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:22:20 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:22:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:22:20 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:22:20 --> Controller Class Initialized
+INFO - 2021-03-27 21:22:20 --> Model "Queries" initialized
+INFO - 2021-03-27 21:22:20 --> Final output sent to browser
+DEBUG - 2021-03-27 21:22:20 --> Total execution time: 0.0960
+INFO - 2021-03-27 21:22:30 --> Config Class Initialized
+INFO - 2021-03-27 21:22:30 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:22:30 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:22:30 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:22:30 --> URI Class Initialized
+INFO - 2021-03-27 21:22:30 --> Router Class Initialized
+INFO - 2021-03-27 21:22:30 --> Output Class Initialized
+INFO - 2021-03-27 21:22:30 --> Security Class Initialized
+DEBUG - 2021-03-27 21:22:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:22:30 --> Input Class Initialized
+INFO - 2021-03-27 21:22:30 --> Language Class Initialized
+INFO - 2021-03-27 21:22:30 --> Loader Class Initialized
+INFO - 2021-03-27 21:22:30 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:22:30 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:22:30 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:22:30 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:22:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:22:30 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:22:30 --> Controller Class Initialized
+INFO - 2021-03-27 21:22:30 --> Final output sent to browser
+DEBUG - 2021-03-27 21:22:30 --> Total execution time: 0.0457
+INFO - 2021-03-27 21:23:08 --> Config Class Initialized
+INFO - 2021-03-27 21:23:08 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:23:08 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:23:08 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:23:08 --> URI Class Initialized
+INFO - 2021-03-27 21:23:08 --> Router Class Initialized
+INFO - 2021-03-27 21:23:08 --> Output Class Initialized
+INFO - 2021-03-27 21:23:08 --> Security Class Initialized
+DEBUG - 2021-03-27 21:23:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:23:08 --> Input Class Initialized
+INFO - 2021-03-27 21:23:08 --> Language Class Initialized
+INFO - 2021-03-27 21:23:08 --> Loader Class Initialized
+INFO - 2021-03-27 21:23:08 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:23:08 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:23:08 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:23:08 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:23:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:23:08 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:23:08 --> Controller Class Initialized
+INFO - 2021-03-27 21:23:08 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 21:23:08 --> Final output sent to browser
+DEBUG - 2021-03-27 21:23:08 --> Total execution time: 0.0751
+INFO - 2021-03-27 21:23:08 --> Config Class Initialized
+INFO - 2021-03-27 21:23:08 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:23:08 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:23:08 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:23:08 --> URI Class Initialized
+INFO - 2021-03-27 21:23:08 --> Router Class Initialized
+INFO - 2021-03-27 21:23:08 --> Output Class Initialized
+INFO - 2021-03-27 21:23:08 --> Security Class Initialized
+DEBUG - 2021-03-27 21:23:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:23:08 --> Input Class Initialized
+INFO - 2021-03-27 21:23:08 --> Language Class Initialized
+INFO - 2021-03-27 21:23:08 --> Loader Class Initialized
+INFO - 2021-03-27 21:23:08 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:23:08 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:23:08 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:23:08 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:23:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:23:08 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:23:08 --> Controller Class Initialized
+INFO - 2021-03-27 21:23:08 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 21:23:08 --> Final output sent to browser
+DEBUG - 2021-03-27 21:23:08 --> Total execution time: 0.0574
+INFO - 2021-03-27 21:23:10 --> Config Class Initialized
+INFO - 2021-03-27 21:23:10 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:23:10 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:23:10 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:23:10 --> URI Class Initialized
+INFO - 2021-03-27 21:23:10 --> Router Class Initialized
+INFO - 2021-03-27 21:23:10 --> Output Class Initialized
+INFO - 2021-03-27 21:23:10 --> Security Class Initialized
+DEBUG - 2021-03-27 21:23:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:23:10 --> Input Class Initialized
+INFO - 2021-03-27 21:23:10 --> Language Class Initialized
+INFO - 2021-03-27 21:23:10 --> Loader Class Initialized
+INFO - 2021-03-27 21:23:10 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:23:10 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:23:10 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:23:10 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:23:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:23:10 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:23:10 --> Controller Class Initialized
+INFO - 2021-03-27 21:23:10 --> Model "Queries" initialized
+INFO - 2021-03-27 21:23:10 --> Final output sent to browser
+DEBUG - 2021-03-27 21:23:10 --> Total execution time: 0.0772
+INFO - 2021-03-27 21:23:22 --> Config Class Initialized
+INFO - 2021-03-27 21:23:22 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:23:22 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:23:22 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:23:22 --> URI Class Initialized
+INFO - 2021-03-27 21:23:22 --> Router Class Initialized
+INFO - 2021-03-27 21:23:22 --> Output Class Initialized
+INFO - 2021-03-27 21:23:22 --> Security Class Initialized
+DEBUG - 2021-03-27 21:23:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:23:22 --> Input Class Initialized
+INFO - 2021-03-27 21:23:22 --> Language Class Initialized
+INFO - 2021-03-27 21:23:22 --> Loader Class Initialized
+INFO - 2021-03-27 21:23:22 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:23:22 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:23:22 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:23:22 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:23:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:23:22 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:23:22 --> Controller Class Initialized
+INFO - 2021-03-27 21:23:22 --> Final output sent to browser
+DEBUG - 2021-03-27 21:23:22 --> Total execution time: 0.0481
+INFO - 2021-03-27 21:23:42 --> Config Class Initialized
+INFO - 2021-03-27 21:23:42 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:23:42 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:23:42 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:23:42 --> URI Class Initialized
+INFO - 2021-03-27 21:23:42 --> Router Class Initialized
+INFO - 2021-03-27 21:23:42 --> Output Class Initialized
+INFO - 2021-03-27 21:23:42 --> Security Class Initialized
+DEBUG - 2021-03-27 21:23:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:23:42 --> Input Class Initialized
+INFO - 2021-03-27 21:23:42 --> Language Class Initialized
+INFO - 2021-03-27 21:23:42 --> Loader Class Initialized
+INFO - 2021-03-27 21:23:42 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:23:42 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:23:42 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:23:42 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:23:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:23:42 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:23:42 --> Controller Class Initialized
+INFO - 2021-03-27 21:23:42 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 21:23:42 --> Final output sent to browser
+DEBUG - 2021-03-27 21:23:42 --> Total execution time: 0.0649
+INFO - 2021-03-27 21:23:42 --> Config Class Initialized
+INFO - 2021-03-27 21:23:42 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:23:42 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:23:42 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:23:42 --> URI Class Initialized
+INFO - 2021-03-27 21:23:42 --> Router Class Initialized
+INFO - 2021-03-27 21:23:42 --> Output Class Initialized
+INFO - 2021-03-27 21:23:42 --> Security Class Initialized
+DEBUG - 2021-03-27 21:23:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:23:42 --> Input Class Initialized
+INFO - 2021-03-27 21:23:42 --> Language Class Initialized
+INFO - 2021-03-27 21:23:42 --> Loader Class Initialized
+INFO - 2021-03-27 21:23:42 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:23:42 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:23:42 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:23:42 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:23:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:23:42 --> Config Class Initialized
+INFO - 2021-03-27 21:23:42 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:23:42 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:23:42 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:23:42 --> URI Class Initialized
+INFO - 2021-03-27 21:23:42 --> Router Class Initialized
+INFO - 2021-03-27 21:23:42 --> Output Class Initialized
+INFO - 2021-03-27 21:23:42 --> Security Class Initialized
+DEBUG - 2021-03-27 21:23:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:23:42 --> Input Class Initialized
+INFO - 2021-03-27 21:23:42 --> Language Class Initialized
+INFO - 2021-03-27 21:23:42 --> Loader Class Initialized
+INFO - 2021-03-27 21:23:42 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:23:42 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:23:42 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:23:42 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:23:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:23:42 --> Config Class Initialized
+INFO - 2021-03-27 21:23:42 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:23:42 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:23:42 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:23:42 --> URI Class Initialized
+INFO - 2021-03-27 21:23:42 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:23:42 --> Router Class Initialized
+INFO - 2021-03-27 21:23:42 --> Controller Class Initialized
+INFO - 2021-03-27 21:23:42 --> Output Class Initialized
+INFO - 2021-03-27 21:23:42 --> Security Class Initialized
+INFO - 2021-03-27 21:23:42 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+DEBUG - 2021-03-27 21:23:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:23:42 --> Final output sent to browser
+INFO - 2021-03-27 21:23:42 --> Input Class Initialized
+INFO - 2021-03-27 21:23:42 --> Language Class Initialized
+DEBUG - 2021-03-27 21:23:42 --> Total execution time: 0.3718
+INFO - 2021-03-27 21:23:42 --> Loader Class Initialized
+INFO - 2021-03-27 21:23:42 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:23:42 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:23:42 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:23:42 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:23:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:23:43 --> Config Class Initialized
+INFO - 2021-03-27 21:23:43 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:23:43 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:23:43 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:23:43 --> URI Class Initialized
+INFO - 2021-03-27 21:23:43 --> Router Class Initialized
+INFO - 2021-03-27 21:23:43 --> Output Class Initialized
+INFO - 2021-03-27 21:23:43 --> Security Class Initialized
+DEBUG - 2021-03-27 21:23:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:23:43 --> Input Class Initialized
+INFO - 2021-03-27 21:23:43 --> Language Class Initialized
+INFO - 2021-03-27 21:23:43 --> Loader Class Initialized
+INFO - 2021-03-27 21:23:43 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:23:43 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:23:43 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:23:43 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:23:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:23:43 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:23:43 --> Controller Class Initialized
+INFO - 2021-03-27 21:23:43 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 21:23:43 --> Final output sent to browser
+DEBUG - 2021-03-27 21:23:43 --> Total execution time: 0.6448
+INFO - 2021-03-27 21:23:43 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:23:43 --> Controller Class Initialized
+INFO - 2021-03-27 21:23:43 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 21:23:43 --> Final output sent to browser
+DEBUG - 2021-03-27 21:23:43 --> Total execution time: 0.8950
+INFO - 2021-03-27 21:23:44 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:23:44 --> Controller Class Initialized
+INFO - 2021-03-27 21:23:44 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 21:23:44 --> Final output sent to browser
+DEBUG - 2021-03-27 21:23:44 --> Total execution time: 1.1983
+INFO - 2021-03-27 21:23:45 --> Config Class Initialized
+INFO - 2021-03-27 21:23:45 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:23:45 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:23:45 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:23:45 --> URI Class Initialized
+INFO - 2021-03-27 21:23:45 --> Router Class Initialized
+INFO - 2021-03-27 21:23:45 --> Output Class Initialized
+INFO - 2021-03-27 21:23:45 --> Security Class Initialized
+DEBUG - 2021-03-27 21:23:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:23:45 --> Input Class Initialized
+INFO - 2021-03-27 21:23:45 --> Language Class Initialized
+INFO - 2021-03-27 21:23:45 --> Loader Class Initialized
+INFO - 2021-03-27 21:23:45 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:23:45 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:23:45 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:23:45 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:23:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:23:45 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:23:45 --> Controller Class Initialized
+INFO - 2021-03-27 21:23:45 --> Model "Queries" initialized
+INFO - 2021-03-27 21:23:45 --> Final output sent to browser
+DEBUG - 2021-03-27 21:23:45 --> Total execution time: 0.0762
+INFO - 2021-03-27 21:23:48 --> Config Class Initialized
+INFO - 2021-03-27 21:23:48 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:23:48 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:23:48 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:23:48 --> URI Class Initialized
+INFO - 2021-03-27 21:23:48 --> Router Class Initialized
+INFO - 2021-03-27 21:23:48 --> Output Class Initialized
+INFO - 2021-03-27 21:23:48 --> Security Class Initialized
+DEBUG - 2021-03-27 21:23:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:23:48 --> Input Class Initialized
+INFO - 2021-03-27 21:23:48 --> Language Class Initialized
+INFO - 2021-03-27 21:23:48 --> Loader Class Initialized
+INFO - 2021-03-27 21:23:48 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:23:48 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:23:48 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:23:48 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:23:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:23:48 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:23:48 --> Controller Class Initialized
+INFO - 2021-03-27 21:23:48 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 21:23:48 --> Final output sent to browser
+DEBUG - 2021-03-27 21:23:48 --> Total execution time: 0.0413
+INFO - 2021-03-27 21:23:49 --> Config Class Initialized
+INFO - 2021-03-27 21:23:49 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:23:49 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:23:49 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:23:49 --> URI Class Initialized
+INFO - 2021-03-27 21:23:49 --> Router Class Initialized
+INFO - 2021-03-27 21:23:49 --> Output Class Initialized
+INFO - 2021-03-27 21:23:49 --> Security Class Initialized
+DEBUG - 2021-03-27 21:23:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:23:49 --> Input Class Initialized
+INFO - 2021-03-27 21:23:49 --> Language Class Initialized
+INFO - 2021-03-27 21:23:49 --> Loader Class Initialized
+INFO - 2021-03-27 21:23:49 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:23:49 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:23:49 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:23:49 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:23:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:23:49 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:23:49 --> Controller Class Initialized
+INFO - 2021-03-27 21:23:49 --> Model "Queries" initialized
+INFO - 2021-03-27 21:23:49 --> Final output sent to browser
+DEBUG - 2021-03-27 21:23:49 --> Total execution time: 0.0672
+INFO - 2021-03-27 21:24:00 --> Config Class Initialized
+INFO - 2021-03-27 21:24:00 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:24:00 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:24:00 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:24:00 --> URI Class Initialized
+INFO - 2021-03-27 21:24:00 --> Router Class Initialized
+INFO - 2021-03-27 21:24:00 --> Output Class Initialized
+INFO - 2021-03-27 21:24:00 --> Security Class Initialized
+DEBUG - 2021-03-27 21:24:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:24:00 --> Input Class Initialized
+INFO - 2021-03-27 21:24:00 --> Language Class Initialized
+INFO - 2021-03-27 21:24:00 --> Loader Class Initialized
+INFO - 2021-03-27 21:24:00 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:24:00 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:24:00 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:24:00 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:24:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:24:00 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:24:00 --> Controller Class Initialized
+INFO - 2021-03-27 21:24:00 --> Final output sent to browser
+DEBUG - 2021-03-27 21:24:00 --> Total execution time: 0.0352
+INFO - 2021-03-27 21:25:13 --> Config Class Initialized
+INFO - 2021-03-27 21:25:13 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:25:13 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:25:13 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:25:13 --> URI Class Initialized
+INFO - 2021-03-27 21:25:13 --> Router Class Initialized
+INFO - 2021-03-27 21:25:13 --> Output Class Initialized
+INFO - 2021-03-27 21:25:13 --> Security Class Initialized
+DEBUG - 2021-03-27 21:25:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:25:13 --> Input Class Initialized
+INFO - 2021-03-27 21:25:13 --> Language Class Initialized
+INFO - 2021-03-27 21:25:13 --> Loader Class Initialized
+INFO - 2021-03-27 21:25:13 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:25:13 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:25:13 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:25:13 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:25:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:25:13 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:25:13 --> Controller Class Initialized
+INFO - 2021-03-27 21:25:13 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 21:25:13 --> Final output sent to browser
+DEBUG - 2021-03-27 21:25:13 --> Total execution time: 0.0392
+INFO - 2021-03-27 21:25:15 --> Config Class Initialized
+INFO - 2021-03-27 21:25:15 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:25:15 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:25:15 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:25:15 --> URI Class Initialized
+INFO - 2021-03-27 21:25:15 --> Router Class Initialized
+INFO - 2021-03-27 21:25:15 --> Output Class Initialized
+INFO - 2021-03-27 21:25:15 --> Security Class Initialized
+DEBUG - 2021-03-27 21:25:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:25:15 --> Input Class Initialized
+INFO - 2021-03-27 21:25:15 --> Language Class Initialized
+INFO - 2021-03-27 21:25:15 --> Loader Class Initialized
+INFO - 2021-03-27 21:25:15 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:25:15 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:25:15 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:25:15 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:25:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:25:15 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:25:15 --> Controller Class Initialized
+INFO - 2021-03-27 21:25:15 --> Model "Queries" initialized
+INFO - 2021-03-27 21:25:15 --> Final output sent to browser
+DEBUG - 2021-03-27 21:25:15 --> Total execution time: 0.0781
+INFO - 2021-03-27 21:53:17 --> Config Class Initialized
+INFO - 2021-03-27 21:53:17 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:53:17 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:53:17 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:53:17 --> URI Class Initialized
+INFO - 2021-03-27 21:53:17 --> Router Class Initialized
+INFO - 2021-03-27 21:53:17 --> Output Class Initialized
+INFO - 2021-03-27 21:53:17 --> Security Class Initialized
+DEBUG - 2021-03-27 21:53:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:53:17 --> Input Class Initialized
+INFO - 2021-03-27 21:53:17 --> Language Class Initialized
+INFO - 2021-03-27 21:53:17 --> Loader Class Initialized
+INFO - 2021-03-27 21:53:17 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:53:17 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:53:17 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:53:17 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:53:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:53:17 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:53:17 --> Controller Class Initialized
+INFO - 2021-03-27 21:53:17 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\notifications.php
+INFO - 2021-03-27 21:53:17 --> Final output sent to browser
+DEBUG - 2021-03-27 21:53:17 --> Total execution time: 0.0568
+INFO - 2021-03-27 21:53:19 --> Config Class Initialized
+INFO - 2021-03-27 21:53:19 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:53:19 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:53:19 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:53:19 --> URI Class Initialized
+INFO - 2021-03-27 21:53:19 --> Router Class Initialized
+INFO - 2021-03-27 21:53:19 --> Output Class Initialized
+INFO - 2021-03-27 21:53:19 --> Security Class Initialized
+DEBUG - 2021-03-27 21:53:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:53:19 --> Input Class Initialized
+INFO - 2021-03-27 21:53:19 --> Language Class Initialized
+INFO - 2021-03-27 21:53:19 --> Loader Class Initialized
+INFO - 2021-03-27 21:53:19 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:53:19 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:53:19 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:53:19 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:53:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:53:19 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:53:19 --> Controller Class Initialized
+INFO - 2021-03-27 21:53:19 --> Model "Queries" initialized
+INFO - 2021-03-27 21:53:19 --> Final output sent to browser
+DEBUG - 2021-03-27 21:53:19 --> Total execution time: 0.0710
+INFO - 2021-03-27 21:53:22 --> Config Class Initialized
+INFO - 2021-03-27 21:53:22 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:53:22 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:53:22 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:53:22 --> URI Class Initialized
+INFO - 2021-03-27 21:53:22 --> Router Class Initialized
+INFO - 2021-03-27 21:53:22 --> Output Class Initialized
+INFO - 2021-03-27 21:53:22 --> Security Class Initialized
+DEBUG - 2021-03-27 21:53:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:53:22 --> Input Class Initialized
+INFO - 2021-03-27 21:53:22 --> Language Class Initialized
+INFO - 2021-03-27 21:53:22 --> Loader Class Initialized
+INFO - 2021-03-27 21:53:22 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:53:22 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:53:22 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:53:22 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:53:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:53:22 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:53:22 --> Controller Class Initialized
+INFO - 2021-03-27 21:53:22 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 21:53:22 --> Final output sent to browser
+DEBUG - 2021-03-27 21:53:22 --> Total execution time: 0.0454
+INFO - 2021-03-27 21:53:23 --> Config Class Initialized
+INFO - 2021-03-27 21:53:23 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:53:23 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:53:23 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:53:23 --> URI Class Initialized
+INFO - 2021-03-27 21:53:23 --> Router Class Initialized
+INFO - 2021-03-27 21:53:23 --> Output Class Initialized
+INFO - 2021-03-27 21:53:23 --> Security Class Initialized
+DEBUG - 2021-03-27 21:53:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:53:23 --> Input Class Initialized
+INFO - 2021-03-27 21:53:23 --> Language Class Initialized
+INFO - 2021-03-27 21:53:23 --> Loader Class Initialized
+INFO - 2021-03-27 21:53:23 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:53:23 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:53:23 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:53:23 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:53:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:53:23 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:53:23 --> Controller Class Initialized
+INFO - 2021-03-27 21:53:23 --> Model "Queries" initialized
+INFO - 2021-03-27 21:53:23 --> Final output sent to browser
+DEBUG - 2021-03-27 21:53:23 --> Total execution time: 0.0563
+INFO - 2021-03-27 21:53:55 --> Config Class Initialized
+INFO - 2021-03-27 21:53:55 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:53:55 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:53:55 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:53:55 --> URI Class Initialized
+INFO - 2021-03-27 21:53:55 --> Router Class Initialized
+INFO - 2021-03-27 21:53:55 --> Output Class Initialized
+INFO - 2021-03-27 21:53:55 --> Security Class Initialized
+DEBUG - 2021-03-27 21:53:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:53:55 --> Input Class Initialized
+INFO - 2021-03-27 21:53:55 --> Language Class Initialized
+INFO - 2021-03-27 21:53:55 --> Loader Class Initialized
+INFO - 2021-03-27 21:53:55 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:53:55 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:53:55 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:53:55 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:53:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:53:55 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:53:55 --> Controller Class Initialized
+INFO - 2021-03-27 21:53:55 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 21:53:55 --> Final output sent to browser
+DEBUG - 2021-03-27 21:53:55 --> Total execution time: 0.0457
+INFO - 2021-03-27 21:53:57 --> Config Class Initialized
+INFO - 2021-03-27 21:53:57 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:53:57 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:53:57 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:53:57 --> URI Class Initialized
+INFO - 2021-03-27 21:53:57 --> Router Class Initialized
+INFO - 2021-03-27 21:53:57 --> Output Class Initialized
+INFO - 2021-03-27 21:53:57 --> Security Class Initialized
+DEBUG - 2021-03-27 21:53:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:53:57 --> Input Class Initialized
+INFO - 2021-03-27 21:53:57 --> Language Class Initialized
+INFO - 2021-03-27 21:53:57 --> Loader Class Initialized
+INFO - 2021-03-27 21:53:57 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:53:57 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:53:57 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:53:57 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:53:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:53:57 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:53:57 --> Controller Class Initialized
+INFO - 2021-03-27 21:53:57 --> Model "Queries" initialized
+INFO - 2021-03-27 21:53:57 --> Final output sent to browser
+DEBUG - 2021-03-27 21:53:57 --> Total execution time: 0.0382
+INFO - 2021-03-27 21:56:43 --> Config Class Initialized
+INFO - 2021-03-27 21:56:43 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:56:43 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:56:43 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:56:43 --> URI Class Initialized
+INFO - 2021-03-27 21:56:43 --> Router Class Initialized
+INFO - 2021-03-27 21:56:43 --> Output Class Initialized
+INFO - 2021-03-27 21:56:43 --> Security Class Initialized
+DEBUG - 2021-03-27 21:56:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:56:43 --> Input Class Initialized
+INFO - 2021-03-27 21:56:43 --> Language Class Initialized
+INFO - 2021-03-27 21:56:43 --> Loader Class Initialized
+INFO - 2021-03-27 21:56:43 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:56:43 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:56:43 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:56:43 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:56:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:56:43 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:56:43 --> Controller Class Initialized
+INFO - 2021-03-27 21:56:43 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 21:56:43 --> Final output sent to browser
+DEBUG - 2021-03-27 21:56:43 --> Total execution time: 0.0770
+INFO - 2021-03-27 21:56:45 --> Config Class Initialized
+INFO - 2021-03-27 21:56:45 --> Hooks Class Initialized
+DEBUG - 2021-03-27 21:56:45 --> UTF-8 Support Enabled
+INFO - 2021-03-27 21:56:45 --> Utf8 Class Initialized
+INFO - 2021-03-27 21:56:45 --> URI Class Initialized
+INFO - 2021-03-27 21:56:45 --> Router Class Initialized
+INFO - 2021-03-27 21:56:45 --> Output Class Initialized
+INFO - 2021-03-27 21:56:45 --> Security Class Initialized
+DEBUG - 2021-03-27 21:56:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 21:56:45 --> Input Class Initialized
+INFO - 2021-03-27 21:56:45 --> Language Class Initialized
+INFO - 2021-03-27 21:56:45 --> Loader Class Initialized
+INFO - 2021-03-27 21:56:45 --> Helper loaded: url_helper
+INFO - 2021-03-27 21:56:45 --> Database Driver Class Initialized
+INFO - 2021-03-27 21:56:45 --> Helper loaded: form_helper
+INFO - 2021-03-27 21:56:45 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 21:56:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 21:56:45 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 21:56:45 --> Controller Class Initialized
+INFO - 2021-03-27 21:56:46 --> Model "Queries" initialized
+INFO - 2021-03-27 21:56:46 --> Final output sent to browser
+DEBUG - 2021-03-27 21:56:46 --> Total execution time: 0.1538
+INFO - 2021-03-27 22:00:45 --> Config Class Initialized
+INFO - 2021-03-27 22:00:45 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:00:45 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:00:45 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:00:45 --> URI Class Initialized
+INFO - 2021-03-27 22:00:45 --> Router Class Initialized
+INFO - 2021-03-27 22:00:45 --> Output Class Initialized
+INFO - 2021-03-27 22:00:45 --> Security Class Initialized
+DEBUG - 2021-03-27 22:00:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:00:45 --> Input Class Initialized
+INFO - 2021-03-27 22:00:45 --> Language Class Initialized
+INFO - 2021-03-27 22:00:45 --> Loader Class Initialized
+INFO - 2021-03-27 22:00:45 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:00:45 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:00:45 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:00:45 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:00:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:00:45 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:00:45 --> Controller Class Initialized
+INFO - 2021-03-27 22:00:45 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 22:00:45 --> Final output sent to browser
+DEBUG - 2021-03-27 22:00:45 --> Total execution time: 0.0744
+INFO - 2021-03-27 22:00:46 --> Config Class Initialized
+INFO - 2021-03-27 22:00:46 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:00:46 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:00:46 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:00:46 --> URI Class Initialized
+INFO - 2021-03-27 22:00:46 --> Router Class Initialized
+INFO - 2021-03-27 22:00:46 --> Output Class Initialized
+INFO - 2021-03-27 22:00:46 --> Security Class Initialized
+DEBUG - 2021-03-27 22:00:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:00:46 --> Input Class Initialized
+INFO - 2021-03-27 22:00:46 --> Language Class Initialized
+INFO - 2021-03-27 22:00:46 --> Loader Class Initialized
+INFO - 2021-03-27 22:00:46 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:00:46 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:00:46 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:00:46 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:00:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:00:46 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:00:46 --> Controller Class Initialized
+INFO - 2021-03-27 22:00:46 --> Model "Queries" initialized
+INFO - 2021-03-27 22:00:46 --> Final output sent to browser
+DEBUG - 2021-03-27 22:00:46 --> Total execution time: 0.0611
+INFO - 2021-03-27 22:01:16 --> Config Class Initialized
+INFO - 2021-03-27 22:01:16 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:01:16 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:01:16 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:01:16 --> URI Class Initialized
+INFO - 2021-03-27 22:01:16 --> Router Class Initialized
+INFO - 2021-03-27 22:01:16 --> Output Class Initialized
+INFO - 2021-03-27 22:01:16 --> Security Class Initialized
+DEBUG - 2021-03-27 22:01:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:01:16 --> Input Class Initialized
+INFO - 2021-03-27 22:01:16 --> Language Class Initialized
+INFO - 2021-03-27 22:01:16 --> Loader Class Initialized
+INFO - 2021-03-27 22:01:16 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:01:16 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:01:16 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:01:16 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:01:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:01:16 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:01:16 --> Controller Class Initialized
+INFO - 2021-03-27 22:01:16 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 22:01:16 --> Final output sent to browser
+DEBUG - 2021-03-27 22:01:16 --> Total execution time: 0.0645
+INFO - 2021-03-27 22:01:17 --> Config Class Initialized
+INFO - 2021-03-27 22:01:17 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:01:17 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:01:17 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:01:17 --> URI Class Initialized
+INFO - 2021-03-27 22:01:17 --> Router Class Initialized
+INFO - 2021-03-27 22:01:17 --> Output Class Initialized
+INFO - 2021-03-27 22:01:17 --> Security Class Initialized
+DEBUG - 2021-03-27 22:01:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:01:17 --> Input Class Initialized
+INFO - 2021-03-27 22:01:17 --> Language Class Initialized
+INFO - 2021-03-27 22:01:17 --> Loader Class Initialized
+INFO - 2021-03-27 22:01:17 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:01:17 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:01:17 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:01:17 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:01:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:01:17 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:01:17 --> Controller Class Initialized
+INFO - 2021-03-27 22:01:17 --> Model "Queries" initialized
+INFO - 2021-03-27 22:01:17 --> Final output sent to browser
+DEBUG - 2021-03-27 22:01:17 --> Total execution time: 0.0458
+INFO - 2021-03-27 22:01:47 --> Config Class Initialized
+INFO - 2021-03-27 22:01:47 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:01:47 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:01:47 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:01:47 --> URI Class Initialized
+INFO - 2021-03-27 22:01:47 --> Router Class Initialized
+INFO - 2021-03-27 22:01:47 --> Output Class Initialized
+INFO - 2021-03-27 22:01:47 --> Security Class Initialized
+DEBUG - 2021-03-27 22:01:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:01:47 --> Input Class Initialized
+INFO - 2021-03-27 22:01:47 --> Language Class Initialized
+INFO - 2021-03-27 22:01:47 --> Loader Class Initialized
+INFO - 2021-03-27 22:01:47 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:01:47 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:01:47 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:01:47 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:01:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:01:47 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:01:47 --> Controller Class Initialized
+INFO - 2021-03-27 22:01:47 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 22:01:47 --> Final output sent to browser
+DEBUG - 2021-03-27 22:01:47 --> Total execution time: 0.0497
+INFO - 2021-03-27 22:01:50 --> Config Class Initialized
+INFO - 2021-03-27 22:01:50 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:01:50 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:01:50 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:01:50 --> URI Class Initialized
+INFO - 2021-03-27 22:01:50 --> Router Class Initialized
+INFO - 2021-03-27 22:01:50 --> Output Class Initialized
+INFO - 2021-03-27 22:01:50 --> Security Class Initialized
+DEBUG - 2021-03-27 22:01:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:01:50 --> Input Class Initialized
+INFO - 2021-03-27 22:01:50 --> Language Class Initialized
+INFO - 2021-03-27 22:01:50 --> Loader Class Initialized
+INFO - 2021-03-27 22:01:50 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:01:50 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:01:50 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:01:50 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:01:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:01:50 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:01:50 --> Controller Class Initialized
+INFO - 2021-03-27 22:01:50 --> Model "Queries" initialized
+INFO - 2021-03-27 22:01:50 --> Final output sent to browser
+DEBUG - 2021-03-27 22:01:50 --> Total execution time: 0.0846
+INFO - 2021-03-27 22:03:21 --> Config Class Initialized
+INFO - 2021-03-27 22:03:21 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:03:21 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:03:21 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:03:21 --> URI Class Initialized
+INFO - 2021-03-27 22:03:21 --> Router Class Initialized
+INFO - 2021-03-27 22:03:21 --> Output Class Initialized
+INFO - 2021-03-27 22:03:21 --> Security Class Initialized
+DEBUG - 2021-03-27 22:03:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:03:21 --> Input Class Initialized
+INFO - 2021-03-27 22:03:21 --> Language Class Initialized
+INFO - 2021-03-27 22:03:21 --> Loader Class Initialized
+INFO - 2021-03-27 22:03:21 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:03:21 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:03:21 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:03:21 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:03:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:03:21 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:03:21 --> Controller Class Initialized
+INFO - 2021-03-27 22:03:21 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 22:03:21 --> Final output sent to browser
+DEBUG - 2021-03-27 22:03:21 --> Total execution time: 0.0513
+INFO - 2021-03-27 22:03:28 --> Config Class Initialized
+INFO - 2021-03-27 22:03:28 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:03:28 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:03:28 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:03:28 --> URI Class Initialized
+INFO - 2021-03-27 22:03:28 --> Router Class Initialized
+INFO - 2021-03-27 22:03:28 --> Output Class Initialized
+INFO - 2021-03-27 22:03:28 --> Security Class Initialized
+DEBUG - 2021-03-27 22:03:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:03:28 --> Input Class Initialized
+INFO - 2021-03-27 22:03:28 --> Language Class Initialized
+INFO - 2021-03-27 22:03:28 --> Loader Class Initialized
+INFO - 2021-03-27 22:03:28 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:03:28 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:03:28 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:03:28 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:03:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:03:28 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:03:28 --> Controller Class Initialized
+INFO - 2021-03-27 22:03:28 --> Model "Queries" initialized
+INFO - 2021-03-27 22:03:28 --> Final output sent to browser
+DEBUG - 2021-03-27 22:03:28 --> Total execution time: 0.0631
+INFO - 2021-03-27 22:03:48 --> Config Class Initialized
+INFO - 2021-03-27 22:03:48 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:03:48 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:03:48 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:03:48 --> URI Class Initialized
+INFO - 2021-03-27 22:03:48 --> Router Class Initialized
+INFO - 2021-03-27 22:03:48 --> Output Class Initialized
+INFO - 2021-03-27 22:03:48 --> Security Class Initialized
+DEBUG - 2021-03-27 22:03:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:03:48 --> Input Class Initialized
+INFO - 2021-03-27 22:03:48 --> Language Class Initialized
+INFO - 2021-03-27 22:03:48 --> Loader Class Initialized
+INFO - 2021-03-27 22:03:48 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:03:48 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:03:48 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:03:48 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:03:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:03:48 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:03:48 --> Controller Class Initialized
+INFO - 2021-03-27 22:03:48 --> Upload Class Initialized
+ERROR - 2021-03-27 22:03:48 --> Severity: Notice --> Undefined index: attendanceCourse C:\wamp64\www\hdscollegeofeducation\admin\application\controllers\weeklyReport.php 51
+ERROR - 2021-03-27 22:03:48 --> Severity: Notice --> Undefined index: courseYear C:\wamp64\www\hdscollegeofeducation\admin\application\controllers\weeklyReport.php 52
+INFO - 2021-03-27 22:03:48 --> Model "Queries" initialized
+ERROR - 2021-03-27 22:03:48 --> Query error: Column 'course' cannot be null - Invalid query: INSERT INTO `weekly_report` (`attendance_for`, `course`, `course_year`, `year`, `attendance_month`, `attendance_week`, `attached_file`, `status`, `uploaded_on`) VALUES ('Teaching Staffs', NULL, NULL, '2021', 'March', 'week 1', 'CIPR_Document.pdf', 1, '2021-03-27 10:03:48')
+INFO - 2021-03-27 22:03:48 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-03-27 22:04:56 --> Config Class Initialized
+INFO - 2021-03-27 22:04:56 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:04:56 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:04:56 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:04:56 --> URI Class Initialized
+INFO - 2021-03-27 22:04:56 --> Router Class Initialized
+INFO - 2021-03-27 22:04:56 --> Output Class Initialized
+INFO - 2021-03-27 22:04:56 --> Security Class Initialized
+DEBUG - 2021-03-27 22:04:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:04:56 --> Input Class Initialized
+INFO - 2021-03-27 22:04:56 --> Language Class Initialized
+INFO - 2021-03-27 22:04:56 --> Loader Class Initialized
+INFO - 2021-03-27 22:04:56 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:04:56 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:04:56 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:04:56 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:04:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:04:56 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:04:56 --> Controller Class Initialized
+INFO - 2021-03-27 22:05:05 --> Upload Class Initialized
+INFO - 2021-03-27 22:06:02 --> Config Class Initialized
+INFO - 2021-03-27 22:06:02 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:06:02 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:06:02 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:06:02 --> URI Class Initialized
+INFO - 2021-03-27 22:06:02 --> Router Class Initialized
+INFO - 2021-03-27 22:06:02 --> Output Class Initialized
+INFO - 2021-03-27 22:06:02 --> Security Class Initialized
+DEBUG - 2021-03-27 22:06:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:06:02 --> Input Class Initialized
+INFO - 2021-03-27 22:06:02 --> Language Class Initialized
+INFO - 2021-03-27 22:06:02 --> Loader Class Initialized
+INFO - 2021-03-27 22:06:02 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:06:02 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:06:02 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:06:02 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:06:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:06:02 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:06:02 --> Controller Class Initialized
+INFO - 2021-03-27 22:06:15 --> Upload Class Initialized
+ERROR - 2021-03-27 22:06:31 --> Severity: Notice --> Undefined index: attendanceCourse C:\wamp64\www\hdscollegeofeducation\admin\application\controllers\weeklyReport.php 51
+ERROR - 2021-03-27 22:06:31 --> Severity: Notice --> Undefined index: courseYear C:\wamp64\www\hdscollegeofeducation\admin\application\controllers\weeklyReport.php 52
+INFO - 2021-03-27 22:08:23 --> Model "Queries" initialized
+ERROR - 2021-03-27 22:08:24 --> Query error: Column 'course' cannot be null - Invalid query: INSERT INTO `weekly_report` (`attendance_for`, `course`, `course_year`, `year`, `attendance_month`, `attendance_week`, `attached_file`, `status`, `uploaded_on`) VALUES ('Teaching Staffs', NULL, NULL, '2021', 'March', 'week 1', 'CIPR_Document2.pdf', 1, '2021-03-27 10:06:31')
+INFO - 2021-03-27 22:08:24 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-03-27 22:10:02 --> Config Class Initialized
+INFO - 2021-03-27 22:10:02 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:10:02 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:10:02 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:10:02 --> URI Class Initialized
+INFO - 2021-03-27 22:10:02 --> Router Class Initialized
+INFO - 2021-03-27 22:10:02 --> Output Class Initialized
+INFO - 2021-03-27 22:10:02 --> Security Class Initialized
+DEBUG - 2021-03-27 22:10:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:10:02 --> Input Class Initialized
+INFO - 2021-03-27 22:10:02 --> Language Class Initialized
+INFO - 2021-03-27 22:10:02 --> Loader Class Initialized
+INFO - 2021-03-27 22:10:02 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:10:02 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:10:02 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:10:02 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:10:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:10:02 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:10:02 --> Controller Class Initialized
+INFO - 2021-03-27 22:15:34 --> Config Class Initialized
+INFO - 2021-03-27 22:15:34 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:15:34 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:15:34 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:15:34 --> URI Class Initialized
+INFO - 2021-03-27 22:15:34 --> Router Class Initialized
+INFO - 2021-03-27 22:15:34 --> Output Class Initialized
+INFO - 2021-03-27 22:15:34 --> Security Class Initialized
+DEBUG - 2021-03-27 22:15:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:15:34 --> Input Class Initialized
+INFO - 2021-03-27 22:15:34 --> Language Class Initialized
+INFO - 2021-03-27 22:15:34 --> Loader Class Initialized
+INFO - 2021-03-27 22:15:34 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:15:34 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:15:34 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:15:34 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:15:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:15:37 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:15:37 --> Controller Class Initialized
+INFO - 2021-03-27 22:15:37 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 22:15:37 --> Final output sent to browser
+DEBUG - 2021-03-27 22:15:37 --> Total execution time: 3.0292
+INFO - 2021-03-27 22:15:39 --> Config Class Initialized
+INFO - 2021-03-27 22:15:39 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:15:39 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:15:39 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:15:39 --> URI Class Initialized
+INFO - 2021-03-27 22:15:39 --> Router Class Initialized
+INFO - 2021-03-27 22:15:39 --> Output Class Initialized
+INFO - 2021-03-27 22:15:39 --> Security Class Initialized
+DEBUG - 2021-03-27 22:15:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:15:39 --> Input Class Initialized
+INFO - 2021-03-27 22:15:39 --> Language Class Initialized
+INFO - 2021-03-27 22:15:39 --> Loader Class Initialized
+INFO - 2021-03-27 22:15:39 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:15:39 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:15:39 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:15:39 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:15:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:15:39 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:15:39 --> Controller Class Initialized
+INFO - 2021-03-27 22:15:39 --> Model "Queries" initialized
+INFO - 2021-03-27 22:15:39 --> Final output sent to browser
+DEBUG - 2021-03-27 22:15:39 --> Total execution time: 0.0612
+INFO - 2021-03-27 22:18:36 --> Config Class Initialized
+INFO - 2021-03-27 22:18:36 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:18:36 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:18:36 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:18:36 --> URI Class Initialized
+INFO - 2021-03-27 22:18:36 --> Router Class Initialized
+INFO - 2021-03-27 22:18:36 --> Output Class Initialized
+INFO - 2021-03-27 22:18:36 --> Security Class Initialized
+DEBUG - 2021-03-27 22:18:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:18:36 --> Input Class Initialized
+INFO - 2021-03-27 22:18:36 --> Language Class Initialized
+INFO - 2021-03-27 22:18:36 --> Loader Class Initialized
+INFO - 2021-03-27 22:18:36 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:18:36 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:18:36 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:18:36 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:18:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:18:36 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:18:36 --> Controller Class Initialized
+INFO - 2021-03-27 22:18:36 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 22:18:36 --> Final output sent to browser
+DEBUG - 2021-03-27 22:18:36 --> Total execution time: 0.0631
+INFO - 2021-03-27 22:18:38 --> Config Class Initialized
+INFO - 2021-03-27 22:18:38 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:18:38 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:18:38 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:18:38 --> URI Class Initialized
+INFO - 2021-03-27 22:18:38 --> Router Class Initialized
+INFO - 2021-03-27 22:18:38 --> Output Class Initialized
+INFO - 2021-03-27 22:18:38 --> Security Class Initialized
+DEBUG - 2021-03-27 22:18:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:18:38 --> Input Class Initialized
+INFO - 2021-03-27 22:18:38 --> Language Class Initialized
+INFO - 2021-03-27 22:18:38 --> Loader Class Initialized
+INFO - 2021-03-27 22:18:38 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:18:38 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:18:38 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:18:38 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:18:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:18:38 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:18:38 --> Controller Class Initialized
+INFO - 2021-03-27 22:18:38 --> Model "Queries" initialized
+INFO - 2021-03-27 22:18:38 --> Final output sent to browser
+DEBUG - 2021-03-27 22:18:38 --> Total execution time: 0.0670
+INFO - 2021-03-27 22:19:02 --> Config Class Initialized
+INFO - 2021-03-27 22:19:02 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:19:02 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:19:02 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:19:02 --> URI Class Initialized
+INFO - 2021-03-27 22:19:02 --> Router Class Initialized
+INFO - 2021-03-27 22:19:02 --> Output Class Initialized
+INFO - 2021-03-27 22:19:02 --> Security Class Initialized
+DEBUG - 2021-03-27 22:19:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:19:02 --> Input Class Initialized
+INFO - 2021-03-27 22:19:02 --> Language Class Initialized
+INFO - 2021-03-27 22:19:02 --> Loader Class Initialized
+INFO - 2021-03-27 22:19:02 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:19:02 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:19:02 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:19:02 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:19:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:19:02 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:19:02 --> Controller Class Initialized
+INFO - 2021-03-27 22:19:02 --> Upload Class Initialized
+INFO - 2021-03-27 22:19:02 --> Model "Queries" initialized
+INFO - 2021-03-27 22:19:02 --> Final output sent to browser
+DEBUG - 2021-03-27 22:19:02 --> Total execution time: 0.2265
+INFO - 2021-03-27 22:19:07 --> Config Class Initialized
+INFO - 2021-03-27 22:19:07 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:19:07 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:19:07 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:19:07 --> URI Class Initialized
+INFO - 2021-03-27 22:19:07 --> Router Class Initialized
+INFO - 2021-03-27 22:19:07 --> Output Class Initialized
+INFO - 2021-03-27 22:19:07 --> Security Class Initialized
+DEBUG - 2021-03-27 22:19:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:19:07 --> Input Class Initialized
+INFO - 2021-03-27 22:19:07 --> Language Class Initialized
+INFO - 2021-03-27 22:19:07 --> Loader Class Initialized
+INFO - 2021-03-27 22:19:07 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:19:07 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:19:07 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:19:07 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:19:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:19:07 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:19:07 --> Controller Class Initialized
+INFO - 2021-03-27 22:19:07 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 22:19:07 --> Final output sent to browser
+DEBUG - 2021-03-27 22:19:07 --> Total execution time: 0.0631
+INFO - 2021-03-27 22:19:10 --> Config Class Initialized
+INFO - 2021-03-27 22:19:10 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:19:10 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:19:10 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:19:10 --> URI Class Initialized
+INFO - 2021-03-27 22:19:10 --> Router Class Initialized
+INFO - 2021-03-27 22:19:10 --> Output Class Initialized
+INFO - 2021-03-27 22:19:10 --> Security Class Initialized
+DEBUG - 2021-03-27 22:19:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:19:10 --> Input Class Initialized
+INFO - 2021-03-27 22:19:10 --> Language Class Initialized
+INFO - 2021-03-27 22:19:10 --> Loader Class Initialized
+INFO - 2021-03-27 22:19:10 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:19:10 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:19:10 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:19:10 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:19:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:19:10 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:19:10 --> Controller Class Initialized
+INFO - 2021-03-27 22:19:10 --> Model "Queries" initialized
+INFO - 2021-03-27 22:19:10 --> Final output sent to browser
+DEBUG - 2021-03-27 22:19:10 --> Total execution time: 0.1149
+INFO - 2021-03-27 22:19:42 --> Config Class Initialized
+INFO - 2021-03-27 22:19:42 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:19:42 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:19:42 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:19:42 --> URI Class Initialized
+INFO - 2021-03-27 22:19:42 --> Router Class Initialized
+INFO - 2021-03-27 22:19:42 --> Output Class Initialized
+INFO - 2021-03-27 22:19:42 --> Security Class Initialized
+DEBUG - 2021-03-27 22:19:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:19:42 --> Input Class Initialized
+INFO - 2021-03-27 22:19:42 --> Language Class Initialized
+INFO - 2021-03-27 22:19:42 --> Loader Class Initialized
+INFO - 2021-03-27 22:19:42 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:19:42 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:19:42 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:19:42 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:19:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:19:42 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:19:42 --> Controller Class Initialized
+INFO - 2021-03-27 22:19:42 --> Final output sent to browser
+DEBUG - 2021-03-27 22:19:42 --> Total execution time: 0.1070
+INFO - 2021-03-27 22:20:05 --> Config Class Initialized
+INFO - 2021-03-27 22:20:05 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:20:05 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:20:05 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:20:05 --> URI Class Initialized
+INFO - 2021-03-27 22:20:05 --> Router Class Initialized
+INFO - 2021-03-27 22:20:05 --> Output Class Initialized
+INFO - 2021-03-27 22:20:05 --> Security Class Initialized
+DEBUG - 2021-03-27 22:20:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:20:05 --> Input Class Initialized
+INFO - 2021-03-27 22:20:05 --> Language Class Initialized
+INFO - 2021-03-27 22:20:05 --> Loader Class Initialized
+INFO - 2021-03-27 22:20:05 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:20:05 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:20:05 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:20:05 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:20:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:20:05 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:20:05 --> Controller Class Initialized
+INFO - 2021-03-27 22:20:05 --> Upload Class Initialized
+ERROR - 2021-03-27 22:20:05 --> Severity: Notice --> Undefined index: attendanceCourse C:\wamp64\www\hdscollegeofeducation\admin\application\controllers\weeklyReport.php 51
+ERROR - 2021-03-27 22:20:05 --> Severity: Notice --> Undefined index: courseYear C:\wamp64\www\hdscollegeofeducation\admin\application\controllers\weeklyReport.php 52
+INFO - 2021-03-27 22:20:05 --> Model "Queries" initialized
+ERROR - 2021-03-27 22:20:05 --> Query error: Column 'course' cannot be null - Invalid query: INSERT INTO `weekly_report` (`attendance_for`, `course`, `course_year`, `year`, `attendance_month`, `attendance_week`, `attached_file`, `status`, `uploaded_on`) VALUES ('Teaching Staffs', NULL, NULL, '2021', 'September', 'week 2', 'EAadhaar_683974591705_06032021151642_611108.pdf', 1, '2021-03-27 10:20:05')
+INFO - 2021-03-27 22:20:05 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-03-27 22:21:12 --> Config Class Initialized
+INFO - 2021-03-27 22:21:12 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:21:12 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:21:12 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:21:12 --> URI Class Initialized
+INFO - 2021-03-27 22:21:12 --> Router Class Initialized
+INFO - 2021-03-27 22:21:12 --> Output Class Initialized
+INFO - 2021-03-27 22:21:12 --> Security Class Initialized
+DEBUG - 2021-03-27 22:21:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:21:12 --> Input Class Initialized
+INFO - 2021-03-27 22:21:12 --> Language Class Initialized
+INFO - 2021-03-27 22:21:12 --> Loader Class Initialized
+INFO - 2021-03-27 22:21:12 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:21:12 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:21:12 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:21:12 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:21:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:21:12 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:21:12 --> Controller Class Initialized
+INFO - 2021-03-27 22:21:12 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 22:21:12 --> Final output sent to browser
+DEBUG - 2021-03-27 22:21:12 --> Total execution time: 0.0759
+INFO - 2021-03-27 22:21:14 --> Config Class Initialized
+INFO - 2021-03-27 22:21:14 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:21:14 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:21:14 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:21:14 --> URI Class Initialized
+INFO - 2021-03-27 22:21:14 --> Router Class Initialized
+INFO - 2021-03-27 22:21:14 --> Output Class Initialized
+INFO - 2021-03-27 22:21:14 --> Security Class Initialized
+DEBUG - 2021-03-27 22:21:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:21:14 --> Input Class Initialized
+INFO - 2021-03-27 22:21:14 --> Language Class Initialized
+INFO - 2021-03-27 22:21:14 --> Loader Class Initialized
+INFO - 2021-03-27 22:21:14 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:21:14 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:21:14 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:21:14 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:21:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:21:14 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:21:14 --> Controller Class Initialized
+INFO - 2021-03-27 22:21:14 --> Model "Queries" initialized
+INFO - 2021-03-27 22:21:14 --> Final output sent to browser
+DEBUG - 2021-03-27 22:21:14 --> Total execution time: 0.0610
+INFO - 2021-03-27 22:21:30 --> Config Class Initialized
+INFO - 2021-03-27 22:21:30 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:21:30 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:21:30 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:21:30 --> URI Class Initialized
+INFO - 2021-03-27 22:21:30 --> Router Class Initialized
+INFO - 2021-03-27 22:21:30 --> Output Class Initialized
+INFO - 2021-03-27 22:21:30 --> Security Class Initialized
+DEBUG - 2021-03-27 22:21:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:21:30 --> Input Class Initialized
+INFO - 2021-03-27 22:21:30 --> Language Class Initialized
+INFO - 2021-03-27 22:21:30 --> Loader Class Initialized
+INFO - 2021-03-27 22:21:30 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:21:30 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:21:30 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:21:30 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:21:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:21:30 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:21:30 --> Controller Class Initialized
+INFO - 2021-03-27 22:21:30 --> Upload Class Initialized
+INFO - 2021-03-27 22:21:30 --> Model "Queries" initialized
+INFO - 2021-03-27 22:21:30 --> Final output sent to browser
+DEBUG - 2021-03-27 22:21:30 --> Total execution time: 0.0763
+INFO - 2021-03-27 22:21:35 --> Config Class Initialized
+INFO - 2021-03-27 22:21:35 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:21:35 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:21:35 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:21:35 --> URI Class Initialized
+INFO - 2021-03-27 22:21:35 --> Router Class Initialized
+INFO - 2021-03-27 22:21:35 --> Output Class Initialized
+INFO - 2021-03-27 22:21:35 --> Security Class Initialized
+DEBUG - 2021-03-27 22:21:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:21:35 --> Input Class Initialized
+INFO - 2021-03-27 22:21:35 --> Language Class Initialized
+INFO - 2021-03-27 22:21:35 --> Loader Class Initialized
+INFO - 2021-03-27 22:21:35 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:21:35 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:21:35 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:21:35 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:21:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:21:35 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:21:35 --> Controller Class Initialized
+INFO - 2021-03-27 22:21:35 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 22:21:35 --> Final output sent to browser
+DEBUG - 2021-03-27 22:21:35 --> Total execution time: 0.1000
+INFO - 2021-03-27 22:21:38 --> Config Class Initialized
+INFO - 2021-03-27 22:21:38 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:21:38 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:21:38 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:21:38 --> URI Class Initialized
+INFO - 2021-03-27 22:21:38 --> Router Class Initialized
+INFO - 2021-03-27 22:21:38 --> Output Class Initialized
+INFO - 2021-03-27 22:21:38 --> Security Class Initialized
+DEBUG - 2021-03-27 22:21:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:21:38 --> Input Class Initialized
+INFO - 2021-03-27 22:21:38 --> Language Class Initialized
+INFO - 2021-03-27 22:21:38 --> Loader Class Initialized
+INFO - 2021-03-27 22:21:38 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:21:38 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:21:38 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:21:38 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:21:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:21:38 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:21:38 --> Controller Class Initialized
+INFO - 2021-03-27 22:21:38 --> Model "Queries" initialized
+INFO - 2021-03-27 22:21:38 --> Final output sent to browser
+DEBUG - 2021-03-27 22:21:38 --> Total execution time: 0.1260
+INFO - 2021-03-27 22:22:35 --> Config Class Initialized
+INFO - 2021-03-27 22:22:35 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:22:35 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:22:35 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:22:35 --> URI Class Initialized
+INFO - 2021-03-27 22:22:35 --> Router Class Initialized
+INFO - 2021-03-27 22:22:35 --> Output Class Initialized
+INFO - 2021-03-27 22:22:35 --> Security Class Initialized
+DEBUG - 2021-03-27 22:22:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:22:35 --> Input Class Initialized
+INFO - 2021-03-27 22:22:35 --> Language Class Initialized
+INFO - 2021-03-27 22:22:35 --> Loader Class Initialized
+INFO - 2021-03-27 22:22:35 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:22:35 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:22:35 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:22:35 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:22:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:22:35 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:22:35 --> Controller Class Initialized
+ERROR - 2021-03-27 22:22:35 --> Severity: Notice --> Undefined index: attached C:\wamp64\www\hdscollegeofeducation\admin\application\controllers\weeklyReport.php 22
+ERROR - 2021-03-27 22:22:35 --> Severity: Notice --> Undefined index: attached C:\wamp64\www\hdscollegeofeducation\admin\application\controllers\weeklyReport.php 25
+INFO - 2021-03-27 22:22:35 --> Final output sent to browser
+DEBUG - 2021-03-27 22:22:35 --> Total execution time: 0.0851
+INFO - 2021-03-27 22:22:52 --> Config Class Initialized
+INFO - 2021-03-27 22:22:52 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:22:52 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:22:52 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:22:52 --> URI Class Initialized
+INFO - 2021-03-27 22:22:52 --> Router Class Initialized
+INFO - 2021-03-27 22:22:52 --> Output Class Initialized
+INFO - 2021-03-27 22:22:52 --> Security Class Initialized
+DEBUG - 2021-03-27 22:22:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:22:52 --> Input Class Initialized
+INFO - 2021-03-27 22:22:52 --> Language Class Initialized
+INFO - 2021-03-27 22:22:52 --> Loader Class Initialized
+INFO - 2021-03-27 22:22:52 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:22:52 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:22:52 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:22:52 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:22:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:22:52 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:22:52 --> Controller Class Initialized
+INFO - 2021-03-27 22:22:52 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 22:22:52 --> Final output sent to browser
+DEBUG - 2021-03-27 22:22:52 --> Total execution time: 0.0634
+INFO - 2021-03-27 22:22:52 --> Config Class Initialized
+INFO - 2021-03-27 22:22:52 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:22:52 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:22:52 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:22:52 --> URI Class Initialized
+INFO - 2021-03-27 22:22:52 --> Router Class Initialized
+INFO - 2021-03-27 22:22:52 --> Output Class Initialized
+INFO - 2021-03-27 22:22:52 --> Security Class Initialized
+DEBUG - 2021-03-27 22:22:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:22:52 --> Input Class Initialized
+INFO - 2021-03-27 22:22:52 --> Language Class Initialized
+INFO - 2021-03-27 22:22:52 --> Loader Class Initialized
+INFO - 2021-03-27 22:22:52 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:22:52 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:22:52 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:22:52 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:22:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:22:52 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:22:52 --> Controller Class Initialized
+INFO - 2021-03-27 22:22:52 --> Config Class Initialized
+INFO - 2021-03-27 22:22:52 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 22:22:52 --> Hooks Class Initialized
+INFO - 2021-03-27 22:22:52 --> Final output sent to browser
+DEBUG - 2021-03-27 22:22:52 --> Total execution time: 0.2369
+DEBUG - 2021-03-27 22:22:52 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:22:52 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:22:52 --> URI Class Initialized
+INFO - 2021-03-27 22:22:52 --> Router Class Initialized
+INFO - 2021-03-27 22:22:52 --> Output Class Initialized
+INFO - 2021-03-27 22:22:52 --> Security Class Initialized
+DEBUG - 2021-03-27 22:22:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:22:52 --> Input Class Initialized
+INFO - 2021-03-27 22:22:52 --> Language Class Initialized
+INFO - 2021-03-27 22:22:52 --> Loader Class Initialized
+INFO - 2021-03-27 22:22:52 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:22:52 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:22:52 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:22:52 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:22:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:22:53 --> Config Class Initialized
+INFO - 2021-03-27 22:22:53 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:22:53 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:22:53 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:22:53 --> URI Class Initialized
+INFO - 2021-03-27 22:22:53 --> Router Class Initialized
+INFO - 2021-03-27 22:22:53 --> Output Class Initialized
+INFO - 2021-03-27 22:22:53 --> Security Class Initialized
+DEBUG - 2021-03-27 22:22:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:22:53 --> Input Class Initialized
+INFO - 2021-03-27 22:22:53 --> Language Class Initialized
+INFO - 2021-03-27 22:22:53 --> Loader Class Initialized
+INFO - 2021-03-27 22:22:53 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:22:53 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:22:53 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:22:53 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:22:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:22:53 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:22:53 --> Controller Class Initialized
+INFO - 2021-03-27 22:22:53 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 22:22:53 --> Final output sent to browser
+DEBUG - 2021-03-27 22:22:53 --> Total execution time: 0.4185
+INFO - 2021-03-27 22:22:53 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:22:53 --> Controller Class Initialized
+INFO - 2021-03-27 22:22:53 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 22:22:53 --> Final output sent to browser
+DEBUG - 2021-03-27 22:22:53 --> Total execution time: 0.6184
+INFO - 2021-03-27 22:22:55 --> Config Class Initialized
+INFO - 2021-03-27 22:22:55 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:22:55 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:22:55 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:22:55 --> URI Class Initialized
+INFO - 2021-03-27 22:22:55 --> Router Class Initialized
+INFO - 2021-03-27 22:22:55 --> Output Class Initialized
+INFO - 2021-03-27 22:22:55 --> Security Class Initialized
+DEBUG - 2021-03-27 22:22:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:22:55 --> Input Class Initialized
+INFO - 2021-03-27 22:22:55 --> Language Class Initialized
+INFO - 2021-03-27 22:22:55 --> Loader Class Initialized
+INFO - 2021-03-27 22:22:55 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:22:55 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:22:55 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:22:55 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:22:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:22:55 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:22:55 --> Controller Class Initialized
+INFO - 2021-03-27 22:22:55 --> Model "Queries" initialized
+INFO - 2021-03-27 22:22:55 --> Final output sent to browser
+DEBUG - 2021-03-27 22:22:55 --> Total execution time: 0.0612
+INFO - 2021-03-27 22:23:09 --> Config Class Initialized
+INFO - 2021-03-27 22:23:09 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:23:09 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:23:09 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:23:09 --> URI Class Initialized
+INFO - 2021-03-27 22:23:09 --> Router Class Initialized
+INFO - 2021-03-27 22:23:09 --> Output Class Initialized
+INFO - 2021-03-27 22:23:09 --> Security Class Initialized
+DEBUG - 2021-03-27 22:23:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:23:09 --> Input Class Initialized
+INFO - 2021-03-27 22:23:09 --> Language Class Initialized
+INFO - 2021-03-27 22:23:09 --> Loader Class Initialized
+INFO - 2021-03-27 22:23:09 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:23:09 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:23:09 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:23:09 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:23:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:23:09 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:23:09 --> Controller Class Initialized
+INFO - 2021-03-27 22:23:09 --> Final output sent to browser
+DEBUG - 2021-03-27 22:23:09 --> Total execution time: 0.0453
+INFO - 2021-03-27 22:23:28 --> Config Class Initialized
+INFO - 2021-03-27 22:23:28 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:23:28 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:23:28 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:23:28 --> URI Class Initialized
+INFO - 2021-03-27 22:23:28 --> Router Class Initialized
+INFO - 2021-03-27 22:23:28 --> Output Class Initialized
+INFO - 2021-03-27 22:23:28 --> Security Class Initialized
+DEBUG - 2021-03-27 22:23:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:23:28 --> Input Class Initialized
+INFO - 2021-03-27 22:23:28 --> Language Class Initialized
+INFO - 2021-03-27 22:23:28 --> Loader Class Initialized
+INFO - 2021-03-27 22:23:28 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:23:28 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:23:28 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:23:28 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:23:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:23:28 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:23:28 --> Controller Class Initialized
+INFO - 2021-03-27 22:23:28 --> Upload Class Initialized
+INFO - 2021-03-27 22:23:28 --> Model "Queries" initialized
+INFO - 2021-03-27 22:23:28 --> Final output sent to browser
+DEBUG - 2021-03-27 22:23:28 --> Total execution time: 0.1438
+INFO - 2021-03-27 22:23:33 --> Config Class Initialized
+INFO - 2021-03-27 22:23:33 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:23:33 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:23:33 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:23:33 --> URI Class Initialized
+INFO - 2021-03-27 22:23:33 --> Router Class Initialized
+INFO - 2021-03-27 22:23:33 --> Output Class Initialized
+INFO - 2021-03-27 22:23:33 --> Security Class Initialized
+DEBUG - 2021-03-27 22:23:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:23:33 --> Input Class Initialized
+INFO - 2021-03-27 22:23:33 --> Language Class Initialized
+INFO - 2021-03-27 22:23:33 --> Loader Class Initialized
+INFO - 2021-03-27 22:23:33 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:23:33 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:23:33 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:23:33 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:23:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:23:33 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:23:33 --> Controller Class Initialized
+INFO - 2021-03-27 22:23:33 --> File loaded: C:\wamp64\www\hdscollegeofeducation\admin\application\views\weeklyReport.php
+INFO - 2021-03-27 22:23:33 --> Final output sent to browser
+DEBUG - 2021-03-27 22:23:33 --> Total execution time: 0.0917
+INFO - 2021-03-27 22:23:35 --> Config Class Initialized
+INFO - 2021-03-27 22:23:35 --> Hooks Class Initialized
+DEBUG - 2021-03-27 22:23:35 --> UTF-8 Support Enabled
+INFO - 2021-03-27 22:23:35 --> Utf8 Class Initialized
+INFO - 2021-03-27 22:23:35 --> URI Class Initialized
+INFO - 2021-03-27 22:23:35 --> Router Class Initialized
+INFO - 2021-03-27 22:23:35 --> Output Class Initialized
+INFO - 2021-03-27 22:23:35 --> Security Class Initialized
+DEBUG - 2021-03-27 22:23:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-03-27 22:23:35 --> Input Class Initialized
+INFO - 2021-03-27 22:23:35 --> Language Class Initialized
+INFO - 2021-03-27 22:23:35 --> Loader Class Initialized
+INFO - 2021-03-27 22:23:35 --> Helper loaded: url_helper
+INFO - 2021-03-27 22:23:35 --> Database Driver Class Initialized
+INFO - 2021-03-27 22:23:35 --> Helper loaded: form_helper
+INFO - 2021-03-27 22:23:35 --> Form Validation Class Initialized
+DEBUG - 2021-03-27 22:23:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-03-27 22:23:35 --> Session: Class initialized using 'files' driver.
+INFO - 2021-03-27 22:23:35 --> Controller Class Initialized
+INFO - 2021-03-27 22:23:35 --> Model "Queries" initialized
+INFO - 2021-03-27 22:23:35 --> Final output sent to browser
+DEBUG - 2021-03-27 22:23:35 --> Total execution time: 0.0458
