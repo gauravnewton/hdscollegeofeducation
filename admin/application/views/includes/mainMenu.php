@@ -18,6 +18,7 @@
     $logs = false;
     $gallery = false;
     $notifications = false;
+    $weeklyReport = false;
 
     
 
@@ -37,8 +38,12 @@
     $recordLogs = false;
     $galleryViewUpload = false;
     $notificationManagement = false;
+    $attendanceReport = false;
 
     switch ($currentContext) {
+        case WEEKLY_ATTENDANCE_REPORTS:
+            $weeklyReport = true;
+            break;
         case GALLERY:
             $gallery = true;
             break;
@@ -78,6 +83,9 @@
 
 
     switch ($subMenu) {
+        case ATTENDANCE_REPORTS:
+          $attendanceReport = true;
+          break;
         case NOTIFICATION_MANAGEMENT:
             $notificationManagement = true;
             break;
@@ -171,6 +179,28 @@
                 <a href="<?php echo base_url() ?>notifications" class="nav-link <?php $notificationManagement ? print_r('active') : '' ?>">
                   <i class="fa fa-cogs nav-icon"></i>
                   <p><?php echo NOTIFICATION_MANAGEMENT ?></p>
+                </a>
+              </li>
+              
+            </ul>
+        </li>
+
+
+        <!-- WEEKLY ATTENDANCE REPORTS -->
+        <li class="nav-item has-treeview <?php $weeklyReport ? print_r('menu-open') : ''?>">
+            <a href="#" class="nav-link <?php $weeklyReport ? print_r('active') : '' ?>">
+              <i class="nav-icon fa fa-calendar-times-o  "></i>
+              <p>
+                <?php echo WEEKLY_ATTENDANCE_REPORTS ?>
+                <i class="right fas fa-angle-left"></i>
+              </p>
+            </a>
+            <ul class="nav nav-treeview">
+            
+              <li class="nav-item">
+                <a href="<?php echo base_url() ?>weeklyReport" class="nav-link <?php $attendanceReport ? print_r('active') : '' ?>">
+                  <i class="fa fa-pie-chart  nav-icon"></i>
+                  <p><?php echo ATTENDANCE_REPORTS ?></p>
                 </a>
               </li>
               

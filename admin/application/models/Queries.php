@@ -252,6 +252,10 @@ class Queries extends CI_Model{
         $this->db->insert('notifications',$data);
     }
 
+    function postWeeklyReport($data){
+        $this->db->insert('weekly_report',$data);
+    }
+
     function getAllNotifications(){
         $this->db->select("*");
                     $this->db->from('notifications');

@@ -141,7 +141,7 @@ defined('GALLERYVIEUPLOAD') OR define('GALLERYVIEUPLOAD', 'Site Gallery');
 defined('UPLOAD_PATH') OR define('UPLOAD_PATH','../../assets/uploads/');
 defined('ALLOWED_WIDTH') OR define('ALLOWED_WIDTH',800);
 defined('ALLOWED_HEIGHT') OR define('ALLOWED_HEIGHT',800);
-
+defined('WEEKLY_ATTENDANCE_REPORTS') OR define('WEEKLY_ATTENDANCE_REPORTS', 'Weekly Report');
 
 
 
@@ -161,6 +161,8 @@ defined('ALLOWED_HEIGHT') OR define('ALLOWED_HEIGHT',800);
  defined('LIST_RECORDS') OR define('LIST_RECORDS', 'Records List');
  defined('LIST_LOGS') OR define('LIST_LOGS', 'List');
  defined('NOTIFICATIONS') OR define('NOTIFICATIONS','Notifications ');
+ defined('ATTENDANCE_REPORTS') OR define('ATTENDANCE_REPORTS', 'Attendance Report');
+
 
  /**
   * Categories constants

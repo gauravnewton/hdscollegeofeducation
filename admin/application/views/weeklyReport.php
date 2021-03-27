@@ -61,7 +61,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
      
     <div class="card card-outline card-primary">
             <div class="card-header">
-                <h3 class="card-title">Upload a new notification</h3>
+                <h3 class="card-title">Upload a weekly report</h3>
 
                 <div class="card-tools">
                     <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
@@ -77,25 +77,89 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     <div class="brand-template-form">
 
                         <div class="row">
-                            <div class="form-group col-sm-12">
-                            <label for="title">Notification Title</label>
-                                <textarea rows="5"  name="title" id="title" placeholder="" class="form-control" required></textarea>
+                            <div class="form-group col-sm-6">
+                                <label for="attendanceFor">Choose attendance for</label>
+                                <select name="attendanceFor" id="attendanceFor" onChange="handleAttendanceFor(this);" class="form-control select2" style="width: 100%;" required>
+                                    <option value="" disabled selected>Choose attendance for</option>
+                                    <option value="Students">Students</option>
+                                    <option value="Teaching Staffs">Teaching Staffs</option>
+                                    <option value="Non Techning Staffs">Non Techning Staffs</option>
+                                </select>
                             </div>
 
-                            <input type="hidden" id="isFileAttached" name="isFileAttached" />
+                            <input type="hidden" name="hiddenCourse" id="hiddenCourse" />
 
-                            <div class="col-sm-12">
-                                <div class="form-group">
-                                    <div class="custom-control custom-switch custom-switch-off-danger custom-switch-on-success">
-                                        <input type="checkbox" class="custom-control-input" onclick="toggleStatus(this);" id="notification-type" name="notification-type">
-                                        <label class="custom-control-label" for="notification-type" id="notification-type-text">This notification doesn't requires a file</label>
-                                    </div>
-                                </div>
+                            <input type="hidden" name="hiddenCourseYear" id="hiddenCourseYear" />
+
+                            <div class="form-group col-sm-6">
+                                <label for="attendanceCourse">Choose course</label>
+                                <select name="attendanceCourse" onChange="handlerCourse(this);" id="attendanceCourse" class="form-control select2" style="width: 100%;" required>
+                                    <option value="" disabled selected>Choose course</option>
+                                    <option value="B.Ed">B.Ed</option>
+                                    <option value="D.El.Ed">D. El. Ed</option>
+                                    <option value="N/A">N/A</option>
+                                </select>
                             </div>
 
-                            <div class="form-group col-sm-12" id="file-division">
-                                <label for="notification-file">Notification related file</label>
-                                <input type="file" name="notification-file" id="notification-file" placeholder="templNotification File" class="form-control" style="border:0px;">
+                            <div class="form-group col-sm-4">
+                                <label for="courseYear">Choose course year</label>
+                                <select name="courseYear" onChange="handlerCourseYear(this);" id="courseYear" class="form-control select2" style="width: 100%;" required>
+                                    <option value="" disabled selected>Choose course year</option>
+                                    <option value="1">1<sup>st</sup> year</option>
+                                    <option value="2">2<sup>nd</sup> year</option>
+                                    <option value="N/A">N/A</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group col-sm-4">
+                                <label for="attendanceYear">Choose attendance year</label>
+                                <select name="attendanceYear" id="attendanceYear" class="form-control select2" style="width: 100%;" required>
+                                    <option value="" disabled selected>Choose attendance year</option>
+                                    <option value="2021">2021</option>
+                                    <option value="2022">2022</option>
+                                    <option value="2023">2023</option>
+                                    <option value="2024">2024</option>
+                                    <option value="2025">2025</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group col-sm-4">
+                                <label for="attendanceMonth">Choose attendance month</label>
+                                <select name="attendanceMonth" id="attendanceMonth" class="form-control select2" style="width: 100%;" required>
+                                    <option value="" disabled selected>Choose attendance month</option>
+                                    <option value="July">July</option>
+                                    <option value="August">August</option>
+                                    <option value="September">September</option>
+                                    <option value="October">October</option>
+                                    <option value="November">November</option>
+                                    <option value="December">December</option>
+                                    <option value="January">January</option>
+                                    <option value="February">February</option>
+                                    <option value="March">March</option>
+                                    <option value="April">April</option>
+                                    <option value="May">May</option>
+                                    <option value="June">June</option>
+                                </select>
+                            </div>
+
+
+                            <div class="form-group col-sm-6">
+                                <label for="attendanceWeek">Choose attendance week</label>
+                                <select name="attendanceWeek" id="attendanceWeek" class="form-control select2" style="width: 100%;" required>
+                                    <option value="" disabled selected>Choose attendance week</option>
+                                    <option value="week 1">Week 1</option>
+                                    <option value="week 2">Week 2</option>
+                                    <option value="week 3">Week 3</option>
+                                    <option value="week 4">Week 4</option>
+                                    <option value="week 5">Week 5</option>
+                                </select>
+                            </div>
+
+                            
+
+                            <div class="form-group col-sm-6">
+                                <label for="attached">Attached File <i class="fa fa-paperclip" aria-hidden="true"></i></label>
+                                <input type="file" name="attached" id="attached" required placeholder="attached" class="form-control" style="border:0px;">
                             </div>
                         </div>
 
@@ -181,6 +245,37 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <script>
     var toggleValue = 0;
 
+    var handleAttendanceFor = function(event){debugger
+        if( event.value != "Students" ){
+            $('#attendanceCourse').prop('disabled', true);
+            $('#attendanceCourse').val('N/A');
+
+            $('#courseYear').prop('disabled', true);
+            $('#courseYear').val('N/A');
+
+            $('#hiddenCourse').val('N/A');
+            $('#hiddenCourseYear').val('N/A');
+            
+        }else{
+            $('#attendanceCourse').prop('disabled', false);
+            $('#attendanceCourse').val('');
+
+            $('#courseYear').prop('disabled', false);
+            $('#courseYear').val('');
+
+            $('#hiddenCourse').val($('#attendanceCourse').val());
+            $('#hiddenCourseYear').val($('#courseYear').val());
+        }
+
+    }
+
+    var handlerCourseYear = function(event){
+        $('#hiddenCourseYear').val($('#courseYear').val());
+    }
+
+    var handlerCourse = function(event){
+        $('#hiddenCourse').val($('#attendanceCourse').val());
+    }
     var updateNotificationStatus = function(toggleValue,productId){
         $('#loading').addClass('loading');
         $.ajax({  
@@ -401,7 +496,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         $.ajax({            
             type: "POST",
             enctype: 'multipart/form-data',
-            url: "<?php echo $this->config->base_url()?>notifications/postNotification",
+            url: "<?php echo $this->config->base_url()?>weeklyReport/postNotification",
             data: templateForm,
             processData: false,
             contentType: false,
@@ -418,7 +513,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     }, 3000);
                 }else{
                     $('#loading').removeClass('loading');
-                    toastr.error('File format not allowed!');
+                    toastr.error('Unsupported attachment file !');
                 }
                 
             },
@@ -436,23 +531,17 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         
         if(status.checked){
             toggleValue = 1;
-            $('#isFileAttached').val(1);
             html = "This notification requires a file";
         }else{
-            $('#isFileAttached').val(0);
             toggleValue = 0;
         }
         $('#notification-type-text').html(html);
     }
 
     var customValidaton = function(){
-        if( toggleValue == 1 ){
-            if( $("#notification-file")[0].files.length == 0 ){
-                toastr.error('Select notification file first !');
-                return false;
-            }else{
-                return true;
-            }
+        if( $("#attached")[0].files.length == 0 ){
+            toastr.error('Select weekly report file first !');
+            return false;
         }else{
             return true;
         }
