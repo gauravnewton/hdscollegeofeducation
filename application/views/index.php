@@ -4,44 +4,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <?php include ('includes/header.php'); ?>
 
 	<div class="banner">
-		<nav class="navbar navbar-default">
-			<div class="navbar-header navbar-left">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-					<span class="sr-only">Toggle navigation</span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				</button>
-				<div><a class="navbar-brand" href="index.html"><span>H</span>arkhadev
-				Singh College Of Education
-				Ramanuja Bagh, Khudaganj (Nalanda)</a></div>
-			</div>
-			<!-- Collect the nav links, forms, and other content for toggling -->
-			<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
-				<nav class="link-effect-2" id="link-effect-2">
-					<ul class="nav navbar-nav">
-						<li class="active"><a href="index.html"><span data-hover="Home">Home</span></a></li>
-						<li><a href="courses.html"><span data-hover="Courses">Courses</span></a></li>
-						<li><a href="services.html"><span data-hover="Services">Services</span></a></li>
-						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span data-hover="Short Codes">Short Codes</span> <b class="caret"></b></a>
-							<ul class="dropdown-menu agile_short_dropdown">
-								<li><a href="icons.html">Web Icons</a></li>
-								<li><a href="typography.html">Typography</a></li>
-							</ul>
-						</li>
-						<li><a href="mail.html"><span data-hover="Mail Us">Mail Us</span></a></li>
-					</ul>
-				</nav>
-			</div>
-			<div class="w3_agile_phone">
-				<!-- <p><i class="fa fa-phone" aria-hidden="true"></i> +123 234 233</p> -->
-			</div>
-		</nav>
+		<?php include ('includes/mainMenu.php'); ?>
+
+
 		<div class="container">
 			<div class="agile_banner_info">
 				<div class="agile_banner_info1">
-					<h3>Designed and developed by <span>IT Care</span></h3>
+					<!-- <h3>Designed and developed by <span>IT Care</span></h3> -->
 					<div id="typed-strings" class="agileits_w3layouts_strings">
 						<p>better <i>education</i> for better world</p>
 						<p><i>education</i> is a journey not a race</p>
@@ -51,7 +20,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				</div>
 			</div>
 			<div class="banner_agile_para">
-				<p>Harkhadev Singh College Of Education Ramanuja Bagh, Khudaganj (Nalanda).</p>
+				<p>Harakhdeo Singh College Of Education Ramanuja Bagh, Khudaganj (Nalanda).</p>
 			</div>
 			<div class="w3_agile_social_icons">
 				<ul class="agileinfo_social_icons">
@@ -69,6 +38,43 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		</div>
 	</div>
 	<!-- //banner -->
+
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-6 col-12">
+				<div class="w3ls_banner_bottom_right1 vision_formatting">
+					<h2>Aim & <span> Objectives </span></h2>
+					<p>
+					<ul>
+					<li>To provide modern, valuable and progressive education.</li>
+					<li>To make students competent and self-reliant in these areas by providing teacher education and vocational education.</li>
+					<li>Providing skills in modern new curriculum.</li>
+					<li>To provide ideal and skilled teachers, managers etc. to the country and society.</li>
+					<li>To provide proper guidance and advice for the future by highlighting the talent, abilities of the students.</li>
+					<li>To provide opportunities for learning through more and more technical, equipment and modern methods.</li>
+					<li>Providing new knowledge research and inspiration.</li>
+					</p>
+				</div>
+			</div>
+
+			<div class="col-sm-6 col-12 pad-top-20">
+				<div class="my-panel">
+					<div class="panel-heading my-heading">
+						<strong>Recent Alerts</strong>
+					</div>
+					<div class="panel-body" style="height:300px; background:aliceblue">
+						<marquee id="notifications" onmouseover="this.stop();" height="250px" direction="up" scrollamount="2" onmouseout="this.start();">
+							
+						</marquee>
+					</div>
+
+					<div class="panel-footer">
+					<p style="vertical-align:bottom;"><a href="#"><em>See More</em></a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 	
 	<div class="container">
 		<div class="row">
@@ -111,6 +117,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					</p>
 				</div>
 			</div>
+
 		</div>
 	</div>	
 
@@ -134,6 +141,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</div>
 		</div>
 	</div>
+
+	
 
     <!-- banner-bottom -->	
 	<div class="banner-bottom">
@@ -222,25 +231,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	</div>
 
 
-	<div class="container">
-		<div class="row">
-			<div class="col-sm-12 col-12">
-				<div class="w3ls_banner_bottom_right1 vision_formatting">
-					<h2>Aim & <span> Objectives </span></h2>
-					<p>
-					<ul>
-					<li>To provide modern, valuable and progressive education.</li>
-					<li>To make students competent and self-reliant in these areas by providing teacher education and vocational education.</li>
-					<li>Providing skills in modern new curriculum.</li>
-					<li>To provide ideal and skilled teachers, managers etc. to the country and society.</li>
-					<li>To provide proper guidance and advice for the future by highlighting the talent, abilities of the students.</li>
-					<li>To provide opportunities for learning through more and more technical, equipment and modern methods.</li>
-					<li>Providing new knowledge research and inspiration.</li>
-					</p>
-				</div>
-			</div>
-		</div>
-	</div>
+
     <!-- //banner-bottom -->	
     <!-- bootstrap-pop-up -->
 	<div class="modal video-modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModal">
@@ -252,7 +243,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				</div>
 				<section>
 					<div class="modal-body">
-						<img src="images/10.jpg" alt=" " class="img-responsive" />
+						<img src="<?php echo $this->config->base_url() ?>assets/images/10.jpg" alt=" " class="img-responsive" />
 						<p class="text-justify">Education plays an important role in the upliftment of a nation, institution and individual. At present, there is a severe lack of good educational institutions and experienced teachers in rural areas, due to which students of rural areas, despite being talented, fall behind due to lack of proper guidance. Today's young men and women will be duty-bound citizens of the developed nation of the future. It is possible to get good education only by highly qualified and experienced professors in a high level educational institution. 
 							<br/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;In the same spirit, Harkhadev Singh College of Education was established in the year 2016. Ed. And D.L.Ed. The course is done with classes. Students who have earned degrees from here will also make good citizens of this nation by giving them good experiences and giving them to the children coming in their field of work. </p>
 							<i class="pull-right">Dr. Bhola Kumar.</i></p>
@@ -356,9 +347,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<ul id="flexiselDemo1">	
 			<li>
 				<div class="wthree_gallery_grid">
-					<a href="images/8.jpg" class="lsb-preview" data-lsb-group="header">
+					<a href="<?php echo $this->config->base_url() ?>assets/images/8.jpg" class="lsb-preview" data-lsb-group="header">
 						<div class="view second-effect">
-							<img src="images/8.jpg" alt="" class="img-responsive" />
+							<img src="<?php echo $this->config->base_url() ?>assets/images/8.jpg" alt="" class="img-responsive" />
 							<div class="mask">
 								<p>Edifying</p>
 							</div>
@@ -368,9 +359,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</li>
 			<li>
 				<div class="wthree_gallery_grid">
-					<a href="images/9.jpg" class="lsb-preview" data-lsb-group="header">
+					<a href="<?php echo $this->config->base_url() ?>assets/images/9.jpg" class="lsb-preview" data-lsb-group="header">
 						<div class="view second-effect">
-							<img src="images/9.jpg" alt="" class="img-responsive" />
+							<img src="<?php echo $this->config->base_url() ?>assets/images/9.jpg" alt="" class="img-responsive" />
 							<div class="mask">
 								<p>Edifying</p>
 							</div>
@@ -380,9 +371,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</li>
 			<li>
 				<div class="wthree_gallery_grid">
-					<a href="images/10.jpg" class="lsb-preview" data-lsb-group="header">
+					<a href="<?php echo $this->config->base_url() ?>assets/images/10.jpg" class="lsb-preview" data-lsb-group="header">
 						<div class="view second-effect">
-							<img src="images/10.jpg" alt="" class="img-responsive" />
+							<img src="<?php echo $this->config->base_url() ?>assets/images/10.jpg" alt="" class="img-responsive" />
 							<div class="mask">
 								<p>Edifying</p>
 							</div>
@@ -392,9 +383,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</li>
 			<li>
 				<div class="wthree_gallery_grid">
-					<a href="images/11.jpg" class="lsb-preview" data-lsb-group="header">
+					<a href="<?php echo $this->config->base_url() ?>assets/images/11.jpg" class="lsb-preview" data-lsb-group="header">
 						<div class="view second-effect">
-							<img src="images/11.jpg" alt="" class="img-responsive" />
+							<img src="<?php echo $this->config->base_url() ?>assets/images/11.jpg" alt="" class="img-responsive" />
 							<div class="mask">
 								<p>Edifying</p>
 							</div>
@@ -404,9 +395,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</li>
 			<li>
 				<div class="wthree_gallery_grid">
-					<a href="images/12.jpg" class="lsb-preview" data-lsb-group="header">
+					<a href="<?php echo $this->config->base_url() ?>assets/images/12.jpg" class="lsb-preview" data-lsb-group="header">
 						<div class="view second-effect">
-							<img src="images/12.jpg" alt="" class="img-responsive" />
+							<img src="<?php echo $this->config->base_url() ?>assets/images/12.jpg" alt="" class="img-responsive" />
 							<div class="mask">
 								<p>Edifying</p>
 							</div>
@@ -473,3 +464,54 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	</div> -->
     <!-- //testimonials -->
 <?php include ('includes/footer.php'); ?>
+
+<script>
+
+var getAllNotifications = function(){
+	$('#loading').addClass('loading');
+        $.ajax({  
+            type: "GET",
+            url: "<?php $this->config->base_url()?>admin/notifications/getAllNotifications",
+            processData: false,
+            contentType: false,
+            cache: false,
+            timeout: 600000,
+            
+            success: function (response) {debugger
+                $('#loading').removeClass('loading');
+                response = JSON.parse(response);   
+                var html =`<ul>`;
+				
+				if( response && response.length > 0){
+					$(response).each(function(key, value){
+						if( value.is_file_attached == 1){							
+							html += 
+							`<li>
+								<a title="`+value.notification_title+`" target="new" href="admin/uploads/`+value.notification_file+`">
+									`+value.notification_title+`
+								</a>
+							</li>`;
+						}else{
+							html += 
+							`<li>
+								`+value.notification_title+`
+							</li>`;
+						}
+					});
+				}
+				html += `</ul>`;
+
+				$('#notifications').html(html);
+
+            },
+            error : function(data,textStatus,errorMessage){
+                alert( textStatus + " " + errorMessage);
+            }
+        });
+    };
+
+	$(document).ready(function(){
+        getAllNotifications();
+    });
+
+</script>

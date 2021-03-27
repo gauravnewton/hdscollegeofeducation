@@ -3573,3 +3573,16 @@ ul{
     width: 100%;
     margin: 1.5em 0 0;
 }
+
+.pad-top-20{
+	padding-top: 20px;
+}
+
+/* .my-panel{
+	border: 1px solid #00000047;
+    border-radius: 6px;
+} */
+
+.my-heading{
+    border-bottom: 1px solid #ddd;
+}

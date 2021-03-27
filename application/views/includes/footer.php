@@ -37,7 +37,7 @@
 			</div>
 			<div class="w3_agileits_copy_right_social">
 				<div class="col-md-6 agileits_w3layouts_copy_right">
-					<p>&copy; 2021 H. D. S. College of Education. All rights reserved | Design by <a href="#">IT Care</a></p>
+					<p>&copy; 2021 H. D. S. College of Education. All rights reserved</p>
 				</div>
 				<div class="col-md-6 w3_agile_copy_right">
 					<ul class="agileinfo_social_icons">

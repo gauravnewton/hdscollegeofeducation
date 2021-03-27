@@ -18,7 +18,7 @@ class Gallery extends CI_Controller {
     public function upload(){
         $fileExt = explode('.', $_FILES['file']['name']);
         $fileActualExt = strtolower(end($fileExt));
-        $allowed = array('gif','jpg','png');  
+        $allowed = array('gif','jpg','png','jpeg');  
         $newfilename = round(microtime(true)) . '-' .$_FILES['file']['name'];
         $tempFile = $_FILES['file']['tmp_name'];    
         $targetPath = UPLOAD_PATH;     
