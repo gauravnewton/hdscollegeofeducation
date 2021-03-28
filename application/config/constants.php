@@ -86,3 +86,5 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
 
 
 defined('HOME') OR define('HOME', 'Home');
+defined('COURSES') OR define('COURSES', 'Courses');
+defined('WEEKLY_REPORT') OR define('WEEKLY_REPORT','Weekly Report');

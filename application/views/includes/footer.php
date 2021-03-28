@@ -26,7 +26,7 @@
 					<div class="col-md-4 w3agile_footer_grid w3agile_footer_grid1">
 						<h3>Navigation</h3>
 						<ul>
-							<li><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><a href="courses.html">Courses</a></li>
+							<li><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><a href="courses">Courses</a></li>
 							<li><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><a href="services.html">Services</a></li>
 							<li><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><a href="icons.html">Web Icons</a></li>
 							<li><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><a href="mail.html">Mail Us</a></li>
@@ -53,6 +53,9 @@
 	</div>
     <!-- //footer -->
     <!-- carousal -->
+	<script src="<?php echo $this->config->base_url() ?>admin/assets/plugins/datatables/jquery.dataTables.js"></script>
+  	<script src="<?php echo $this->config->base_url() ?>admin/assets/plugins/datatables-bs4/js/dataTables.bootstrap4.js"></script>
+  
 	<script src="<?php echo $this->config->base_url() ?>assets/js/slick.js" type="text/javascript" charset="utf-8"></script>
 	<script type="text/javascript">
 		$(document).on('ready', function() {

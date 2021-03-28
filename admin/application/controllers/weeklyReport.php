@@ -3,8 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class WeeklyReport extends CI_Controller {
 
-	public function index()
-	{
+	public function index(){
         $data['page_title'] = 'Weekly Report';
         if($this->session->userdata('admin_id') || $this->session->userdata('user_id')){
             $this->session->set_userdata(['menuSelected'=>WEEKLY_ATTENDANCE_REPORTS,'subMenu'=>ATTENDANCE_REPORTS]);
@@ -65,5 +64,28 @@ class WeeklyReport extends CI_Controller {
         }
     }
     
+    public function getAllReport(){
+        $data['page_title'] = 'Brand List';
+        
+        $this->session->set_userdata(['menuSelected'=>WEEKLY_ATTENDANCE_REPORTS,'subMenu'=>ATTENDANCE_REPORTS]);
+        $this->load->model('queries');            
+        $allNotification = $this->queries->getAllReport();
+        echo json_encode($allNotification);
+       
+    }
+
+    public function updateReportStatus(){
+        $_POST = json_decode(file_get_contents("php://input"), true);
+        $productId = $this->input->post('productId');
+        $productStatus = $this->input->post('status');
+        $this->load->model('queries');
+        echo json_encode(array("isSuccess" => true, "data" => $this->queries->updateReportStatus($productStatus, $productId)));
+    }
+
+    public function renderPage(){
+        $index = $this->input->get('index');
+        $this->load->model('queries');
+        echo json_encode(array("isSuccess" => true, "data" => $this->queries->getReportByLimit($index- 10, $index)));
+    }
     
 }

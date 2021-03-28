@@ -79,3 +79,7 @@
 .modal-header{
     display: table !important;
 }
+
+.no-line-break{
+    white-space: nowrap !important;
+}
