@@ -182,7 +182,7 @@ var productsImages = [];
       maxFiles: 5,
       dictDefaultMessage: 'Drag one or more product image here to upload, or click to select one',
       headers: {
-      'x-csrf-token': document.querySelectorAll('meta[name=csrf-token]')[0].getAttributeNode('content').value,
+      //'x-csrf-token': document.querySelectorAll('meta[name=csrf-token]')[0].getAttributeNode('content').value,
       },
       acceptedFiles: 'image/*',
       init: function() {
@@ -192,7 +192,7 @@ var productsImages = [];
             //file = JSON.parse(file);
             resp = JSON.parse(resp);
             productsImages.push(resp.data);
-            toastr.success('Product image '+resp.data+' successfully uploaded !');
+            toastr.success('Gallery image'+resp.data+' successfully uploaded !');
         });
         this.on('error', function( file, resp ){debugger
             console.log( file );
@@ -202,12 +202,12 @@ var productsImages = [];
             toastr.error('File should be in <?php echo ALLOWED_WIDTH ?> x <?php echo ALLOWED_HEIGHT?>  resolution');
         });
         this.on('thumbnail', function(file) {
-            // if ( file.width != <?php echo ALLOWED_WIDTH ?> || file.height != <?php echo ALLOWED_HEIGHT?> ) {
-            //     file.rejectDimensions();
-            // }
-            // else {
-            //     file.acceptDimensions();
-            // }
+            if ( file.width != <?php echo ALLOWED_WIDTH ?> || file.height != <?php echo ALLOWED_HEIGHT?> ) {
+                file.rejectDimensions();
+            }
+            else {
+                file.acceptDimensions();
+            }
             file.acceptDimensions();
         });
       },

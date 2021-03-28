@@ -6,8 +6,8 @@
      * top level menus
      */
     $home = false;
-    
-
+    $courses = false;
+    $weeklyReport = false;
     /**
      * first level sub menus
      */
@@ -17,7 +17,11 @@
         case HOME:
             $home = true;
             break;
-        
+        case COURSES:
+            $courses = true;
+            break;
+        case WEEKLY_REPORT:
+            $weeklyReport = true;
         default:
 
     }
@@ -45,16 +49,17 @@
     <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
         <nav class="link-effect-2" id="link-effect-2">
             <ul class="nav navbar-nav">
-                <li class=" <?php $home ? print_r('active') : '' ?> "><a href="index.html"><span data-hover="Home">Home</span></a></li>
-                <li><a href="courses.html"><span data-hover="Courses">Courses</span></a></li>
+                <li class=" <?php $home ? print_r('active') : '' ?> "><a href="home"><span data-hover="Home">Home</span></a></li>
+                <li class="<?php $courses ? print_r('active') : '' ?> "><a href="courses"><span data-hover="Courses">Courses</span></a></li>
                 <li><a href="services.html"><span data-hover="Services">Services</span></a></li>
-                <li class="dropdown">
+                <li class="<?php $weeklyReport ? print_r('active') : '' ?> "><a href="weeklyReport"><span data-hover="Weekly Attendance Report">Weekly Attendance Report</span></a></li>
+                <!-- <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span data-hover="Short Codes">Short Codes</span> <b class="caret"></b></a>
                     <ul class="dropdown-menu agile_short_dropdown">
                         <li><a href="icons.html">Web Icons</a></li>
                         <li><a href="typography.html">Typography</a></li>
                     </ul>
-                </li>
+                </li> -->
                 <li><a href="mail.html"><span data-hover="Mail Us">Mail Us</span></a></li>
             </ul>
         </nav>

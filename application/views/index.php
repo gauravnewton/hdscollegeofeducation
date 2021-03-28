@@ -500,6 +500,8 @@ var getAllNotifications = function(){
 							</li>`;
 						}
 					});
+				}else{
+					html += `<li> No any notification till now!</li>`;
 				}
 				html += `</ul>`;
 

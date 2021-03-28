@@ -18,7 +18,7 @@ class Gallery extends CI_Controller {
     public function upload(){
         $fileExt = explode('.', $_FILES['file']['name']);
         $fileActualExt = strtolower(end($fileExt));
-        $allowed = array('gif','jpg','png','jpeg');  
+        $allowed = array('gif','jpg','png','jpeg'); 
         $newfilename = round(microtime(true)) . '-' .$_FILES['file']['name'];
         $tempFile = $_FILES['file']['tmp_name'];    
         $targetPath = UPLOAD_PATH;     
@@ -27,8 +27,11 @@ class Gallery extends CI_Controller {
             move_uploaded_file($tempFile,'"'.$targetFile); 
             $this->load->model('queries');
             $this->queries->persistsImage($newfilename);
+            echo json_encode(array("isSuccess" => true, "data" => $newfilename));
+            return;
+        }else{
+            echo json_encode(array("isSuccess" => false, "data" => $newfilename));
         }
-        echo json_encode(array("isSuccess" => true, "data" => $newfilename));
     }
 
     public function getGalleryImages(){

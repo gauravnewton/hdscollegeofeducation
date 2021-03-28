@@ -188,23 +188,38 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <!-- /.card-header -->
             <div class="card-body">
                 <div class="tab-content p-0" style="overflow: auto; white-space: nowrap;">
-                    <table class="table table-striped table-hover table-condensed table-loader" id="recordList">
+                    <table class="table table-striped table-hover table-condensed table-loader no-line-break" id="recordList">
                         <thead>
                             <tr class="text-center">
                                 <th>
-                                    Notification Id
+                                    Report Id
                                 </th>
                                 <th>
-                                    Notification Title
+                                    Attendance For
                                 </th>
                                 <th>
-                                    Contains Attachment
+                                    Course
                                 </th>
                                 <th>
-                                    Uploaded On
+                                    Course Year
+                                </th>
+                                <th>
+                                    Year
+                                </th>
+                                <th>
+                                    Attendance for month
+                                </th>
+                                <th>
+                                    Attendance for week
+                                </th>
+                                <th>
+                                    Uploaded on
                                 </th>
                                 <th>
                                     Status
+                                </th>
+                                <th>
+                                    Attached file
                                 </th>
                                 <th>
                                     Action
@@ -280,7 +295,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         $('#loading').addClass('loading');
         $.ajax({  
             type: "POST",
-            url: "<?php $this->config->base_url()?>notifications/updateNotificationStatus",
+            url: "<?php $this->config->base_url()?>weeklyReport/updateReportStatus",
             data: JSON.stringify({"status": toggleValue, "productId":productId}),
             processData: false,
             contentType: false,
@@ -291,7 +306,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 response = JSON.parse(response);
                 if(response && response.isSuccess){
                     $('#loading').removeClass('loading');
-                    toastr.success('Notification status updated !');
+                    toastr.success('Report status updated !');
                 }else{
                     toastr.error('Something went wrong !');
                 }
@@ -326,6 +341,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             "lengthChange": true,
             "searching": true,
             "ordering": true,
+            "order": [[ 1, "desc" ]],
             "info": true,
             "oLanguage" : {
                 "sInfoEmpty" : "No keyword to show"
@@ -338,19 +354,44 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     //sWidth : '20px'
                 },
                 {
-                    mData : null,
+                    mData : 'attendance_for',
                     sClass: 'text-center vertically-align'
                     //sWidth : '100px'
                 },
                 {
-                    mData: null, //country
+                    mData: 'course', //country
                     sClass: 'text-center vertically-align'
                     //sWidth : '150px'
                 },
                 {
-                    mData: 'uploaded_on',
+                    mData: 'course_year',
                     sClass: 'text-center vertically-align'
                     //sWidth : '150px'
+                },
+                {
+                    mData: 'year',//original_row
+                    sClass: 'text-center vertically-align'
+                    //sWidth : '100px'
+                },
+                {
+                    mData: 'attendance_month',//original_row
+                    sClass: 'text-center vertically-align'
+                    //sWidth : '100px'
+                },
+                {
+                    mData: 'attendance_week',//original_row
+                    sClass: 'text-center vertically-align'
+                    //sWidth : '100px'
+                },
+                {
+                    mData: 'uploaded_on',//original_row
+                    sClass: 'text-center vertically-align'
+                    //sWidth : '100px'
+                },
+                {
+                    mData: null,//original_row
+                    sClass: 'text-center vertically-align'
+                    //sWidth : '100px'
                 },
                 {
                     mData: null,//original_row
@@ -367,7 +408,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             ],
             "aoColumnDefs" : [
                 {
-                    "aTargets" : [ 5 ],
+                    "aTargets" : [ 10 ],
                     "mRender" : function(d,t,r){
                         var html = ``;
                         if(d.status == 1){
@@ -387,7 +428,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     
                 },
                 {
-                    "aTargets" : [ 4 ],
+                    "aTargets" : [ 8 ],
                     "mRender" : function(d,t,r){
                         var html = ``;
                         if(d.status == 1)
@@ -400,23 +441,17 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     
                 },
                 {
-                    "aTargets" : [ 1 ],
+                    "aTargets" : [ 9 ],
                     "mRender" : function ( data, type, bomModel ) {
-                        var html = data.notification_title;
-                        if( html.length >   50)
-                            html = data.notification_title.substring(0, 30) + " ...";                            
+                        var html = ``;
+                        var originalName = data.attached_file;
+                        var trimmedValue = originalName;
+                        if( originalName.length >   25 )
+                            trimmedValue = data.attached_file.substring(0, 20) + " ...";  
+                        html = `<a href="<?php echo $this->config->base_url() ?>weeklyReports/`+originalName+`" titile="`+trimmedValue+`" target="_blank">`+trimmedValue+`</a>`;
                         return html;
                     }
                     
-                },
-                {
-                    "aTargets" : [ 2 ],
-                    "mRender" : function ( data, type, bomModel ) {
-                        var html =`No, Attachment`;
-                        if( data.is_file_attached == 1 )
-                            html = `Yes, Contains Attachment`;                            
-                        return html;
-                    }
                 }
             ]
             
@@ -424,13 +459,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 
    
-}
+    }
     
     var getAllNotifications = function(){
         $('#loading').addClass('loading');
         $.ajax({  
             type: "GET",
-            url: "<?php $this->config->base_url()?>notifications/getAllNotifications",
+            url: "<?php $this->config->base_url()?>weeklyReport/getAllReport",
             processData: false,
             contentType: false,
             cache: false,
@@ -451,44 +486,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     };
 
 
-    var getGalleryImages = function(){
-        $('#loading').addClass('loading');
-        $.ajax({  
-            type: "GET",
-            url: "<?php $this->config->base_url()?>gallery/getGalleryImages",
-            processData: false,
-            contentType: false,
-            cache: false,
-            timeout: 600000,
-            
-            success: function (response) {
-                $('#loading').removeClass('loading');
-                response = JSON.parse(response);
-
-                var html = ``;
-
-                if(response && response.length > 0){debugger
-                    $(response).each(function(key, value){debugger
-                        html += ` <div class="col-sm-6 col-md-4">
-                                    <div class="thumbnail">
-                                        <a class="lightbox" target="_blank" href="<?php echo $this->config->base_url() ?>assets/uploads/`+value.path+`">
-                                            <img class="img-thumbnail" src="<?php echo $this->config->base_url() ?>assets/uploads/`+value.path+`" alt="`+value.path+`">
-                                        </a>
-                                    </div>
-                                </div>                     
-                            `;
-                    });
-                }else{
-                    html = `<h3 class="text-center w-100">Gallery is empty !</h3>`;
-                }
-
-                $('#gallery-images').html(html);
-            },
-            error : function(data,textStatus,errorMessage){
-                alert( textStatus + " " + errorMessage);
-            }
-        });
-    };
+    
     
     var postNotification = function(status,productId){
         var templateForm = new FormData($('#brand-template-form')[0]);

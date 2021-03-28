@@ -263,11 +263,26 @@ class Queries extends CI_Model{
         return $notifications->result();
     }
 
+    function getAllReport(){
+        $this->db->select("*");
+                    $this->db->from('weekly_report');
+                    $this->db->order_by("id desc");
+        $notifications = $this->db->get();
+        return $notifications->result();
+    }
+
     function updateNotificationStatus($productStatus, $productId){
         $productData = array(
             "status" => $productStatus
         );
         return $this->db->update('notifications',$productData,array('id' => $productId));
+    }
+
+    function updateReportStatus($productStatus, $productId){
+        $productData = array(
+            "status" => $productStatus
+        );
+        return $this->db->update('weekly_report',$productData,array('id' => $productId));
     }
 
     function insertRowForAsyncProcess($brandId,$batchId,$row){
@@ -591,6 +606,12 @@ class Queries extends CI_Model{
     public function getGalleryImages(){
         $sql = "select * from gallery where status = 'active' ";
         return $this->db->query($sql)->result_array();
+    }
+
+
+    public function getReportByLimit($from, $to){
+        $gamePeriodSql = "select * from weekly_report where id between ". $from." AND ".$to." order by id desc";
+        return $this->db->query($gamePeriodSql)->result_array();
     }
 }
 ?>
