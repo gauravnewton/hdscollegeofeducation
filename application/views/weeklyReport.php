@@ -108,6 +108,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             </p>`;
                     })    
                     
+                }else{
+                    html = `<br/><br/><h1 class="text-center"> No report found yet !`;
+                    $('#nextBtn').css('display', 'none');
                 }
 
                 $('#weeklyReportContent').html(html);
