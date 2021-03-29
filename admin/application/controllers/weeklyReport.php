@@ -83,9 +83,10 @@ class WeeklyReport extends CI_Controller {
     }
 
     public function renderPage(){
-        $index = $this->input->get('index');
+        $to = $this->input->get('to');
+        $from = $this->input->get('from');
         $this->load->model('queries');
-        echo json_encode(array("isSuccess" => true, "data" => $this->queries->getReportByLimit($index- 10, $index)));
+        echo json_encode(array("isSuccess" => true, "data" => $this->queries->getReportByLimit($from, $to)));
     }
     
 }
