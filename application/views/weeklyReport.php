@@ -2,6 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
 <?php include ('includes/header.php'); ?>
+    <div id="loading" class="loading"></div>
 
 	<div class="banner">
 		<?php include ('includes/mainMenu.php'); ?>
@@ -66,27 +67,32 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     var totalCount = 0;
     var currentIndex = 0;
 
-    $('#nextBtn').on('click', function(){
-        renderPage(currentIndex);
+    $('#nextBtn').on('click', function(){debugger
+        if( currentIndex < 10 ){
+            renderPage(0, currentIndex);
+            return
+        }
+        renderPage(currentIndex - 10,currentIndex);
     })
 
-    var renderPage = function(Index){
+    var renderPage = function(from, to){debugger
+        $('#loading').addClass('loading');
         $.ajax({  
             type: "GET",
-            url: "<?php $this->config->base_url()?>admin/weeklyReport/renderPage?index="+Index,
+            url: "<?php $this->config->base_url()?>admin/weeklyReport/renderPage?from="+from+"&to="+to,
             processData: false,
             contentType: false,
             cache: false,
             timeout: 600000,
             
             success: function (response) {debugger
-                $('#loading').removeClass('loading');
+                
                 response = JSON.parse(response);
                 var html = ``;
                 
                 if(response && response.data.length > 0){
                     $(response.data).each(function(key, value){
-                        if(key == 0)
+                        if( key == response.data.length - 1 )
                             currentIndex = value.id;
                         html += `<p class="my-card">
                                 Month Year week ( Report for ) : `
@@ -102,9 +108,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             </p>`;
                     })    
                     
+                }else{
+                    html = `<br/><br/><h1 class="text-center"> No report found yet !`;
+                    $('#nextBtn').css('display', 'none');
                 }
 
                 $('#weeklyReportContent').html(html);
+                $('#loading').removeClass('loading');
                 
             },
             error : function(data,textStatus,errorMessage){
@@ -124,16 +134,17 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             timeout: 600000,
             
             success: function (response) {debugger
-                $('#loading').removeClass('loading');
+                
                 response = JSON.parse(response);
-                var html = ``;
                 if(response && response.length > 0){
                     totalCount = response.length;
-                    //currentIndex = response.length;
-                    renderPage(totalCount);
+                    if( totalCount < 10 ){
+                        renderPage(0,totalCount);
+                        return;
+                    }
                 }
-
-                $('#weeklyReportContent').html(html);
+                $('#loading').removeClass('loading');
+                renderPage( (totalCount - 10) ,totalCount);
                 
             },
             error : function(data,textStatus,errorMessage){
@@ -143,6 +154,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     };
 
     $(document).ready(function(){
+        $('#loading').addClass('loading');
         getAllNotifications();
     });
 </script>
