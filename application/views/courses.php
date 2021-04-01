@@ -54,7 +54,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		</div>
 
 		<div class="row">
-			<div class="col-sm-12">
+			<div class="col-sm-12" style="overflow: auto; white-space: nowrap;">
 				<h2 class="text-center">1<sup>st</sup> Year</h2>
 				<h1 class="text-center">ANNUAL DISTRIBUTION OF THE COURSES</h1>
 				<br/>
