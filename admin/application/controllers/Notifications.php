@@ -42,7 +42,7 @@ class Notifications extends CI_Controller {
                 }
             }
             if(  $data['isFileAttached'] == 1 ){
-                if( $fileName != "" ){
+                if( $fileName == "" ){
                     echo json_encode(["isSuccess"=> false,"errorCode"=>FILE_UPLOADING_ERROR]);
                     return;
                 }
@@ -64,15 +64,10 @@ class Notifications extends CI_Controller {
     }
 
     public function getAllNotifications(){
-        $data['page_title'] = 'Brand List';
-        if($this->session->userdata('admin_id') || $this->session->userdata('user_id')){
-            $this->session->set_userdata(['menuSelected'=>NOTIFICATIONS,'subMenu'=>NOTIFICATION_MANAGEMENT]);
-            $this->load->model('queries');            
-            $allNotification = $this->queries->getAllNotifications();
-            echo json_encode($allNotification);
-        }else{
-            return redirect ('notifications');
-        }
+        $this->session->set_userdata(['menuSelected'=>NOTIFICATIONS,'subMenu'=>NOTIFICATION_MANAGEMENT]);
+        $this->load->model('queries');            
+        $allNotification = $this->queries->getAllNotifications();
+        echo json_encode($allNotification);        
     }
 
     public function updateNotificationStatus(){

@@ -26,10 +26,11 @@
 					<div class="col-md-4 w3agile_footer_grid w3agile_footer_grid1">
 						<h3>Navigation</h3>
 						<ul>
+							<li><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><a href="<?php echo $this->config->base_url()?>">Homes</a></li>
 							<li><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><a href="courses">Courses</a></li>
-							<li><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><a href="services.html">Services</a></li>
-							<li><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><a href="icons.html">Web Icons</a></li>
-							<li><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><a href="mail.html">Mail Us</a></li>
+							<li><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><a href="weeklyReport">Weekly Attendance Report</a></li>
+							<li><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span><a href="<?php echo $this->config->base_url() ?>/admin">Admin Login</a></li>
+							
 						</ul>
 					</div>
 					<div class="clearfix"> </div>
