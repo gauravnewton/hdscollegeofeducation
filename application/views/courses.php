@@ -54,11 +54,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		</div>
 
 		<div class="row">
-			<div class="col-sm-12" style="overflow: auto; white-space: nowrap;">
+			<div class="col-sm-12" style="overflow: auto; white-space: nowrap;" >
 				<h2 class="text-center">1<sup>st</sup> Year</h2>
 				<h1 class="text-center">ANNUAL DISTRIBUTION OF THE COURSES</h1>
 				<br/>
-				<table class="table table-hover text-center table-bordered">
+				<table class="table table-hover text-center table-bordered" >
 					<thead>
 						<tr>
 							<th class="text-center">Course No.</th>
@@ -162,7 +162,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						</tr>
 						
 					</tbody>
-				</table>
+			</table>
 
 				<div class="col-sm-12 text-center"><i>* Engagement with the Field : Tasks and Assignments for Courses 1-6 & 7a.</i></div>
 				<br/>
@@ -170,7 +170,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<h2 class="text-center">2<sup>nd</sup> Year</h2>
 				<h1 class="text-center">ANNUAL DISTRIBUTION OF THE COURSES</h1>
 				<br/>
-				<table class="table table-hover text-center table-bordered">
+				<table class="table table-hover text-center table-bordered" >
 					<thead>
 						<tr>
 							<th class="text-center">Course No.</th>
@@ -260,9 +260,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<div class="text-center col-sm-12">
 					<i>** Engagement with the Field : Tasks and Assignments for Courses 7b & 8-10.<br> # One credit is equal to 16 hours for theory and for practicum 32 hours.</i>
 				</div>
-
+                <br/>
+                <br/>
+                <br/>
 				<div class="col-sm-12">
-					<b>Note : *** Optional Courses can be from among the following- Vacation.Work Education. Health and Physical Education, Peace Education, Guidance and Councelling , etc. <br> ## Al the EPC will be evaluated internally and records/projects will be verified by University Representatives.</b><br/><br/>
+					<b>Note : *** Optional Courses can be from among the following- Vacation.Work Education. <br/>Health and Physical Education, Peace Education, Guidance and Councelling , etc. <br> ## Al the EPC will be evaluated internally and records/projects will be verified by University Representatives.</b><br/><br/>
 				</div>
 			</div>
 		</div>
